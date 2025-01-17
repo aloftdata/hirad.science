@@ -12,8 +12,6 @@ Nature today: [Making wind energy safer for birds](https://www.naturetoday.com/n
 
 NRC: [Trekvogels moeten steeds vaker laveren tussen de maaiwieken van windturbines](https://www.nrc.nl/nieuws/2024/10/10/trekvogels-moeten-steeds-vaker-laveren-tussen-de-maaiwieken-van-windturbines-a4864356). **Interactive article**. 10 October 2024.
 
-Roef: [ROEF Podcast 2024](https://roefamsterdam.nl/podcast-roef-2024/). **Podcast**. 20 September 2024.
-
 Uva highlight: [Uncovering bird behaviour by scaling up and zooming in](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2024/09/uncovering-bird-behaviour-by-scaling-up-and-zooming-in.html). **Article**. 16 September 2024.
 
 Parool: [Zo kunnen we veel dode trekvogels voorkomen, maar is dat de gevolgen voor het klimaat waard?](https://www.parool.nl/nederland/zo-kunnen-we-veel-dode-trekvogels-voorkomen-maar-is-dat-de-gevolgen-voor-het-klimaat-waard~b3f8870a/). **Article**. 11 July 2024.

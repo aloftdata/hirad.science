@@ -5,7 +5,13 @@ permalink: /outreach/
 toc: true
 ---
 
+## 2025
+
+Alison J, Brick E, **Knop E**, Brydegaard M, Rolnick D (2025) [Automated Insect Monitoring Across Modalities](https://wildlabs.net/event/automated-insect-monitoring-across-modalities), 24 January 2025. _Webinar._
+
 ## 2024
+
+**Shamoun-Baranes J** (2024) [ROEF Podcast 2024](https://roefamsterdam.nl/podcast-roef-2024/), 20 September 2024. _Podcast._
 
 **Kranstauber B**, **Hoekstra B**, **Bauer S**, Dokter AM, **Desmet P**, van Gasteren H, **Haest B**, Leijnse H, Nilsson C, Schmid B, **Weisshaupt N**, **Shamoun-Baranes J** (2024) Your noise, our data: Current and future opportunities of weather radar for aeroecology. 12th European conference on RADar in meteorology and hydrology ([ERAD 2024](https://www.erad2024.it/)), Rome, Italy, 9-13 September 2024. _Accepted presentation._
 
