@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+**Desmet P**, **Hoekstra B**, Schmid B, **Bauer S**, **Huybrechts P**, **Nilsson C** (2025) [European data on animals aloft now publicly available](https://communities.springernature.com/posts/european-data-on-animals-aloft-now-publicly-available), 5 March 2025. _Blog post._
+
 Alison J, Brick E, **Knop E**, Brydegaard M, Rolnick D (2025) [Automated Insect Monitoring Across Modalities](https://wildlabs.net/event/automated-insect-monitoring-across-modalities), 24 January 2025. _Webinar._
 
 ## 2024
