@@ -8,6 +8,8 @@ toc: true
 
 ## 2025
 
+Deng Y, **Haest B**, Belotti MCTD, Zhao W, Perez G, **Tielens EK**, Sheldon DR, Maji S, Kelly JF, Horton KG (2025) Continental Connections: Changing Temperature, Wind and Precipitation Advance the Postbreeding Roosting Phenology of Avian Aerial Insectivores. _Global Ecology and Biogeography_, 34(5), e70052. <https://doi.org/10.1111/geb.70052>
+
 Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantifying nocturnal bird migration using acoustics: opportunities and challenges. _Remote Sensing in Ecology and Conservation_. <https://doi.org/10.1002/rse2.433>
 
 **Desmet P**, **Shamoun-Baranes J**, **Kranstauber B**, Dokter AM, **Weisshaupt N**, Schmid B, **Bauer S**, Haase G, **Hoekstra B**, **Huybrechts P**, Leijnse H, Noé N, Van Hoey S, Wijers B, **Nilsson C** (2025) Biological data derived from European weather radars. _Scientific Data_ 12, 361. <https://doi.org/10.1038/s41597-025-04641-5>
