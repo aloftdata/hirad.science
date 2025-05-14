@@ -7,10 +7,9 @@ toc: true
 
 ## 2025
 
-**Bauer S** WSL for all lecture/presentation: Global movements under global changes, Federal Research Institute WSL, Birmensdorf, Switzerland
+**Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025, _Lecture._
 
-**Bauer S**, **Tielens EK** 
-[Radars for insect monitoring](https://biocommunication.org/en/insects360/insect-biodiversity/radars-for-insect-monitoring/)
+**Bauer S**, **Tielens EK** (2025) [Radars for insect monitoring](https://biocommunication.org/en/insects360/insect-biodiversity/radars-for-insect-monitoring/), 24 April 2025. _Blog post._
 
 **Desmet P**, **Hoekstra B**, Schmid B, **Bauer S**, **Huybrechts P**, **Nilsson C** (2025) [European data on animals aloft now publicly available](https://communities.springernature.com/posts/european-data-on-animals-aloft-now-publicly-available), 5 March 2025. _Blog post._
 

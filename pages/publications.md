@@ -20,11 +20,11 @@ Jimenez MF, **Haest B**, Khalighifar A, Abbott AL, Feuka A, Liu A, Horton KG (20
 
 ## 2024
 
-**Bauer S**, **EK Tielens**, **B Haest** (2024). Monitoring aerial insect biodiversity: a radar perspective. _Philosophical Transactions of the Royal Society_ <https://doi.org/10.1098/rstb.2023.0113>
+**Bauer S**, **EK Tielens**, **B Haest** (2024) Monitoring aerial insect biodiversity: a radar perspective. _Philosophical Transactions of the Royal Society_. <https://doi.org/10.1098/rstb.2023.0113>
 
-R van Klink, J Koch Sheard, TT Hoye, T Roslin, LA Do Nascimento, **S Bauer** (2024). Towards a toolkit for global insect biodiversity monitoring. _Philosophical Transactions of the Royal Society_ <https://doi.org/10.1098/rstb.2023.0101>
+van Klink R, Koch Sheard J, Hoye TT, Roslin T, Do Nascimento LA, **S Bauer** (2024) Towards a toolkit for global insect biodiversity monitoring. _Philosophical Transactions of the Royal Society_. <https://doi.org/10.1098/rstb.2023.0101>
 
-**B Haest**, **F Liechti**, WL Hawkes, J Chapman, S Akesson, AP Nesterova, V Comor, D Preatoni, **S Bauer** (2024). Continental-scale patterns in diel flight timing of high-altitude migratory insects. _Philosophical Transactions of the Royal Society_ <https://doi.org/10.1098/rstb.2023.0116>
+**Haest B**, **Liechti F**, Hawkes WL, Chapman J, Akesson S, Nesterova AP, Comor V, Preatoni D, **Bauer S** (2024) Continental-scale patterns in diel flight timing of high-altitude migratory insects. _Philosophical Transactions of the Royal Society_. <https://doi.org/10.1098/rstb.2023.0116>
 
 **Kranstauber B**, Safi K, Scharf AK (2024) move2: R package for processing movement data. _Methods in Ecology and Evolution_ 00, 1–7. <https://doi.org/10.1111/2041-210X.14383>
 
