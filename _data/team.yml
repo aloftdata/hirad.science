@@ -51,16 +51,6 @@
   twitter: Birgen_Haest
   github: BirgenH
 
-- name: Will Hawkes
-  image: assets/images/will-hawkes.jpg
-  description: >
-    Will is an insect migration scientist based at the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/). His research involves using ground level trapping and radar techniques to investigate insect migration. He is fascinated by the life histories and identities of the insects, and loves telling the stories of these most remarkable of migrants.
-  orcid: 0000-0003-0661-7864
-  email: will.leo.hawkes@vogelwarte.ch
-  researchgate: Will-Hawkes
-  googlescholar: M7JFWUMAAAAJ
-  twitter: WillLeoHawkes
-
 - name: Bart Hoekstra
   image: assets/images/bart-hoekstra.jpg
   description: >
