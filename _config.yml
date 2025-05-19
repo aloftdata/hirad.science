@@ -9,7 +9,7 @@ social:
 # THEME SETTINGS
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish@3.1
-posts_on_home: false
+posts_on_home: 2
 archive_permalink: /news/
 github_edit: true
 colors:
