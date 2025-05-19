@@ -125,6 +125,14 @@
   github: cecilianilsson709
   bluesky: cnilsson.science
 
+- name: Øyvind Nyheim
+  image: assets/images/oyvind-nyheim.jpg
+  description: >
+    Øyvind is a PhD student at the Norwegian Institute for Nature Research (NINA) with a background in ecology. He uses weather radars to study large scale patterns of bird migration in Norway.
+  orcid: 0000-0002-9293-7145
+  email: oyvind.nyheim@nina.no
+  researchgate: Oyvind-Nyheim
+
 - name: Benjamin Rutschmann
   image: assets/images/benjamin-rutschmann.jpg
   description: >
