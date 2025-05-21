@@ -3,7 +3,7 @@ title: Productive coding sprint in Amsterdam
 description: At last week's coding sprint, we developed new functionality to process and explore data from both small-scale bird radars and weather radars. 
 author: Bart Kranstauber
 background:
-  img: /assets/backgrounds/2025-05-21-group-photo.jpg
+  img: /assets/backgrounds/2025-05-21-coding-sprint.jpg
   by: Judy Shamoun-Baranes
 tags: [WP2, meeting, software, open data]
 ---
