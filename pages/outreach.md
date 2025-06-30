@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+**Shamoun-Baranes J**, **Hoekstra B**, Shinneman S, **Kranstauber B**, De Groeve J, Bradarić M, Skyllas N, Wijers B, Rakhimberdiev E, Geisler J, Cappabianca R, Gadge SR, Manzo E (2025) [Het Grote Amsterdamse Vogel Spel](https://opdering.amsterdam/activity/stad-van-de-toekomst-op-de-ring/), Amsterdam, 21 June 2025. _Event._ 
+
 Biodiversa+ (2025) [Harnessing the full potential of early-warning systems and predictive scenarios building on innovative approaches to biodiversity monitoring](https://www.biodiversa.eu/2024/10/24/the-ability-of-scenarios-to-develop-cross-sectoral-capacities-and-support-foresight-and-anticipatory-governance-in-ensuring-ecosystem-resilience/). May 2025, _Policy brief._
 
 **Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025, _Lecture._
