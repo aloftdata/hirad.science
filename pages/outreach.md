@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+Biodiversa+ (2025) [Harnessing the full potential of early-warning systems and predictive scenarios building on innovative approaches to biodiversity monitoring](https://www.biodiversa.eu/2024/10/24/the-ability-of-scenarios-to-develop-cross-sectoral-capacities-and-support-foresight-and-anticipatory-governance-in-ensuring-ecosystem-resilience/). May 2025, _Policy brief._
+
 **Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025, _Lecture._
 
 **Bauer S**, **Tielens EK** (2025) [Radars for insect monitoring](https://biocommunication.org/en/insects360/insect-biodiversity/radars-for-insect-monitoring/), 24 April 2025. _Blog post._
