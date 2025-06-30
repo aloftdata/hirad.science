@@ -9,9 +9,13 @@ toc: true
 
 **Shamoun-Baranes J**, **Hoekstra B**, Shinneman S, **Kranstauber B**, De Groeve J, Bradarić M, Skyllas N, Wijers B, Rakhimberdiev E, Geisler J, Cappabianca R, Gadge SR, Manzo E (2025) [Het Grote Amsterdamse Vogel Spel](https://opdering.amsterdam/activity/stad-van-de-toekomst-op-de-ring/), Amsterdam, 21 June 2025. _Event._ 
 
-**Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025. _Lecture._
+Biodiversa+ (2025) [Harnessing the full potential of early-warning systems and predictive scenarios building on innovative approaches to biodiversity monitoring](https://www.biodiversa.eu/2024/10/24/the-ability-of-scenarios-to-develop-cross-sectoral-capacities-and-support-foresight-and-anticipatory-governance-in-ensuring-ecosystem-resilience/). May 2025, _Policy brief._
+
+**Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025, _Lecture._
 
 **Bauer S**, **Tielens EK** (2025) [Radars for insect monitoring](https://biocommunication.org/en/insects360/insect-biodiversity/radars-for-insect-monitoring/), 24 April 2025. _Blog post._
+
+**Desmet P**, **Liechti F**, and others (2025) [Move BON Planning Workshop](https://movementoflife.si.edu/move-bon-planning-workshop/), 19-21 March 2025. _Invited participation._
 
 **Desmet P**, **Hoekstra B**, **Bauer S**, **Huybrechts P**, **Nilsson C** (2025) [European data on animals aloft now publicly available](https://communities.springernature.com/posts/european-data-on-animals-aloft-now-publicly-available), 5 March 2025. _Blog post._
 
