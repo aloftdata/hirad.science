@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+**Shamoun-Baranes J**, **Hoekstra B**, Shinneman S, **Kranstauber B**, De Groeve J, Bradarić M, Skyllas N, Wijers B, Rakhimberdiev E, Geisler J, Cappabianca R, Gadge SR, Manzo E (2025) [Het Grote Amsterdamse Vogel Spel](https://opdering.amsterdam/activity/stad-van-de-toekomst-op-de-ring/), Amsterdam, 21 June, 2025, _Event._ 
+
 **Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025, _Lecture._
 
 **Bauer S**, **Tielens EK** (2025) [Radars for insect monitoring](https://biocommunication.org/en/insects360/insect-biodiversity/radars-for-insect-monitoring/), 24 April 2025. _Blog post._
