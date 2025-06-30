@@ -16,7 +16,7 @@ Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantifying nocturnal bird m
 
 **Weisshaupt N**, Harnist B, Koistinen J (2025) The Impact of Dealiasing Biases on Bird and Insect Data Products of C-Band Weather Radars and Consequences for Aeroecological Applications. _Remote Sensing_ 17(3), 436. <https://doi.org/10.3390/rs17030436>
 
-Jimenez MF, **Haest B**, Khalighifar A, Abbott AL, Feuka A, Liu A, Horton KG (2025) Quantifying range- and topographical biases in weather surveillance radar measures of migratory bird activity. _Remote Sensing in Ecology and Conservation_. <https://doi.org/10.1002/rse2.423>
+Jimenez MF, **Haest B**, Khalighifar A, Abbott AL, Feuka A, Liu A, Horton KG (2025) Quantifying range- and topographical biases in weather surveillance radar measures of migratory bird activity. _Remote Sensing in Ecology and Conservation_ 11(3), 282-293. <https://doi.org/10.1002/rse2.423>
 
 ## 2024
 
