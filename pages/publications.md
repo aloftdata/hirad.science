@@ -8,6 +8,8 @@ toc: true
 
 ## 2025
 
+**Bauer S**, Lancaster LT, Zimmermann NE (2025) Towards a sustainable energy transition. _Journal of Applied Ecology_, 62: 1570-1578. <https://doi.org/10.1111/1365-2664.70075>
+
 Deng Y, **Haest B**, Belotti MCTD, Zhao W, Perez G, **Tielens EK**, Sheldon DR, Maji S, Kelly JF, Horton KG (2025) Continental Connections: Changing Temperature, Wind and Precipitation Advance the Postbreeding Roosting Phenology of Avian Aerial Insectivores. _Global Ecology and Biogeography_, 34(5), e70052. <https://doi.org/10.1111/geb.70052>
 
 Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantifying nocturnal bird migration using acoustics: opportunities and challenges. _Remote Sensing in Ecology and Conservation_. <https://doi.org/10.1002/rse2.433>
