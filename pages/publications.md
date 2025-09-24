@@ -8,6 +8,8 @@ toc: true
 
 ## 2025
 
+**Nilsson C**, **Shamoun-Baranes J**, Satterfield DA, Sjöberg S, Cohen EB (2025) Animal niches in the airspace. _Trends in Ecology & Evolution_, 0169-5347. <https://doi.org/10.1016/j.tree.2025.08.006>
+
 **Bauer S**, Lancaster LT, Zimmermann NE (2025) Towards a sustainable energy transition. _Journal of Applied Ecology_, 62: 1570-1578. <https://doi.org/10.1111/1365-2664.70075>
 
 Deng Y, **Haest B**, Belotti MCTD, Zhao W, Perez G, **Tielens EK**, Sheldon DR, Maji S, Kelly JF, Horton KG (2025) Continental Connections: Changing Temperature, Wind and Precipitation Advance the Postbreeding Roosting Phenology of Avian Aerial Insectivores. _Global Ecology and Biogeography_, 34(5), e70052. <https://doi.org/10.1111/geb.70052>
