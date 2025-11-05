@@ -8,6 +8,8 @@ toc: true
 
 ## 2025
 
+**Hoekstra B**, **Kranstauber B**, Bradarić M, De Groeve J, Shinneman S, Wijers BC, Leijnse H, **van Gasteren H**, Dokter AM, van Loon E, **Shamoun-Baranes J** (2025) Large-scale mapping of nocturnal bird migration to accelerate a nature-inclusive energy transition. _Journal of Environmental Management_, 395, 127753. <https://doi.org/10.1016/j.jenvman.2025.127753>
+
 **Nilsson C**, **Shamoun-Baranes J**, Satterfield DA, Sjöberg S, Cohen EB (2025) Animal niches in the airspace. _Trends in Ecology & Evolution_, 0169-5347. <https://doi.org/10.1016/j.tree.2025.08.006>
 
 **Bauer S**, Lancaster LT, Zimmermann NE (2025) Towards a sustainable energy transition. _Journal of Applied Ecology_, 62: 1570-1578. <https://doi.org/10.1111/1365-2664.70075>
