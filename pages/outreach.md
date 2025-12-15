@@ -9,6 +9,8 @@ toc: true
 
 Béasse S, Sallé L, Coiffard P, **Haest B** (2025). Quantification de la migration nocturne des oiseaux par acoustique: opportunités et défis. [Colloque Francophone d'Ornithologie 2025](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/colloque-francophone-d-ornithologie-2025), Paris, 4-6 December 2025. _Accepted presentation._
 
+**Nilsson C** (2025) [Naturmorgon](https://www.sverigesradio.se/artikel/snart-sovdags-for-bjornen-och-om-goda-och-giftiga-svampar), Stockholm, 11 October 2025. _Radio interview._
+
 **Shamoun-Baranes J**, **Hoekstra B**, Shinneman S, **Kranstauber B**, De Groeve J, Bradarić M, Skyllas N, Wijers B, Rakhimberdiev E, Geisler J, Cappabianca R, Gadge SR, Manzo E (2025) [Het Grote Amsterdamse Vogel Spel](https://opdering.amsterdam/activity/stad-van-de-toekomst-op-de-ring/), Amsterdam, 21 June 2025. _Event._ 
 
 **Bauer S**, **Desert T**, **Desmet P**, **Farnsworth A**, **Haest B**, **Hoekstra B**, **Huybrechts P**, **Kleger D**, **Kranstauber B**, **Knop E**, **Liechti F**, **Metz IC**, **Nilsson C**, **Rutschmann B**, **Tielens EK**, **van Gasteren H**, **Weisshaupt N**, **Shamoun-Baranes J** presented by Zilber R (2025) Radar-based approaches for monitoring Aerial bioDiversity, [Biodiversity Monitoring Science Fair](https://www.biodiversa.eu/2025/06/19/event-connecting-people-technology-and-data-for-biodiversity-monitoring/), Barcelona, 21-22 May 2025. _[Poster](/assets/documents/HiRAD_science_fair_poster_final.pdf)._
