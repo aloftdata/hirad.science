@@ -26,6 +26,8 @@ Jimenez MF, **Haest B**, Khalighifar A, Abbott AL, Feuka A, Liu A, Horton KG (20
 
 ## 2024
 
+**Hoekstra B**, Shinneman S, De Groeve J, Wijers BC, **Kranstauber B**, **Shamoun-Baranes J** (2024) Vogeltrek in kaart brengen met weer- & vogelradars. University of Amsterdam. Report. <https://doi.org/10.21942/uva.25983196> ([pdf report](https://uvaauas.figshare.com/ndownloader/files/47299579))
+
 **Bauer S**, **EK Tielens**, **B Haest** (2024) Monitoring aerial insect biodiversity: a radar perspective. _Philosophical Transactions of the Royal Society_. <https://doi.org/10.1098/rstb.2023.0113>
 
 van Klink R, Koch Sheard J, Hoye TT, Roslin T, Do Nascimento LA, **S Bauer** (2024) Towards a toolkit for global insect biodiversity monitoring. _Philosophical Transactions of the Royal Society_. <https://doi.org/10.1098/rstb.2023.0101>
