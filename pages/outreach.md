@@ -44,3 +44,5 @@ Leijnse H, **Hoekstra B**, **Kranstauber B**, Haase G, Stephan K, **Bauer S**, *
 **Kleger D**, **Bauer S**, **Haest B**, **Liechti F** (2024) The next generation of aerial biodiversity monitoring. 4th International Radar Aeroecology Conference ([IRAC 2024](https://sites.udel.edu/aeroecologyprogram/irac2024/)), Delaware, USA, 8-9 August 2024. _Accepted presentation._
 
 **Haest B**, **Liechti F**, **Bauer S** (2024) Monitoring aerial biodiversity using a network of small-scale biological radars. 7th European Congress of Conservation Biology, Bologna, Italy, 16-21 June 2024. _Invited talk._
+
+**Hoekstra B**, Shinneman S, De Groeve J, Wijers BC, **Kranstauber B**, **Shamoun-Baranes J** (2024) Vogeltrek in kaart brengen met weer- & vogelradars. University of Amsterdam, June 2024. <https://doi.org/10.21942/uva.25983196> ([pdf](https://uvaauas.figshare.com/ndownloader/files/47299579)). _Final report._
