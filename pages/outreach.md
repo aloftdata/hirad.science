@@ -15,7 +15,7 @@ Béasse S, Sallé L, Coiffard P, **Haest B** (2025). Quantification de la migrat
 
 **Bauer S**, **Desert T**, **Desmet P**, **Farnsworth A**, **Haest B**, **Hoekstra B**, **Huybrechts P**, **Kleger D**, **Kranstauber B**, **Knop E**, **Liechti F**, **Metz IC**, **Nilsson C**, **Rutschmann B**, **Tielens EK**, **van Gasteren H**, **Weisshaupt N**, **Shamoun-Baranes J** presented by Zilber R (2025) Radar-based approaches for monitoring Aerial bioDiversity, [Biodiversity Monitoring Science Fair](https://www.biodiversa.eu/2025/06/19/event-connecting-people-technology-and-data-for-biodiversity-monitoring/), Barcelona, 21-22 May 2025. _[Poster](/assets/documents/HiRAD_science_fair_poster_final.pdf)._
 
-Biodiversa+ (2025) [Harnessing the full potential of early-warning systems and predictive scenarios building on innovative approaches to biodiversity monitoring](https://www.biodiversa.eu/2024/10/24/the-ability-of-scenarios-to-develop-cross-sectoral-capacities-and-support-foresight-and-anticipatory-governance-in-ensuring-ecosystem-resilience/). May 2025, _Policy brief._
+Biodiversa+ (with contributions from **Silke S**, **Kranstauber B** and **Farnsworth A**) (2025) [Harnessing the full potential of early-warning systems and predictive scenarios building on innovative approaches to biodiversity monitoring](https://www.biodiversa.eu/2024/10/24/the-ability-of-scenarios-to-develop-cross-sectoral-capacities-and-support-foresight-and-anticipatory-governance-in-ensuring-ecosystem-resilience/). May 2025, _Policy brief._
 
 **Bauer S** (2025) Global movements under global changes. Birmensdorf, Switzerland, 8 May 2025, _Lecture._
 
