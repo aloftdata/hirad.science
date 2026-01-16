@@ -45,4 +45,4 @@ Hawkes WL, Selinger F, Keišs O, **Haest B** (2024) The relationship between aer
 
 **Haest B**, **Liechti F**, **Bauer S** (2024) Monitoring aerial biodiversity using a network of small-scale biological radars. 7th European Congress of Conservation Biology, Bologna, Italy, 16-21 June 2024. _Invited talk._
 
-**Hoekstra B**, Shinneman S, De Groeve J, Wijers BC, **Kranstauber B**, **Shamoun-Baranes J** (2024) Vogeltrek in kaart brengen met weer- & vogelradars. University of Amsterdam, June 2024. <https://doi.org/10.21942/uva.25983196> ([pdf](https://uvaauas.figshare.com/ndownloader/files/47299579)). _Final report._
+**Hoekstra B**, Shinneman S, De Groeve J, Wijers BC, **Kranstauber B**, **Shamoun-Baranes J** (2024) Vogeltrek in kaart brengen met weer- & vogelradars. University of Amsterdam, June 2024. <https://doi.org/10.21942/uva.25983196> _[Final report](https://uvaauas.figshare.com/ndownloader/files/47299579)._
