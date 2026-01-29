@@ -7,7 +7,7 @@ toc: true
 
 ## 2025
 
-Béasse S, Sallé L, Coiffard P, **Haest B** (2025). Quantification de la migration nocturne des oiseaux par acoustique: opportunités et défis. [Colloque Francophone d'Ornithologie 2025](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/colloque-francophone-d-ornithologie-2025), Paris, 4-6 December 2025. _Accepted presentation._
+Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantification de la migration nocturne des oiseaux par acoustique: opportunités et défis. [Colloque Francophone d'Ornithologie 2025](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/colloque-francophone-d-ornithologie-2025), Paris, 4-6 December 2025. _Accepted presentation._
 
 **Nilsson C** (2025) [Naturmorgon](https://www.sverigesradio.se/artikel/snart-sovdags-for-bjornen-och-om-goda-och-giftiga-svampar), Stockholm, 11 October 2025. _Radio interview._
 
