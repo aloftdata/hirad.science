@@ -9,7 +9,7 @@ toc: true
 
 EUMETNET has recently updated the list of OPERA member countries that grant access to single site radar data and data products. Cyprus, Greece, Hungary, Iceland, Ireland, Latvia, Lithuania, Malta, Romania, and Serbia have joined the agreement. Israel has left.
 
-As with all countries in the agreement, PVOL data (if available) are processed by BALTRAD to VPTS data. Those **VPTS data** are subsequently synchronized to the [Aloft data portal](https://aloftdata.eu/browse/). See [Desmet et al. (2025)](https://doi.org/10.1038/s41597-025-04641-5) for more information on the process. Data became available on **2025-12-09** for most of the new countries.
+As with all countries in the agreement, PVOL data (if available) are processed by BALTRAD to VPTS data. Those **VPTS data** are subsequently synchronized to the [Aloft data portal](https://aloftdata.eu/browse/). See [Desmet et al. (2025)](https://doi.org/10.1038/s41597-025-04641-5) for more information on the process. Note that the presence and quality of biological signals has not been evaluated. Data became available on **2025-12-09** for most of the new countries.
 
 ## Additional countries
 
