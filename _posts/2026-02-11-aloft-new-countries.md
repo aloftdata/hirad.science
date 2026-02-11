@@ -13,19 +13,19 @@ As with all countries in the agreement, PVOL data (if available) are processed b
 
 ## Additional countries
 
-You can explore the new data in [CROW](https://crow.aloftdata.eu/#/). We also enabled access to new radars from existing countries ([dksam](https://crow.aloftdata.eu/#/?radar=dksam), [ptflr](https://crow.aloftdata.eu/#/?radar=ptflr), [ptsmg](https://crow.aloftdata.eu/#/?radar=ptsmg), [sevax](https://crow.aloftdata.eu/#/?radar=sevax)) ([aloftdata/crow#21](https://github.com/aloftdata/crow/pull/21)).
+You can explore the new data in [CROW](https://crow.aloftdata.eu/#/). We also enabled access to new radars from existing countries ([`dksam`](https://crow.aloftdata.eu/#/?radar=dksam), [`ptflr`](https://crow.aloftdata.eu/#/?radar=ptflr), [`ptsmg`](https://crow.aloftdata.eu/#/?radar=ptsmg), [`sevax`](https://crow.aloftdata.eu/#/?radar=sevax)) ([aloftdata/crow#21](https://github.com/aloftdata/crow/pull/21)).
 
 Country | Radars with data
 --- | ---
 Cyprus | no data yet
-Greece | [grand](https://crow.aloftdata.eu/#/?radar=grand)
-Hungary | [hubud](https://crow.aloftdata.eu/#/?radar=hubud), [huhar](https://crow.aloftdata.eu/#/?radar=huhar), [hunap](https://crow.aloftdata.eu/#/?radar=hunap), [hupog](https://crow.aloftdata.eu/#/?radar=hupog), [husze](https://crow.aloftdata.eu/#/?radar=husze)
-Iceland | [isbjo](https://crow.aloftdata.eu/#/?radar=isbjo), [iskef](https://crow.aloftdata.eu/#/?radar=iskef), [isska](https://crow.aloftdata.eu/#/?radar=isska)
-Ireland | [iesha](https://crow.aloftdata.eu/#/?radar=iesha)
+Greece | [`grand`](https://crow.aloftdata.eu/#/?radar=grand)
+Hungary | [`hubud`](https://crow.aloftdata.eu/#/?radar=hubud), [`huhar`](https://crow.aloftdata.eu/#/?radar=huhar), [`hunap`](https://crow.aloftdata.eu/#/?radar=hunap), [`hupog`](https://crow.aloftdata.eu/#/?radar=hupog), [`husze`](https://crow.aloftdata.eu/#/?radar=husze)
+Iceland | [`isbjo`](https://crow.aloftdata.eu/#/?radar=isbjo), [`iskef`](https://crow.aloftdata.eu/#/?radar=iskef), [`isska`](https://crow.aloftdata.eu/#/?radar=isska)
+Ireland | [`iesha`](https://crow.aloftdata.eu/#/?radar=iesha)
 Latvia | no data yet
-Lithuania | [ltlau](https://crow.aloftdata.eu/#/?radar=ltlau), [ltvil](https://crow.aloftdata.eu/#/?radar=ltvil)
+Lithuania | [`ltlau`](https://crow.aloftdata.eu/#/?radar=ltlau), [`ltvil`](https://crow.aloftdata.eu/#/?radar=ltvil)
 Malta | no data yet
-Romania | [robar](https://crow.aloftdata.eu/#/?radar=robar), [robob](https://crow.aloftdata.eu/#/?radar=robob), [robuc](https://crow.aloftdata.eu/#/?radar=robuc), [rocra](https://crow.aloftdata.eu/#/?radar=rocra), [romed](https://crow.aloftdata.eu/#/?radar=romed), [roora](https://crow.aloftdata.eu/#/?radar=roora), [rotim](https://crow.aloftdata.eu/#/?radar=rotim)
+Romania | [`robar`](https://crow.aloftdata.eu/#/?radar=robar), [`robob`](https://crow.aloftdata.eu/#/?radar=robob), [`robuc`](https://crow.aloftdata.eu/#/?radar=robuc), [`rocra`](https://crow.aloftdata.eu/#/?radar=rocra), [`romed`](https://crow.aloftdata.eu/#/?radar=romed), [`roora`](https://crow.aloftdata.eu/#/?radar=roora), [`rotim`](https://crow.aloftdata.eu/#/?radar=rotim)
 Serbia | no data yet
 
 ## Radar metadata update
@@ -34,11 +34,11 @@ As part of this update, we synchronized [radar metadata](https://aloftdata.eu/ra
 
 Location | Previous code | Current code | Year(s) of change
 --- | --- | --- | ---
-Puntijarka | HRZAG | [HRPUN](https://aloftdata.eu/radars/#hrpun) | 2021/2024
-Sierra de Fuentes (Caceres) | ESBAD | [ESSFT](https://aloftdata.eu/radars/#essft) | 2023/2025
-Corbera (Barcelona) | ESBAR | [ESGLD](https://aloftdata.eu/radars/#esgld) | 2023/2025
-Torrejon de Velasco (Madrid) | ESMAD | [ESTJV](https://aloftdata.eu/radars/#estjv) | 2023/2025
-Alhaurin el Grande (Malaga) | ESMAL | [ESAHR](https://aloftdata.eu/radars/#esahr) | 2023/2025
+Puntijarka | `hrzag` | [`hrpun`](https://aloftdata.eu/radars/#hrpun) | 2021/2024
+Sierra de Fuentes (Caceres) | `esbad` | [`essft`](https://aloftdata.eu/radars/#essft) | 2023/2025
+Corbera (Barcelona) | `esbar` | [`esgld`](https://aloftdata.eu/radars/#esgld) | 2023/2025
+Torrejon de Velasco (Madrid) | `esmad` | [`estjv`](https://aloftdata.eu/radars/#estjv) | 2023/2025
+Alhaurin el Grande (Malaga) | `esmal` | [`esahr`](https://aloftdata.eu/radars/#esahr) | 2023/2025
 
 See [Table 2](https://www.nature.com/articles/s41597-025-04641-5/tables/2) in Desmet et al. (2025) for previous code changes.
 
