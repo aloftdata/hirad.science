@@ -13,7 +13,7 @@ As with all countries in the agreement, PVOL data (if available) are processed b
 
 ## Additional countries
 
-You can explore the new data in [CROW](https://crow.aloftdata.eu/#/). We also enabled access to new radars from existing countries ([dksam](https://crow.aloftdata.eu/#/?radar=dksam), [ptflr](https://crow.aloftdata.eu/#/?radar=ptflr), [sevax](https://crow.aloftdata.eu/#/?radar=sevax)).
+You can explore the new data in [CROW](https://crow.aloftdata.eu/#/). We also enabled access to new radars from existing countries ([dksam](https://crow.aloftdata.eu/#/?radar=dksam), [ptflr](https://crow.aloftdata.eu/#/?radar=ptflr), [ptsmg](https://crow.aloftdata.eu/#/?radar=ptsmg), [sevax](https://crow.aloftdata.eu/#/?radar=sevax)) ([aloftdata/crow#21](https://github.com/aloftdata/crow/pull/21)).
 
 Country | Radars with data
 --- | ---
@@ -30,7 +30,7 @@ Serbia | no data yet
 
 ## Radar metadata update
 
-As part of this update, we synchronized [radar metadata](https://aloftdata.eu/radars/) from the source files maintained by OPERA. Five radar stations have changed codes:
+As part of this update, we synchronized [radar metadata](https://aloftdata.eu/radars/) from the source files maintained by OPERA ([aloftdata/aloftdata.eu#22](https://github.com/aloftdata/aloftdata.eu/pull/22)). Five radar stations have changed codes:
 
 Location | Previous code | Current code | Year(s) of change
 --- | --- | --- | ---
