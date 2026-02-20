@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Silke Bauer
-  role: Project coordinator / WP 5 leader
+  role: Project coordinator / WP5 leader
   image: assets/images/silke-bauer.jpg
   description: >
     Animal migrations, especially their large scale patterns and timing are Silke’s core research interest. Although much of her research has been devoted to migrants and migrations themselves, it increasingly also recognizes that migrants can have a multitude of effects and interact with the resident communities visited during their journeys. Silke is a researcher at the [Federal Research Institute (WSL)](https://www.wsl.ch).
@@ -20,7 +20,7 @@
   researchgate: Thibault-Desert
 
 - name: Peter Desmet
-  role: WP 1 leader
+  role: WP1 leader
   image: https://avatars1.githubusercontent.com/u/600993?s=460&v=4
   description: >
     Peter is passionate about open data and open science. He works as open data coordinator for the [Open science lab for biodiversity](https://oscibio.inbo.be) at the Research Institute for Nature and Forest (INBO).
@@ -40,7 +40,7 @@
   googlescholar: ipk79FsAAAAJ
 
 - name: Birgen Haest
-  role: WP 4 leader
+  role: WP4 leader
   image: assets/images/birgen-haest.jpg
   description: >
     Birgen is a computational ecologist studying animal migration. As a research associate at the [Swiss Ornithological Institute](https://www.vogelwarte.ch/en/home/), he uses radar to quantify the migratory movements of insects, bats, and birds, and understand the drivers thereof.
@@ -80,7 +80,7 @@
 - name: Eva Knop
   image: assets/images/eva-knop.jpg
   description: >
-    Eva studies the ecological consequences of global land-use and climate change, with a particular focus on insects. On the one hand, she is interested in the large-scale spatio-temporal patterns and processes of those changes within and across ecosystems. On the other hand, on a smaller scale she studies the underlying mechanisms of the changes in an experimental way. Eva Knop is based at [Agroscope](https://www.agroscope.admin.ch/) and associated with the [University of Zürich](https://www.knoplab.ch).
+    [Eva](https://www.knoplab.ch) studies biodiversity, species interactions, and ecosystem functioning across different spatio-temporal scales and in a global change, with a particular focus on insects. Eva is full professor for Conservation Biology at the University of Regensburg and adjunct professor for Biodiversity and Global Change at the University of Zurich.
   orcid: 0000-0001-9402-2216
   email: eva.knop@ieu.uzh.ch
   researchgate: E-Knop
@@ -88,7 +88,7 @@
   twitter: eva_knop
 
 - name: Bart Kranstauber
-  role: WP 2 leader
+  role: WP2 leader
   image: assets/images/bart-kranstauber.jpg
   description: >
     Bart is a computational ecologist interested in space use and movement, in recent years he has used radars to study movement patterns in air space and developed predictive models for bird migration. Currently Bart is based at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) of the University of Amsterdam.
@@ -143,7 +143,7 @@
   googlescholar: J61BDM0AAAAJ
 
 - name: Judy Shamoun-Baranes
-  role: WP 5 leader
+  role: WP5 leader
   image: assets/images/judy-shamoun-baranes.jpg
   description: >
     Judy is an ecologist fascinated by animal movement and especially avian flight. Her research aims at understanding how intrinsic and external factors influence animal movement and the short and long term consequences of movement strategies. Judy is a professor at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) at the University of Amsterdam. 
@@ -164,7 +164,7 @@
   twitter: hvangasteren
 
 - name: Nadja Weisshaupt
-  role: WP 3 leader
+  role: WP3 leader
   image: assets/images/nadja-weisshaupt.jpg
   description: >
     Nadja’s main research interests are bird migration and conservation. She has used a wide range of bird monitoring data and techniques, including various remote sensing tools. She works as a radar ornithologist at the [Finnish Meteorological Institute](https://www.ilmatieteenlaitos.fi/) developing aeroecological methodologies and services for various user groups.

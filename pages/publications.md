@@ -8,9 +8,15 @@ toc: true
 
 ## 2025
 
+**Hoekstra B**, **Kranstauber B**, Bradarić M, De Groeve J, Shinneman S, Wijers BC, Leijnse H, **van Gasteren H**, Dokter AM, van Loon E, **Shamoun-Baranes J** (2025) Large-scale mapping of nocturnal bird migration to accelerate a nature-inclusive energy transition. _Journal of Environmental Management_, 395, 127753. <https://doi.org/10.1016/j.jenvman.2025.127753>
+
+**Nilsson C**, **Shamoun-Baranes J**, Satterfield DA, Sjöberg S, Cohen EB (2025) Animal niches in the airspace. _Trends in Ecology & Evolution_, 0169-5347. <https://doi.org/10.1016/j.tree.2025.08.006>
+
+**Bauer S**, Lancaster LT, Zimmermann NE (2025) Towards a sustainable energy transition. _Journal of Applied Ecology_, 62: 1570-1578. <https://doi.org/10.1111/1365-2664.70075>
+
 Deng Y, **Haest B**, Belotti MCTD, Zhao W, Perez G, **Tielens EK**, Sheldon DR, Maji S, Kelly JF, Horton KG (2025) Continental Connections: Changing Temperature, Wind and Precipitation Advance the Postbreeding Roosting Phenology of Avian Aerial Insectivores. _Global Ecology and Biogeography_, 34(5), e70052. <https://doi.org/10.1111/geb.70052>
 
-Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantifying nocturnal bird migration using acoustics: opportunities and challenges. _Remote Sensing in Ecology and Conservation_. <https://doi.org/10.1002/rse2.433>
+Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantifying nocturnal bird migration using acoustics: opportunities and challenges. _Remote Sensing in Ecology and Conservation_ 11(4), 425-437. <https://doi.org/10.1002/rse2.433>
 
 **Desmet P**, **Shamoun-Baranes J**, **Kranstauber B**, Dokter AM, **Weisshaupt N**, Schmid B, **Bauer S**, Haase G, **Hoekstra B**, **Huybrechts P**, Leijnse H, Noé N, Van Hoey S, Wijers B, **Nilsson C** (2025) Biological data derived from European weather radars. _Scientific Data_ 12, 361. <https://doi.org/10.1038/s41597-025-04641-5>
 
