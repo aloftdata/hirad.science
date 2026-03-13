@@ -5,6 +5,14 @@ permalink: /outreach/
 toc: true
 ---
 
+## 2026
+
+**Kranstauber B** (2026) The relevance of understanding, mapping and predicting bird movement for wind energy. [Team epoch AI Cup 2026](https://www.teamepoch.ai/ai-cup-2026), Delft, 13 February 2026. _Invited presentation_{:.badge .bg-secondary}
+
+**Kranstauber B**, **van Gasteren H**, **Hoekstra B**, Bradarić M, De Groeve J, van Erp J, **Shamoun-Baranes J** (2026) Directional patterns of nocturnal bird migration over the Netherlands: Insights from combining bird radars. Netherlands Annual Ecology Meeting ([NAEM 2026](https://www.nern.nl/meetings)), Lunteren, 10-11 February 2026. _Accepted presentation_{:.badge .bg-secondary}
+
+**Shamoun-Baranes J**, **Kranstauber B**, Shinneman S (2025) Radar aeroecology booth. [Deep Tech Day](https://ibed.uva.nl/shared/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2026/02/bringing-business-and-science-together-at-the-deep-tech-day.html), Amsterdam, 28 January 2026. _Booth at event_{:.badge .bg-secondary}
+
 ## 2025
 
 Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantification de la migration nocturne des oiseaux par acoustique: opportunités et défis. [Colloque Francophone d'Ornithologie 2025](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/colloque-francophone-d-ornithologie-2025), Paris, 4-6 December 2025. _Accepted talk_{:.badge .bg-secondary}
