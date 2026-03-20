@@ -19,6 +19,7 @@ Finding a hotel in Amsterdam can be challenging, please see a list of possible h
 - [Hotel Casa](https://hotelcasa.nl/)
 - [Hotel V Oosterpark](https://hotelv.com/nl/stay/oosterpark)
 - [Q-factory hotel](https://q-factory.com/en/hotel)
+- [Meininger hotel](https://www.meininger-hotels.com/en/hotels/amsterdam/hotel-amsterdam-amstel/) (includes dorm rooms)
 
 **Hotels in the city centre** (a bit further)
 
