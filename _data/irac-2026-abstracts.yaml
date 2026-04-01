@@ -9,7 +9,14 @@
   - Spatial temporal movement processes
   title: 'WaterFowl Alert Network: Predicting waterfowl distributions within major
     flyways of the USA from models trained on weather surveillance radar data'
-  authors: Tristan Bond; Shane Feirer; Joseph Gendreau; Matthew Hardy; Jaclyn Smolinsky; Maurice Pitesky
+  authors:
+  - Jeffrey Buler
+  - Tristan Bond
+  - Shane Feirer
+  - Joseph Gendreau
+  - Matthew Hardy
+  - Jaclyn Smolinsky
+  - Maurice Pitesky
   abstract: Wild waterfowl pose a risk for transmission of avian influenza to commercial
     poultry, particularly during winter months in the United States. We developed
     the WaterFowl Alert Network web application; an automated early-warning system
@@ -42,7 +49,12 @@
   - Spatial temporal movement processes
   title: Simulation-informed migration forecasting to improve and understand predictions
     of rare migration peaks
-  authors: Emiel van Loon; Bart Kranstauber; Cecilia Nilsson; Judy Shamoun-Baranes
+  authors:
+  - Bart Hoekstra
+  - Emiel van Loon
+  - Bart Kranstauber
+  - Cecilia Nilsson
+  - Judy Shamoun-Baranes
   abstract: |-
     Dynamic aeroconservation relies on timely and accurate forecasts of migration peaks, for example to support curtailment decisions in wind energy. While the broader seasonal dynamics of bird migration can be predicted reasonably well with the use of weather radar data, accurately forecasting the timing and intensity of migration peaks remains challenging. A key reason is the rare nature of these events, which makes it difficult for statistical and machine learning approaches to learn the conditions under which migration peaks occur. One way to address this limitation is to guide machine learning models towards a more biologically realistic environmental search space, informed by theoretical movement models.
 
@@ -61,7 +73,10 @@
   - Weather radar
   - Methodological advances
   title: Inverse estimation of vertical profiles in bioRad
-  authors: Fengyi Guo; Raphaël Nussbaumer
+  authors:
+  - Adriaan Dokter
+  - Fengyi Guo
+  - Raphaël Nussbaumer
   abstract: |
     Vertical profiles are widely used to quantify the density, speed, and direction of aerial taxa with weather radar. Most profiling methods only use data from ranges up to 25-35 kilometers, to prevent excessive vertical smoothing and loss of altitude resolution caused by the rapidly increasing beam width with distance from the radar.. This short maximum range has limitations, such as a limited surveyed volume and a low upper altitude, especially for volume coverage patterns lacking high elevation sweeps.
 
@@ -81,7 +96,11 @@
   - Biodiversity monitoring
   title: 'How radar distance influences detectability and migration traffic rates:
     an experiment using a Detect Merlin True 3D radar at the Strait of Gibraltar'
-  authorsbefore: Gonzalo M. Arroyo; Javier Vidao; Alba Márquez-Rodríguez
+  authors:
+  - Gonzalo Munoz Arroyo
+  - Javier Vidao
+  - Alba Márquez-Rodríguez
+  - Andrés De la Cruz
   abstract: "Bird radars are increasingly used to investigate avian migration, yet distance-dependent detectability remains a major source of bias in estimates of migration traffic rates (MTR). Calibrating radar performance across distances is therefore essential to identify the spatial range that best represents true migratory fluxes. We evaluated MTR consistency across multiple distance bands using a Merlin True 3D deployed at the Strait of Gibraltar, a key migratory bottleneck between Europe and Africa.\n\n\n\n
     We analysed hourly radar data recorded at four concentric distance bands (1, 2, 3, and 4 km from the radar). Detectability was quantified as the proportion of detected echoes at each distance relative to the nightly maximum across all distances. Differences among distances were assessed using Friedman tests with paired post-hoc comparisons. Distance-dependent patterns were further modelled using a generalized additive mixed model fitted to logit-transformed detectability proportions, including a smooth term for distance and a random intercept for night. Consistency among distance bands was evaluated using Spearman rank correlations of hourly MTR values.\n\n\n\n
     Radar detectability declined sharply and non-linearly with distance. Median detectability decreased from 1.00 at 1 km to 0.41 at 2 km, 0.17 at 3 km and 0.07 at 4 km, with all pairwise differences highly significant. The additive mixed model confirmed a strong non-linear effect of distance, explaining over 80% of the deviance. Consistent with this pattern, MTR correlations were strong between adjacent distance bands (Spearman’s ρ = 0.82 between 1 and 2 km; ρ = 0.83 between 2 and 3 km) but weakened markedly between the closest and farthest ranges (ρ = 0.26 between 1 and 4 km).\n\n\n\n
@@ -98,7 +117,12 @@
   - Other radar
   - Animal behaviour
   title: Novel Harmonic Radar Tools for Tracking Flying Insects
-  authors: Andrei Mogilnikov; Greg Storz; Graeme Woodward; Stephen Pawson
+  authors:
+  - Anastasia Lavrenko
+  - Andrei Mogilnikov
+  - Greg Storz
+  - Graeme Woodward
+  - Stephen Pawson
   abstract: |-
     The rapid decline of insect populations has intensified the need for robust tools capable of resolving fine-scale movement and habitat use across a wide range of flying and terrestrial species. However, existing tracking technologies remain severely constrained by tag mass, power requirements, and limited suitability for small invertebrates. Harmonic radar offers a unique solution by enabling the use of ultra-lightweight, battery-free tags, yet its broader adoption has been limited by the availability of flexible, field-deployable systems and validated performance data under realistic ecological conditions.
 
@@ -118,10 +142,16 @@
   keywords:
   - Weather radar
   - Methodological advances
-  title: Using the new `getRad` R package to process open weather radar data in an
+  title: Using the new getRad R package to process open weather radar data in an
     operational pipeline
-  authors: Berend Wijers; Pieter Huybrechts; Bart Hoekstra;
-    Koen Greuell; Judy Shamoun-Baranes;  Peter Desmet
+  authors:
+  - Bart Kranstauber
+  - Berend Wijers
+  - Pieter Huybrechts
+  - Bart Hoekstra
+  - Koen Greuell
+  - Judy Shamoun-Baranes
+  - Peter Desmet
   abstract: "The recent advancement of radar aeroecology has been driven in part by unrestricted access to unfiltered weather radar data. In Europe, however, access to such data remains fragmented, as many national meteorological institutes prioritize distributing products that are processed for meteorological applications. At the same time, several meteorological institutes are releasing radar data through open data initiatives, but heterogeneous access protocols still hinder transnational studies.\n\n
     To facilitate working with open weather radar data, we developed the open source R package `getRad`. The package provides unified programmatic access to radar data for aeroecological applications, allowing users to acquire, standardize and load polar volume data from ten different country specific repositories directly into R. In addition, derived biological information in the form of vertical profiles can be retrieved from the Aloft data portal. Here, we introduce the `getRad` package and invite community contributions.\n\n
     Furthermore, to work towards a continent-scale, high quality dataset, we implemented an operational pipeline to continuously compute vertical profiles for European radars. This pipeline uses `getRad` within  Notebook-as-a-Virtual Research Environment (NaaVRE) developed by LifeWatch ERIC and the University of Amsterdam. We present results from this pipeline and compare them with vertical profiles generated with data processed at BALTRAD through the European collaboration of meteorological institutes. Together these steps highlight the potential of an open infrastructure for radar aeroecology."
@@ -138,8 +168,14 @@
   - Spatial temporal movement processes
   title: 'Directional patterns of nocturnal bird migration over the Netherlands: Insights
     from combining bird radars'
-  authors: Hans van Gasteren; Bart Hoekstra; Maja Bradarić;
-    Johannes de Groeve; Jens van Erp; Judy Shamoun-Baranes
+  authors:
+  - Bart Kranstauber
+  - Hans van Gasteren
+  - Bart Hoekstra
+  - Maja Bradarić
+  - Johannes de Groeve
+  - Jens van Erp
+  - Judy Shamoun-Baranes
   abstract: "Research on population-wide bird migration has mostly focused on abundance and altitude patterns. However, insights into velocities and directional patterns, and how they vary spatiotemporally, can further improve conservation efforts and reduce aerial human-wildlife conflicts. Here we examine migration directions on a landscape scale using a dense network of twelve dedicated bird tracking radars and a weather radar in the Netherlands. We compare directional changes between radars located inland and at sea to uncover differences in migratory behaviors.\n\n    
     Using three years of nocturnal data across both migration seasons, we find that inland radars exhibit the highest similarity in directions, including a strong correspondence with the regional patterns observed by a nearby weather radar, despite the fact they record migration at different scales and altitudes. Radars offshore show more variation, the observed migration directions change more during the night, and seasonal migration directions are not directly opposing. During the night, there is general rotation of migration directions towards the east, land inwards, in both spring and fall. This rotation is most prominent offshore.\n\n    
     These results suggest that coastal regions, which can act as ecological barriers, experience more variable migration patterns with greater local variation in directions, while inland migration is more uniform. Understanding these differences is important for optimizing local conservation measures, highlighting where and when tailored conservation efforts are most desirable."
@@ -154,8 +190,16 @@
   - Other radar
   - Animal behaviour
   title: Effects of low-light levels on nocturnal migratory birds in flight
-  authorsbefore: Simon Hirschhofer; Peter Ranacher; Robert Weibel; Barbara Helm; Davor Ćiković
-    ; Sanja Barišić; Louie Taylor; Maja Bjelić Laušić
+  authors:
+  - Simon Hirschhofer
+  - Peter Ranacher
+  - Robert Weibel
+  - Barbara Helm
+  - Davor Ćiković
+  - Sanja Barišić
+  - Louie Taylor
+  - Maja Bjelić Laušić
+  - Baptiste Schmid
   abstract: |
     Low-levels of artificial light at night can influence the migratory behaviour of birds, but their effects remain poorly studied. We investigated the effect of artificial lighting on the flight behaviour of migratory birds along the Croatian Adriatic coast. We deployed two BirdScan MR1 ornithological radars: one in the illuminated city centre of Rovinj and the other at the edge of a nearby relatively dark ornithological reserve. Over two spring seasons, we monitored the migration intensity, flight altitude and airspeed of birds crossing the Adriatic Sea and those migrating along the coast.
 
@@ -166,7 +210,6 @@
 
 - firstname: Birgen
   lastname: Haest
-  authorlast: true
   contributiontype: Poster
   orcid: 0000-0002-8739-6460
   keywords:
@@ -178,7 +221,11 @@
   - Animal behaviour
   title: Quantifying intercontinental migratory insect flows across the Strait of
     Gibraltar
-  authors: Siméon Béasse; Alejandro Onrubia; José L Ruiz
+  authors:
+  - Siméon Béasse
+  - Alejandro Onrubia
+  - José L. Ruiz
+  - Birgen Haest
   abstract: "Giant masses of insects migrate through the skies whenever weather conditions
     permit. Many of these movements are migratory and happen at high altitudes in
     the sky, making them invisible to the naked eye. Radar remains one of the few
@@ -220,7 +267,14 @@
   - Animal behaviour
   title: Is Southward Return Migration Viable? Resolving the Mystery of Autumnal Insect
     Migrations from Northeast China
-  authors: Sun Wei; Feng Hongqiang; Huang Jianrong; Gao Yuebo; Hu Gao; Jason W. Chapman
+  authors:
+  - Boya Gao
+  - Sun Wei
+  - Feng Hongqiang
+  - Huang Jianrong
+  - Gao Yuebo
+  - Hu Gao
+  - Jason Chapman
   abstract: Whether migratory insects in Northeast China undertake a successful southward
     return migration in autumn is a long-standing ecological question. While trajectory
     analyses based on dominant wind fields have historically indicated a low probability
@@ -253,7 +307,10 @@
   - Animal behaviour
   title: Fog and blue content of artificial light mediate bird attraction during nocturnal
     migration
-  authors: Miguel F Jimenez; Kyle G Horton
+  authors:
+  - Carrie Ann Adams
+  - Miguel F. Jimenez
+  - Kyle G. Horton
   abstract: "Migratory birds are known to be attracted to artificial light, contributing to collisions with buildings that kill millions of birds each year. However, birds can show diverse behavioural responses when they encounter light during nocturnal migration, including avoidance. Identifying the light characteristics, weather conditions, and other factors that change birds’ behavioural responses is key to minimizing the disruption of their migrations as artificial light at night continues to increase and older lighting technologies are replaced with blue-rich LEDs.\n\n
     We conducted an experiment in Texas to understand how atmospheric conditions and the spectral properties of artificial light mediate bird response to light emitting diodes (LEDs).  We used a BirdScan MR1 radar to measure migration traffic rate and flight height under three different light treatments – a blue-rich LED, a neutral LED, and a no-blue LED – compared to a dark treatment. We found no change in migration traffic rate among the treatments, possibly because attraction or avoidance occurred at a scale smaller than the radar’s 1-km detection radius. When we analysed flight height using a quantile regression, we found an important interaction between aerosolised particles in the atmosphere (primarily fog and mist) and light treatments. On clear nights, the lowest-flying migrants flew higher when the blue-rich or neutral LED was turned on, indicating avoidance of the light. On foggy nights, the lowest-flying birds flew lower during all treatments than during the dark treatments, indicating light attraction.\n\n
     On both foggy and clear nights, migratory birds may expend substantial energy if they change their flight height every time they encounter a bright light. Using LED luminaires that emit less blue can reduce the disruptive effects of avoiding artificial lights, but all LEDs are likely to attract birds on foggy nights. Reducing light pollution is crucial for protecting avian migrants from collisions."
@@ -269,7 +326,11 @@
   - Ecological forecasting
   title: 'What goes up must come down: Using weather surveillance radar data to forecast
     migratory birds banded on the ground'
-  authors: Sara Morris; Siddharth Chidambaram; Kyle Horton
+  authors:
+  - Carolyn Burt
+  - Sara Morris
+  - Siddharth Chidambaram
+  - Kyle Horton
   abstract: Ecological forecasting is a powerful framework to predict future states
     of ecological systems, including species distributions and supporting proactive
     conservation, management, and policy decisions that exist in a rapidly changing
@@ -310,8 +371,12 @@
   - Biodiversity monitoring
   - Animal behaviour
   title: Animal Niches in the Airspace
-  authors: Judy Shamoun-Baranes; Dara Satterfield; Sissel Sjöberg;
-     Emily B Cohen
+  authors:
+  - Cecilia Nilsson
+  - Judy Shamoun-Baranes
+  - Dara Satterfield
+  - Sissel Sjöberg
+  - Emily B. Cohen
   abstract: The lowest part of the atmosphere is full of life, and we now recognize
     the airspace as habitat for an abundance of flying animals and as a crucial arena
     for a wide range of behaviors. Technological advances, including expanded use
@@ -338,8 +403,11 @@
   - Birds
   - Applied radar aeroecology
   title: Towards a Quantitative Criterion for Italian Alpine Bird Migration Corridors
-  authors: Silvia GIuntini; Francesca Sanguinetti; Damiano
-    G. Preatoni
+  authors:
+  - Clara Tattoni
+  - Silvia Giuntini
+  - Francesca Sanguinetti
+  - Damiano G. Preatoni
   abstract: "Italian Alpine migratory corridors currently recognized by law as key routes for bird migration have been identified mainly based on historical information and qualitative assessments. However, the lack of a quantitative criterion makes it difficult to objectively verify their actual function as migration corridors. In this study, we evaluated whether the intensity and direction of migratory bird traffic can serve as operational parameters to distinguish  recognized corridors from other sites with similar geographical features without legal protection.\n\n
     Firstly, we ranked alpine passes as suitable for migration based on their location, elevation, orientaton and other geograpical caharacteristics. Then, we analyzed vertical-looking radar data collected in 2024–2025 at 33 Italian Alpine sites, including legally recognized corridors, corridors proposed for verification, and non-corridor sites. Parallel bioacoustic surveys were used to describe vocal activity and complement the interpretation of movement patterns. The *Migration Traffic Rate* (MTR), derived from radar data, was used as a quantitative indicator of movement intensity, and flight direction was considered to separate coherent migratory traffic from local movements and refine site classification.\n\n
     Comparisons of MTR distributions and flight directions among site categories revealed systematic differences in crossing patterns, suggesting that these parameters may reflect corridor function. Based on these results, we identified a preliminary quantitative threshold potentially useful to distinguish sites serving as functional migratory corridors.\n\n
@@ -356,9 +424,14 @@
   - Animal behaviour
   title: Using corresponding radar and ringing data to explore migratory decisions
     of songbirds
-  authorsbefore: Tsafra Evra 
-  authors: Inbal Schekler; Yuval Werber; Noam Weiss;
-    David Troupin; Nir Sapir
+  authors:
+  - Tsafra Evra 
+  - Daniel Bloche
+  - Inbal Schekler
+  - Yuval Werber
+  - Noam Weiss
+  - David Troupin
+  - Nir Sapir
   abstract: 'Each year, billions of birds undertake seasonal migration across the
     globe, of which the vast majority are songbirds. They alternate between aerial
     endurance flights and stopovers, repeatedly deciding when and where to land, as
@@ -399,13 +472,15 @@
   - Other radar
   - Spatial temporal movement processes
   title: Testing hypotheses regarding the composition of bird migration in the Levant
-  authors: Nir Sapir
+  authors:
+  - David Troupin
+  - Nir Sapir
   abstract: |2-
 
     We analyzed nocturnal migration data collected by radars (Birdscan MR1) at 10 sites throughout Israel over a period of 8 years (2015-2023, n=2,908 days of observation, 2.66 million identified birds). We tested two hypotheses regarding the composition of migrating bird groups (waders versus passerines): (1) higher proportions of wader species would be observed in proximity to the coast of the Mediterranean Sea, and (2) higher proportions of wader species would be observed at locations with larger areas of water bodies (e.g., reservoirs and fish ponds) in their proximity. Overall, passerines comprised 62% of identifications and waders 38%, with variation by season (autumn: 40% waders; spring: 33% waders) and location (range: 30-55% waders). Generalized linear mixed models on Box-Cox transformed ratios revealed that geographic and seasonal factors explained 14.0% of variance (R² marginal), with site-specific characteristics adding 4.3% (R² conditional=18.3%). Contrary to hypothesis one, coastal proximity showed no significant effect (season × distance to Mediterranean coast: β=-0.033, p=0.281). The strongest predictor was latitude (β=-0.866, p=0.036), with northern sites showing 30-34% waders versus 42-55% at southern sites. Regarding hypothesis two, the variable of total area of water bodies within a 5 km radius showed complex patterns: larger proximate water body areas generally favored waders (β=0.201, p=0.038), but in the spring we found a significant negative interaction (β=-0.107, p<0.001), indicating that in the spring migrants prefer smaller, more concentrated wetlands as stopover sites. Altitude effects reversed seasonally (β=0.099, p=0.001), with higher proportions of waders in higher altitudes in spring but not autumn. These findings demonstrate that nocturnal wader migration is structured primarily by north-south climatic gradients rather than coastal proximity.
   key: datr
 
-- firstname: Elske K
+- firstname: Elske
   lastname: Tielens
   contributiontype: Presentation
   orcid: 0000-0001-7940-5657
@@ -413,7 +488,10 @@
   - Insects
   - Spatial temporal movement processes
   title: 'Large scale insect migration: the role of seasonal and latitudinal pressures'
-  authors: Birgen Haest; Silke Bauer
+  authors:
+  - Elske Tielens
+  - Birgen Haest
+  - Silke Bauer
   abstract: Insect long distance dispersal exceeds the migration of any other taxonomic
     group in the world in both abundance and biomass, and yet general patterns in
     this seasonal insect movement are not well described. While small scale radars
@@ -447,8 +525,12 @@
   - Tracking radar
   - Methodological advances
   title: Predicting bird tracks with the help of nearby antecedent tracks
-  authors: Graciela DeCuba; Judy Shamoun-Baranes; Isabel Metz; Hans
-    van Gasteren
+  authors:
+  - Emiel van Loon
+  - Graciela DeCuba
+  - Judy Shamoun-Baranes
+  - Isabel Metz
+  - Hans van Gasteren
   abstract: "Bird tracking radars are used at airfields to manage wildlife or adjust operations such that collision risks are minimized. To be useful air traffic control, bird tracks need to be forecasted with a lead time of a few minutes. A basic approach for bird track forecasting is to use the preceding track properties (geometry and speed) and extrapolate from there. This study investigates if the forecast accuracy and prediction horizon up to two minutes improve if properties from nearby and antecedent tracks are used in addition. The challenges are a) to define a suitable neighborhood (which nearby tracks might be informative and should be considered), b) to adequately measure similarity between the focal track and its neighbors and c) to combine the forecast ensemble to a best estimate with an uncertainty range.\n\n
     We design a workflow which deals with these three steps, using insights from the latest literature on track similarity measurement and prediction. It is subsequently applied to a sample of bird tracks from a tracking bird radar (Robin Radar 3D MAX) covering a year-round period."
   key: emva
@@ -464,7 +546,10 @@
   - Animal behaviour
   title: 'Bird Migration over the North Sea: Integrating Radar and Camera Data to
     Assess Avian Interactions with Offshore Wind Farms'
-  authors: Sam Ordeman; Joep Breuer
+  authors:
+  - Erik Fritz
+  - Sam Ordeman
+  - Joep Breuer
   abstract: "As offshore wind energy development intensifies along the Dutch coast,
     understanding the ecological implications for migratory birds is critical for
     the design of nature-inclusive wind farms. The BirdSafe project addresses this
@@ -504,8 +589,14 @@
   - Spatial temporal movement processes
   title: 'Integrating BirdFlow into BirdCast migration alerts: Towards species-specific
     risk'
-  authors: Yangkang Chen; Miguel Fuentes; Yuting Deng; Daniel Sheldon
-    ; Benjamin Van Doren; Adriaan Dokter
+  authors:
+  - Ethan Plunkett
+  - Yangkang Chen
+  - Miguel Fuentes
+  - Yuting Deng
+  - Daniel Sheldon
+  - Benjamin Van Doren
+  - Adriaan Dokter
   abstract: "Weather radar networks have revolutionized our ability to observe continental-scale movements of migratory birds. We use the NEXRAD network to issue real-time alerts for high migration events via the BirdCast platform. Alerts can target different actionable events, such as ''lights-out'' actions to reduce window collisions or warning pilots of bird strike risks. A key limitation of radar data is that it is species-agnostic, whereas risk levels often depend on species composition. In North America, migratory warblers in the Parulidae family are particularly sensitive to light attraction and collisions, while for pilots, larger species pose most concern.\n\n
     Here we propose using BirdFlow models to adjust radar alert levels and improve risk assessment. BirdFlow is a probabilistic modeling framework that infers population-level movements from weekly species distribution maps produced by the participatory science project eBird. BirdFlow models previously required tuning with high-resolution individual tracking data, unavailable for most migratory species. We introduce a new model-tuning framework that removes this dependency and generalizes population-level movement inference to hundreds of migratory species. This framework extends BirdFlow by enabling tuning and validation with multiple complementary data sources, including GPS tracks, banding recoveries, and radio telemetry data from the Motus Wildlife Tracking System.\n\n
     We evaluate the generalizability of this approach by: (1) assessing predictive performance compared to null models; (2) validating the biological plausibility of BirdFlow outputs by comparing route straightness, stopover frequency, and migration speed between simulated and empirical tracks; and (3) comparing models tuned on species-specific movement data to those tuned using hyperparameters transferred from other species. Results show that BirdFlow achieves biologically realistic performance even over prediction horizons of several months and thousands of kilometers.\n\n
@@ -524,7 +615,10 @@
   - Biodiversity monitoring
   title: Long-term trends in migratory landbird stopover distribution following 13
     years of changes in the contiguous United States
-  authors: Jeffery Buler; Adriaan Dokter
+  authors:
+  - Fengyi Guo
+  - Jeffery Buler
+  - Adriaan Dokter
   abstract: The dramatic decline of migratory landbirds in North America has raised
     substantial conservation concerns. While migratory landbirds face multiple and
     interacting threats throughout their annual cycle, research and conservation efforts
@@ -557,8 +651,13 @@
   - Biodiversity monitoring
   title: Preliminary assessment of the Detect Merlin True 3D radar to monitor bird
     migration across the Strait of Gibraltar.
-  authors: Javier Vidao; Birgen Haest; Siméon Béasse; Alba Márquez-Rodríguez
-    ; Andrés De la Cruz 
+  authors:
+  - Gonzalo Munoz Arroyo
+  - Javier Vidao
+  - Birgen Haest
+  - Siméon Béasse
+  - Alba Márquez-Rodríguez
+  - Andrés De la Cruz
   abstract: "The Strait of Gibraltar is a key migration bottleneck in the Western Palearctic, yet nocturnal bird migration dynamics and their meteorological drivers remain difficult to investigate. Radar-based monitoring provides powerful tools to describe migration phenology and weather-driven variability, although migration estimates depend on radar system characteristics. We assessed nocturnal bird migration across the Strait during the post-breeding period (Aug–Nov 2024 and 2025) using a horizontal fixed-beam Detect Merlin True 3D radar deployed on the northern shore and compared its output with a simultaneously operating vertical-looking BirdScan MR1 radar at the same site.\n\n
     Nocturnal migration intensity was quantified using nightly migration traffic rates derived from both radar systems, and seasonal patterns were described using generalized additive models. Merlin consistently produced lower migration rate estimates than BirdScan, representing on average about 20% of BirdScan values (geometric mean ratio = 0.20, 95% CI: 0.15–0.28). Despite this discrepancy in absolute numbers, temporal dynamics were strongly correlated between systems (Spearman’s ρ ≈ 0.72). Seasonal phenology showed a consistent bimodal structure across years, with a first migration wave in late September to early October and a dominant wave from mid-October to early November. Agreement was highest during the early and late phases of the migration season and decreased during the seasonal peak.\n\n
     Meteorological effects on migration intensity were broadly consistent between radar systems. Migration activity increased under favourable wind conditions, particularly westerly and northerly components, and decreased under easterly and southerly winds. Seasonal and meteorological effects on radar discrepancies were weak, explaining only a limited proportion of the deviance.\n\n
@@ -575,7 +674,12 @@
   - Applied radar aeroecology
   title: Predicting bird trajectories using avian radar data and deep learning models
     to improve wildlife strike prevention
-  authors: Isabel Metz; Emiel van Loon; Hans van Gasteren; Judy Shamoun-Baranes
+  authors:
+  - Graciela de Cuba
+  - Isabel Metz
+  - Emiel van Loon
+  - Hans van Gasteren
+  - Judy Shamoun-Baranes
   abstract: In aviation, collisions between wildlife and aircraft pose a constant
     safety and economic challenge. Currently, airports implement wildlife management
     strategies to minimize the number of animals on the airport. However, these strategies
@@ -607,7 +711,9 @@
   - Applied radar aeroecology
   title: Estimating relative collision risk for migratory birds with wind turbines
     along the St. Lawrence River, Quebec, Canada
-  authors: Ana Diaz, Ana;
+  authors:
+  - Greg Mitchell
+  - Ana Diaz, Ana # TODO: Correct?
   abstract: Canada’s wind energy capacity increased by 35% between 2019 and 2024 with
     341 active wind energy projects consisting of more than 6700 turbines. Further,
     the number of wind turbines is projected to increase by more than 1000 by 2030.
@@ -641,7 +747,9 @@
   - Applied radar aeroecology
   title: 'Simulation hits reality: How simulated Wildlife strikes correspond to collisions
     observed at an Air Base'
-  authors: Isabel C. Metz
+  authors:
+  - Hans van Gasteren
+  - Isabel Metz
   abstract: Collisions between wildlife and aircraft pose an ongoing issue in aviation.
     Over the past years, an increasing number of airports have installed avian radar
     to increase situational awareness of wildlife movement in their vicinity. These
@@ -672,8 +780,12 @@
   - Other radar
   - Methodological advances
   title: Detecting trends in flying insects from long-term cloud radar observations
-  authors: Moritz Lochmann; Birgen Haest; Teresa Vogl; 
-    Maximilian Maahn
+  authors:
+  - Heike Kalesse-Los
+  - Moritz Lochmann
+  - Birgen Haest
+  - Teresa Vogl
+  - Maximilian Maahn
   abstract: "The abundance of flying insects is an important indicator of biodiversity,
     yet their biomass has declined over the past few decades. Still, insects are vital
     for food security and the functioning of ecosystems, which highlights the need
@@ -695,7 +807,7 @@
     available operational meteorological radar data sets would substantially increase
     the quantity of high-quality observations available for entomological research.
     This could facilitate large-scale, long-term evaluations of insect populations
-    in various regions.\n"
+    in various regions."
   key: heka
 
 - firstname: Hidde
@@ -709,8 +821,16 @@
   - Spatial temporal movement processes
   title: An operational system for real-time bird migration monitoring and forecasting
     for military aviation
-  authorsbefore: Mats Veldhuizen; Bastiaan Anker; Jouke Jacobi; Ely Deckers; Belén
-    Torrente; Bart Kranstauber; Hans van Gasteren; Judy Shamoun-Baranes
+  authors:
+  - Mats Veldhuizen
+  - Bastiaan Anker
+  - Jouke Jacobi
+  - Ely Deckers
+  - Belén Torrente
+  - Bart Kranstauber
+  - Hans van Gasteren
+  - Judy Shamoun-Baranes
+  - Hidde Leijnse
   abstract: "It is vital to monitor and forecast bird migration for flight safety. Contrary to civil aviation, military aircraft operate at heights where bird migration frequently occurs, greatly increasing the risk of colliding with birds en-route (bird strikes). Because bird strikes affect operations and damages are costly, the Royal Netherlands Air Force uses FlySafe: a bird migration monitoring and forecasting system. FlySafe is operated by the Royal Netherlands Meteorological Institute (KNMI) and uses weather radar data from the Netherlands, Belgium, and Germany to map bird migration. A forecasting model (developed by the University of Amsterdam and trained using weather radar data) is used to provide bird migration forecasts.\n\n
     FlySafe has been operational for almost 15 years. A recent modernization includes the latest bird migration extraction algorithms and forecast models, and modern visualization techniques. In particular, we use KNMI’s GeoWeb/Adaguc stack for interactive visualizations of animated maps of vertically-integrated bird densities and height profiles of bird densities at radar locations. GeoWeb is a web-based integrated system that is used for monitoring the atmosphere, both in an operational and a scientific context. It is easily extendable with other geospatial (including meteorological) data, and it is therefore also well-suited for exploring bird migration data. All bird migration data (both profiles and maps) are available through the, publicly available, KNMI Data Platform, allowing for further use of these data.\n\n
     We will demonstrate the new FlySafe service with migration case studies, the emphasis will be on the improvements that were realized in the recent upgrade. We demonstrate the added value of the interactive visualization of bird migration data and the possibilities to extend to other countries."
@@ -727,7 +847,9 @@
   - Biodiversity monitoring
   title: Long-term phenology shifts and barrier-driven weather selective departure
     decisions in nocturnal bird migration over South Korea
-  authors: Chang-Yong Choi
+  authors:
+  - Hwayeon Kang
+  - Chang-Yong Choi
   abstract: "The Korean Peninsula serves as a critical bottleneck along the East Asian-Australasian
     Flyway, where migratory birds concentrate before and after crossing surrounding
     seas. Despite advances in radar aeroecology, quantitative studies on bird migration
@@ -769,7 +891,11 @@
   - Tracking radar
   - Applied radar aeroecology
   title: Detecting songbird flocks with a tracking radar
-  authors: Elisa Bravo Rebolledo; Koen Kuiper; Abel Gyimesi
+  authors:
+  - Jacco Leemans
+  - Elisa Bravo Rebolledo
+  - Koen Kuiper
+  - Abel Gyimesi
   abstract: In the Dutch North Sea, offshore wind farms are shut down when major nocturnal
     bird migration events are expected, to reduce collision fatalities. These mass
     migration events are primarily predicted by a model trained on data of offshore
@@ -800,7 +926,11 @@
   - Other radar
   - Methodological advances
   title: Biological potential of KaRVIR; Ka-band Rapid-scan Volumetric Imaging Radars
-  authors: David Bodine; Boonleng Cheong; Jorge Salazar Cerreno
+  authors:
+  - Jeffrey Kelly
+  - David Bodine
+  - Boonleng Cheong
+  - Jorge Salazar Cerreno
   abstract: Motivated by the need to better understand the role of clouds and boundary
     layer processes in Earth system science and extreme weather, the Advanced Radar
     Research Center at the University of Oklahoma is developing millimeter-wavelength
@@ -836,7 +966,11 @@
   - Applied radar aeroecology
   title: Radar-controlled Shutdown on Demand to minimize collisions of migrating birds
     in a coastal wind farm
-  authors: Koosje Lamers; Nienke Kwant-Heida; Jonne Kleyheeg-Hartman
+  authors:
+  - Jente Kraal
+  - Koosje Lamers
+  - Nienke Kwant-Heida
+  - Jonne Kleyheeg-Hartman
   abstract: "Twice a year, millions of birds migrate through the Netherlands on their
     journey between wintering and breeding grounds. The rapid development of wind
     farms poses new dangers to migrant birds due to collision risk. Coastal areas
@@ -875,9 +1009,20 @@
   - Spatial temporal movement processes
   - Biodiversity monitoring
   title: Progress of China's Vertical Looking insect Radar Network
-  authors: Boya Gao; Jian Ma; Qi Chen; Haixia Lei; Zhi Zhang, Tao
-    Zhong; Wei Sun; Jian Liu; Christopher Hassall; Ryan Neely III; Jason Chapman; Hongqiang
-    Feng
+  authors:
+  - Jianrong Huang
+  - Boya Gao
+  - Jian Ma
+  - Qi Chen
+  - Haixia Lei
+  - Zhi Zhang
+  - Tao Zhong # TODO: correct?
+  - Wei Sun
+  - Jian Liu
+  - Christopher Hassall
+  - Ryan Neely III
+  - Jason Chapman
+  - Hongqiang Feng
   abstract: Each year, billions of insects undertake long-distance migratory journeys
     spanning thousands of kilometers, exerting a profound influence on both natural
     and agricultural ecosystems. To monitor these movements, Vertical-Looking Radar
@@ -917,7 +1062,13 @@
   - Animal behaviour
   title: The mechanisms of field flight behaviors in nocturnal insects in the Southern
     North China Plain, China
-  authors: Jianrong Huang ; Guoping Li; Caihong Tian; Gensong Wang; Hongqiang Feng
+  authors:
+  - Jian Ma
+  - Jianrong Huang 
+  - Guoping Li
+  - Caihong Tian
+  - Gensong Wang
+  - Hongqiang Feng
   abstract: "Approximately 9.3 trillion nocturnal insects undertake long-distance migration over the eastern plains of China annually, with a total biomass of 15,000 tons, exerting profound impacts on regional ecological balance and agricultural production. However, the mechanisms underlying their migratory behaviors (e.g., takeoff and landing timing, layered altitude) and their response patterns to meteorological conditions remain poorly understood.\n\n
     Based on nighttime monitoring data from a vertical-looking entomological radar (VLR) in Xinxiang City, Henan Province, spanning 2022–2024, this study systematically extracted migratory events: a total of 402 migratory events involving large-sized insects (comprising 21,155 individuals) were identified, including 149 large-scale events and 54 events with significant collective orientation; 440 migratory events involving medium-sized insects (comprising 921,997 individuals) were recorded, among which 145 were large-scale events, all exhibiting distinct collective orientation.\n\n
     This study innovatively used individual vertical velocity data from VLR to establish a behavioral classification framework for migratory insects' takeoff, cruising, and landing, thus clarifying the seasonal behavioral rhythms of insects of varying body sizes: takeoff peaks at one hour after sunset, while landing peaks at one hour before sunrise; the period from two hours post-sunset to two hours pre-sunrise corresponds to the main cruising phase. Additionally, we developed a 'Layer Quality' index to quantify insect layer concentrations.\n\n
@@ -936,7 +1087,10 @@
   title: Integration of bird radar, visual observation and acoustic recordings to
     inform collision risk modelling of bird species in a remote site in the Pilbara,
     Western Australia
-  authors: Karen J Riley; Patricia A Fleming 
+  authors:
+  - Jill M Shephard
+  - Karen J Riley
+  - Patricia A Fleming 
   abstract: In the next 10-15 years proposed onshore wind turbine projects in Western
     Australia will construct and commission nearly 5500 turbines, 2.5 times the number
     that are currently in operation. This rapid upscaling has revealed significant
@@ -975,7 +1129,8 @@
   - Animal behaviour
   title: 'Integrated Monitoring of Avian Behaviour around Wind Turbines: Insights
     from the Zwarte Wiek and ZWEMT Projects'
-  authors: 
+  authors:
+  - Joep Breuer
   abstract: "The expansion of wind energy necessitates a comprehensive understanding
     of its ecological impacts, particularly concerning avian collisions and behavioural
     responses. The Zwarte Wiek (Black Blade) project, and its technological extension
@@ -1019,7 +1174,11 @@
   - Animal behaviour
   title: Physics-Based Simulation and Inference of Flapping-Wing Kinematics from FMCW
     Micro-Doppler Radar
-  authors: Felix Liechti; Hugo Aguettaz; Dominik Kleger
+  authors:
+  - Johannes Nüesch
+  - Felix Liechti
+  - Hugo Aguettaz
+  - Dominik Kleger
   abstract: "Recent progress in X-band FMCW bird radars now yields micro-Doppler spectrograms that clearly resolve wingbeat dynamics of birds, bats and insects. However, automatically extracting biologically interpretable descriptors from these data remains difficult. We present a physics-based simulation and inference framework that connects articulated animal models directly to radar observables and recovers biologically meaningful flight descriptors from raw spectrograms without manual labels.\n\n
     Our forward model describes wing and body kinematics, including stroke geometry, flapping dynamics and morphology, and propagates hundreds of moving scatterers through an intermediate-frequency radar model. Coherent summation at intermediate frequencies reproduces realistic micro-Doppler structure such as stroke harmonics, interference fringes, clutter and rain artefacts for a vertical-looking X-band FMCW system.\n\n
     From large synthetic datasets sampled over morphology, kinematics and flight trajectories, we train a structured-output U-Net that maps spectrograms to interpretable quantities: per-body-part Doppler contributions, velocity traces along the body and wings, wing-stroke phase time series, and simple morphological proxies. The recovered parameters are fed back through the simulator to reconstruct radar signatures, allowing us to validate the accuracy of the inferred kinematics against real micro-Doppler field data.\n\n
@@ -1037,9 +1196,17 @@
   - Applied radar aeroecology
   - Biodiversity monitoring
   title: Pathways to impact through long-term collaboration and serendipity
-  authors: Hidde Leijnse; Maja Bradarić; Johannes De Groeve;
-    Jens van Erp; Bart Hoekstra; Bart Kranstauber; Emiel van Loon; Berend Wijers;
-    Hans van Gasteren
+  authors:
+  - Judy Shamoun-Baranes
+  - Hidde Leijnse
+  - Maja Bradarić
+  - Johannes De Groeve
+  - Jens van Erp
+  - Bart Hoekstra
+  - Bart Kranstauber
+  - Emiel van Loon
+  - Berend Wijers
+  - Hans van Gasteren
   abstract: |
     Radar uniquely lends itself to quantifying life in the air. As such, harnessing radar’s potential facilitates generating new scientific insight and addressing challenges resulting from human-wildlife interactions. However, translating scientific insight into societal impact, in the form of conservation action or changes to human behaviour, can be challenging, particularly within academic settings. Due to the nature of scientific research, the investments needed to have societal impact may go far beyond the duration of a single project, the capacity of a single person, or organization. In the Netherlands, the University of Amsterdam, the Royal Netherlands Meteorological Institute and the Royal Netherlands Air and Space Force have been collaborating on radar aeroecology for over two decades, with diverse connections to industry and government catalyzed in part by the European Space Agency. Here we provide three examples of our pathways to impact: (1) the development of a bird warning system for military aviation safety, (2) mapping and modelling bird migration to reduce conflicts between avian conservation and wind energy development and operations and (3) public engagement in the Netherlands. We illustrate why the following building blocks have been essential to our work: vision, long-term collaboration, research infrastructure and co-design. Perhaps less tangible but highly relevant in shaping these pathways are passion, persistence and serendipity. Rather than presenting detailed research results we take you along our journey and share the lessons we have learned along the way.
   key: jush
@@ -1054,7 +1221,9 @@
   - Methodological advances
   - Applied radar aeroecology
   title: Characterizing Soaring-Bird Migration in Israel Using Radars
-  authors: Nir Sapir
+  authors:
+  - Korin Reznikov
+  - Nir Sapir
   abstract: 'Israel is located at the heart of a globally important migration bottleneck
     for soaring migrants, with many raptors, storks, cranes, and pelicans crossing
     the country every year. Migration is a substantial part of the avian life cycle
@@ -1099,8 +1268,16 @@
   - Animal behaviour
   title: Species-Level Bat Identification from Radar Using Micro-Doppler    and Acoustic
     Ground-Truthing
-  authors:  Dominik Kleger; Johannes Nüesch; Lucile Morcelet; Amee Assad
-    ; Kevin Barre;  Jannis Gottwald; Alexandre Millon;   Christian E. Vincenot
+  authors:
+  - Kseniia Kravchenko
+  - Dominik Kleger
+  - Johannes Nüesch
+  - Lucile Morcelet
+  - Amee Assad
+  - Kevin Barre
+  - Jannis Gottwald
+  - Alexandre Millon
+  - Christian E. Vincenot
   abstract: "Bats are highly mobile mammals whose small size, nocturnal habits, and
     often high-altitude movements make them difficult to study using conventional
     field methods. While high-resolution tracking approaches such as GPS telemetry
@@ -1133,7 +1310,7 @@
     movement."
   key: kskr
 
-- firstname: Dylan M.
+- firstname: Dylan
   lastname: Osterhaus
   contributiontype: Presentation
   keywords:
@@ -1144,7 +1321,10 @@
   - Applied radar aeroecology
   title: 'Seeing Double: Concurrent Dual-Frequency Observations of Aerial Migration
     with CSU-CHILL'
-  authors: Patrick Kennedy; Kyle Horton
+  authors:
+  - Dylan Osterhaus
+  - Patrick Kennedy
+  - Kyle Horton
   abstract: Nearly all radars used in aeroecology operate at a fixed wavelength or
     frequency band (e.g., X-, C-, or S-band). Radar frequency fundamentally influences
     how biological targets are detected and quantified, yet relatively few studies
@@ -1175,8 +1355,13 @@
   - Lidar
   title: Compact entomological lidars for comparative seasonal surveillance of free
     flying insects over ground
-  authorsbefore: Katrine Gerassimovitch Eskildsen 
-  authors: Timotej Zuntar; David Dreyer; Meng Li; Mikkel Brydegaard
+  authors:
+  - Katrine Gerassimovitch Eskildsen
+  - Leonard De Causmaecker
+  - Timotej Zuntar
+  - David Dreyer
+  - Meng Li
+  - Mikkel Brydegaard
   abstract: "While entomological radar shows great potential for surveying migratory insect biomasses and fluxes on continental scale, radar opportunities for species specificity and thus biodiversity assessment of foraging insects close over ground are limited. Malaise trapping campaigns and subsequent genetic barcoding suffer from trap design species biases, slow weekly sample rates and inability to accurately resolve abundance of present species. Photonic sensing of insects could complement existing techniques, with unbiased view of insect activity, differentiation of hundreds of classes, and provide clues on the species-abundance-distribution. Further, accurate timestamping allows estimation of environmental preference with potential for climate predictions.\n\n
     We present a compact eye-safe weatherproof entomological lidar for non-invasive monitoring of foraging insects over ground. The system is based on off-the-shelf components and 3D printed parts, simple to reproduce and align, with a footprint of 60x30x12 cm and power consumption of 50-100 W. The aim is to deploy several systems in field for comparative seasonal monitoring of diversity of free flying insects. The instrument uses a time division multiplexed near-infrared beam and the Scheimpflug configuration to achieve ranging, focal depth and high sample rate. The design range is 5-100 m. Wavelength bands are alternated at 8kHz, while the instrument captures multispectral backscattering from insect bodies and oscillatory cross sections and harmonics from wingbeats. These echoes allow to differentiate species according to their melanization, wing surface roughness and membrane thicknesses. Observations are automatically preprocessed and transferred remotely. This allows for real-time, continuous and long-term monitoring of insect activity. Unsupervised hierarchical clustering is used to estimate signal diversity and thus species richness.\n\n
     We present the first signals and results from testing *in situ*. We revise system performance, noise levels, detection ranges and insect sizing. We evaluate probe volume, daily observation numbers and specificity in terms of number of discernible signals.\n\n
@@ -1194,13 +1379,18 @@
   - Spatial temporal movement processes
   - Using unique offshore tracking radar network
   title: Regional synchrony and directional coherence in offshore nocturnal bird migration
-  authors: Emiel Van Loon, Emiel; Johannes De Groeve; Bart Kranstauber; Bart
-    Hoekstra; Judy Shamoun-Baranes
+  authors:
+  - Maja Bradarić
+  - Emiel van Loon
+  - Johannes De Groeve
+  - Bart Kranstauber
+  - Bart Hoekstra
+  - Judy Shamoun-Baranes
   abstract: |
     Offshore bird migration is often assumed to be more spatially and temporally heterogeneous than migration over land, as seas are commonly perceived as ecological barriers that may prompt varying migratory responses among different species. Alternatively, it could be argued that the absence of spatial features offshore may lead to homogeneous migration patterns at the regional scale. Until recently, offshore bird migration data collection was limited to sporadic deployments of different radar systems, therefore preventing regional comparisons of offshore bird migration patterns. The recent coordinated deployments of identical radars at sea overcome this limitation, allowing for region-wide assessment of synchrony in bird migration patterns. Here, we provide a multi-year regional overview of low-altitude nocturnal bird migration phenology across the Dutch North Sea. We further investigate spatiotemporal variation in primary migration direction and airspeed. In both cases, we focus on identifying and comparing seasonal and within-night patterns across six offshore radar locations. Our findings show that, although complex, the regional patterns are rather homogeneous, particularly at the seasonal scale during spring migration. We discuss the implications of our findings for current and future offshore wind-turbine curtailment strategies.
   key: mabr
 
-- firstname: Mason W.
+- firstname: Mason
   lastname: Maron
   contributiontype: Poster
   orcid: 0000-0001-7170-9373
@@ -1211,7 +1401,9 @@
   - Biodiversity monitoring
   title: Integrating Localized Flight Call Detections and Radar-derived Trajectories
     to Study Nocturnal Avian Migration
-  authors: Benjamin M. Van Doren
+  authors:
+  - Mason Maron
+  - Benjamin Van Doren
   abstract: Approximately 3.5 billion birds migrate across the United States annually,
     with the vast majority traveling nocturnally. In spite of this, we still lack
     a fundamental understanding of how nocturnal migration is structured, organized,
@@ -1243,9 +1435,17 @@
   - Spatial temporal movement processes
   - Biodiversity monitoring
   title: 'Seeing Insects at Scale: Weather Radar Insights from the UK & India'
-  authors: Maryna Lukach; Chris Shortall; James R. Bell; Elizabeth
-    J. Duncan; Freya I. Addison; Lee E. Brown; William E. Kunin; Christopher Hassall;
-    Ryan R. Neely III
+  authors:
+  - Mansi Mungee
+  - Maryna Lukach
+  - Chris Shortall
+  - James R. Bell
+  - Elizabeth J. Duncan
+  - Freya I. Addison
+  - Lee E. Brown
+  - William E. Kunin
+  - Christopher Hassall
+  - Ryan R. Neely III
   abstract: "Insects dominate terrestrial and freshwater ecosystems in terms of diversity,
     abundance, and ecological function, yet their large-scale population dynamics
     remain poorly resolved due to fundamental limitations in conventional monitoring
@@ -1284,6 +1484,8 @@
   - Birds
   - Weather radar
   title: Radar Detection of Avian Responses to Sonic Booms
+  authors:
+  - Maarten Reyniers
   abstract: Sonic booms generated by supersonic aircraft produce abrupt acoustic disturbances
     that may trigger collective responses in wildlife. On 16 December 2025 at 13:20
     UTC, an F-16 aircraft crossed the sound barrier near Leuven, Belgium. Weather
@@ -1309,7 +1511,9 @@
   - Methodological advances
   title: Radial velocity-induced biases in aeroecological products derived from C-band
     weather radar data
-  authors: Jarmo Koistinen
+  authors:
+  - Nadja Weisshaupt
+  - Jarmo Koistinen
   abstract: "Weather radar algorithms for meteorological purposes have been designed
     for interventions at different stages in the signal processing chain and postprocessing
     of volume scans. They were typically tested in precipitative conditions and optimized
@@ -1352,7 +1556,12 @@
   - Spatial temporal movement processes
   title: Active navigation and meteorological selectivity drive insect migration patterns
     through the Levant
-  authorsbefore: Yuval Werber; Elior Adin; Jason W. Chapman; Don R. Reynolds
+  authors:
+  - Yuval Werber
+  - Elior Adin
+  - Jason Chapman
+  - Don R. Reynolds
+  - Nir Sapir
   abstract: Insect migration is crucial to many natural processes and human activities,
     yet large-scale patterns remain poorly understood. On the Mediterranean’s eastern
     shores lies a 70-km wide stretch of hospitable habitat between the sea and the
@@ -1391,8 +1600,12 @@
   - Spatial temporal movement processes
   title: "Mapping bird migration in space and time to support sustainable wind
     energy development in Norway"
-  authors: Bart Hoekstra; Judy Shamoun-Baranes; Diego Pavón-Jordan; Roel
-    May
+  authors:
+  - Øyvind Nyheim
+  - Bart Hoekstra
+  - Judy Shamoun-Baranes
+  - Diego Pavón-Jordan
+  - Roel May
   abstract: "Wind energy development is expanding rapidly worldwide, increasing the
     potential for conflicts with migratory birds through turbine collisions, barrier
     effects, and area avoidance. In Norway, limited knowledge of spatial and temporal
@@ -1435,7 +1648,12 @@
   - Weather radar
   - Biodiversity monitoring
   title: Insect identification in weather radar data
-  authors: Birgen Haest; Michele Volpi; Elske Tielens; Silke Bauer
+  authors:
+  - Paraskevi Nousi
+  - Birgen Haest
+  - Michele Volpi
+  - Elske Tielens
+  - Silke Bauer
   abstract: To expand the use of weather radar data for entomological applications,
     improved differentiation between classes of bioscatterers is necessary. Within
     the BioAIRad project, we develop machine learning algorithms to classify bird
@@ -1472,7 +1690,12 @@
   - Biodiversity monitoring
   title: Biological classification of vertical-looking radar data using convolutional
     neural networks
-  authors: Elske Tielens; Michele Volpi; Silke Bauer; Birgen Haest
+  authors:
+  - Paraskevi Nousi
+  - Elske Tielens
+  - Michele Volpi
+  - Silke Bauer
+  - Birgen Haest
   abstract: Small scale radar such as Birdscan MR1 identifies individual echoes in
     the sky and provides detailed information on the features of the animal target.  Taxonomic
     identification in such radar images remains a challenging topic. In this work,
@@ -1502,7 +1725,9 @@
   - Spatial temporal movement processes
   title: Identifying Potential Ecological Traps for Migratory Insects Along the West
     Coast of North America
-  authors:  Santiago Ramirez
+  authors:
+  - Peter Coggan
+  - Santiago Ramirez
   abstract: Ecological traps likely create unique dynamics in community structuring.
     These traps occur when animals settle in areas that will reduce their fitness.
     Aerially migrating insects may be particularly at risk because their movement
@@ -1542,7 +1767,11 @@
   - Spatial temporal movement processes
   title: Three-Dimensional Reconstruction of Bird Density Using Inverse Weather Radar
     Modeling
-  authors: Baptiste Schmid; Thibault Desert; Adriaan M. Dokter
+  authors:
+  - Raphaël Nussbaumer
+  - Baptiste Schmid
+  - Thibault Desert
+  - Adriaan Dokter
   abstract: |
     Weather surveillance radars provide unparalleled spatio-temporal coverage of bird movements in the airspace, yet recovering their fine-scale three-dimensional (3D) structure remains challenging. Beam geometry effects, incomplete sampling of the lowest altitudes, and range-dependent smoothing have led most existing approaches to rely on vertically averaged products, typically assuming a constant vertical profile of bird density within the radar volume. While effective for estimating total abundance, such approaches discard horizontal heterogeneity and limit spatially explicit reconstructions.
 
@@ -1562,8 +1791,15 @@
   - Biodiversity monitoring
   title: No effect of agri-environment schemes on radar-measured aerial insect abundance
     at landscape scale in England
-  authors: Tommy Matthews; David Dufton; Julia Crook;
-    Mansi Mungee; Ryan R. Neely III; William E Kunin; Christopher Hassall
+  authors:
+  - Reuben O'Connell-Booth
+  - Tommy Matthews
+  - David Dufton
+  - Julia Crook
+  - Mansi Mungee
+  - Ryan R. Neely III
+  - William E Kunin
+  - Christopher Hassall
   abstract: Agri-environment schemes (AES) commonly represent the largest financial
     investment in biodiversity conservation at a national or international level,
     but evidence for AES effectiveness remains equivocal. Here, we develop a novel
@@ -1595,7 +1831,10 @@
   - Animal behaviour
   title: 'Simulating Bird Flight through Offshore Wind Farms: An Agent-Based Modelling
     Approach'
-  authors: Erik Fritz; Joep Breuer
+  authors:
+  - Sam Ordeman
+  - Erik Fritz
+  - Joep Breuer
   abstract: |-
     The rapid expansion of offshore wind farms along the Dutch coastline necessitates a robust understanding of their ecological impact on migratory birds. The BirdSafe project addresses this imperative by developing a simulation framework to model avian flight behaviour and collision risk, thereby supporting the design of nature-inclusive wind farms that minimise harm to wildlife.
 
@@ -1615,7 +1854,11 @@
   - Weather radar
   - Applied radar aeroecology
   title: Analysis of aerofauna movement using Canadian S-band weather radar
-  authors: Paul Knaga; Greg Mitchell; Adriaan Dokter
+  authors:
+  - Shannon Curley
+  - Paul Knaga
+  - Greg Mitchell
+  - Adriaan Dokter
   abstract: We analyzed five years of data from five coastal weather surveillance
     radars to quantify the magnitude, timing, and altitude of landbird migration across
     offshore regions of Atlantic Canada. Offshore wind development is expanding rapidly
@@ -1657,8 +1900,14 @@
   - Methodological advances
   title: Serendipitous detections from EarthCARE Cloud Profiling Radar provide first
     global climatologies of flying insects
-  authors: Robin Hogan; Ryan Neely; Christopher Hassall; Tommy Matthews
-    ; Xu Shi; Jason Chapman
+  authors:
+  - Shannon Mason
+  - Robin Hogan
+  - Ryan Neely
+  - Christopher Hassall
+  - Tommy Matthews
+  - Xu Shi
+  - Jason Chapman
   abstract: "The Earth Cloud and Radiation Explorer (EarthCARE) satellite was launched
     in May 2024. Its Doppler cloud profiling radar (CPR), atmospheric lidar (ATLID)
     and multispectral imager (MSI) are designed for detecting the profile of atmospheric
@@ -1703,7 +1952,11 @@
   - Spatial temporal movement processes
   title: Annual intercontinental dynamics of passerine migration across the Strait
     of Gibraltar
-  authors: Alejandro Onrubia; José L. Ruiz; Birgen Haest
+  authors:
+  - Siméon Béasse
+  - Alejandro Onrubia
+  - José L. Ruiz
+  - Birgen Haest
   abstract: "Each spring and autumn, several billions of birds migrate between the
     European and African continent. Many of these fly along the East Atlantic Flyway
     and cross the Mediterranean Sea at the Strait of Gibraltar. This narrow sea crossing
@@ -1740,8 +1993,13 @@
   - Biodiversity monitoring
   title: Assessing migratory bat movements across seasons and years in Central Europe
     using Vertical-Looking Radar and Acoustic Monitoring
-  authors: Janine Aschwanden; Damiano Preatoni; Fabian Hertner;
-    Birgen Haest; Baptiste Schmid
+  authors:
+  - Silvia Giuntini
+  - Janine Aschwanden
+  - Damiano Preatoni
+  - Fabian Hertner
+  - Birgen Haest
+  - Baptiste Schmid
   abstract: Bat migration is an ecologically important yet still poorly understood
     phenomenon. This is partly because tracking these migratory movements is difficult,
     given bats’ nocturnal behaviour and their frequent high-altitude flights. This
@@ -1775,7 +2033,10 @@
   - Methodological advances
   title: 'Taxonomic resolution in dual-polarisation weather radar observations of
     biological scatterers: a simulation-grounded exploration'
-  authors: Ryan Neely; Christopher Hassall
+  authors:
+  - Tommy Matthews
+  - Ryan Neely
+  - Christopher Hassall
   abstract: "Weather surveillance radar is becoming firmly established as a tool for
     monitoring the complex large scale spatio-temporal dynamics of insect and bird
     populations, with multiple long-term entomological studies now in the literature.
@@ -1811,8 +2072,14 @@
   - Tracking radar
   - Applied radar aeroecology
   title: Quantifying bat flight heights
-  authors: Angus Dempster; Kerryn Hawke; Karen Riley ; Jesse Harper;
-    Lazaro Roque-Albelo; Jill Shephard
+  authors:
+  - Trish Fleming
+  - Angus Dempster
+  - Kerryn Hawke
+  - Karen Riley
+  - Jesse Harper
+  - Lazaro Roque-Albelo
+  - Jill Shephard
   abstract: Australia’s commitment to meeting emission targets has seen rapid growth
     in the renewable energy sector. Current wind farm proposals represent a projected
     12-fold increase over current wind energy generation, with more, much larger turbines,
@@ -1846,6 +2113,8 @@
   - Spatial temporal movement processes
   title: What can and cannot be inferred from single- and multiple-point observations
     of ‘migration in progress’?
+  authors:
+  - V. Alistair Drake
   abstract: |-
     Since the late 1990s, small vertical-beam radars have played a leading observational role in aeroecological research by providing high-quality information about insects and birds as they pass directly overhead. These units examine only a tiny proportion of each migrant’s trajectory but accumulate data for a succession of different individuals: they observe ‘migration in progress’ at a single location. In contrast, researchers, conservationists, and pest managers are mainly interested in knowing where migrating populations originate from, where they are terminated, and what behaviours are employed to achieve these movements. This talk will examine what it is possible to reliably infer, from the extremely ‘local’ vertical-beam radar data, about the spatially extensive and intrinsically ‘non-local’ phenomenon of migration.
 
@@ -1862,7 +2131,11 @@
   - Animal behaviour
   title: Cross the sea or follow the coast?  Results from 3 years of data along the
     Gulf of Lion, French Mediterranean Sea
-  authors: Hélène Schopper; Baptiste Schmid; Cyprien Daide
+  authors:
+  - Vincent Delcourt
+  - Hélène Schopper
+  - Baptiste Schmid
+  - Cyprien Daide
   abstract: 'The Gulf of Lion is a major migratory corridor for terrestrial and marine
     birds in the western Mediterranean Sea, but it is also an area with significant
     offshore wind energy development. To better understand the potential effects of
@@ -1901,8 +2174,14 @@
   - Spatial temporal movement processes
   title: Simultaneous offshore and inshore radar recordings bring new insights into
     bird migration at the Gulf of Lions scale
-  authors: Camille Assali; Dorian Chauvin; Vincent Liebault; Cyprien Daide; 
-    Hélène Schopper; Nicolas Delelis
+  authors:
+  - Vincent Delcourt
+  - Camille Assali
+  - Dorian Chauvin
+  - Vincent Liebault
+  - Cyprien Daide
+  - Hélène Schopper
+  - Nicolas Delelis
   abstract: "While bird migratory displacements are informed by visual counts since
     decades, at-sea distribution of migratory bird in the Western Europe, and especially
     across the Mediterranean Sea, is poorly known. However, significant development
@@ -1942,7 +2221,12 @@
   - Animal behaviour
   title: A local and regional spatial analysis of bird stopover distributions in the
     Great Lakes basin
-  authors: Fengyi Guo; Emily Cohen; Jared Wolfe; Jeffrey Buler
+  authors:
+  - Virginia Halterman
+  - Fengyi Guo
+  - Emily Cohen
+  - Jared Wolfe
+  - Jeffrey Buler
   abstract: Forests in the North American Great Lakes basin provide essential stopover
     habitats for migratory birds. Understanding how migratory bird stopover densities
     relate to habitat availability is necessary to plan management for future stopover
@@ -1982,7 +2266,12 @@
   - Spatial temporal movement processes
   title: Insect biomass plays an important role in seasonal migration intensity of
     passerines in Europe
-  authors: Siméon Béasse; Judy Shamoun-Baranes; Vincent Delcourt; Birgen Haest
+  authors:
+  - Xiaodan Wang
+  - Siméon Béasse
+  - Judy Shamoun-Baranes
+  - Vincent Delcourt
+  - Birgen Haest
   abstract: Seasonal variation in intensity of migratory bird movements has repeatedly
     been linked to local weather conditions, those earlier along the migratory route,
     or at the departure site. For many of these observed, sometimes strong, relationships
@@ -2022,7 +2311,11 @@
   - Spatial temporal movement processes
   title: Cross-calibration of weather radar and insect radars for quantifying aerial
     insect movements
-  authors: Boya Gao; Gao Hu;  Jason Chapman
+  authors:
+  - Xu Shi
+  - Boya Gao
+  - Gao Hu
+  - Jason Chapman
   abstract: Weather radars are increasingly used worldwide to study the aerial movements
     and abundance of airborne insects. However, these applications often rely on broad
     assumptions about differences in self-powered airspeed and seasonality to distinguish
@@ -2054,7 +2347,10 @@
   - Spatial temporal movement processes
   - Animal behaviour
   title: Crossings and altitudes used by migratory birds around the Baltic Sea
-  authors: Fausto Dal Monte; Cecilia Nilsson
+  authors:
+  - Yohan Sassi
+  - Fausto Dal Monte
+  - Cecilia Nilsson
   abstract: The Baltic Sea, in northern Europe, is part of the East Atlantic flyway,
     one of the 8 major bird migratory flyways. This area is regularly crossed by millions
     of migratory birds and has more than 600 offshore wind turbines already operating
@@ -2083,8 +2379,15 @@
   - Biodiversity monitoring
   title: Novel estimates of nocturnal bird migration traffic at the continental scale
     using participatory science data
-  authors: Ethan Plunkett; David L. Slager; Miguel Fuentes; Yangkang
-    Chen; Benjamin M. Van Doren; Adriaan M. Dokter; Daniel Sheldon
+  authors:
+  - Yuting Deng
+  - Ethan Plunkett
+  - David L. Slager
+  - Miguel Fuentes
+  - Yangkang Chen
+  - Benjamin Van Doren
+  - Adriaan Dokter
+  - Daniel Sheldon
   abstract: Quantifying movement patterns of migratory birds throughout their annual
     cycles can guide effective conservation and help mitigate risks. Integrating migratory
     trajectories models across species and with other data sources could advance migration
@@ -2123,8 +2426,17 @@
   - Migration
   title: Millions of bats migrate along two continental flyways in Europe and the
     Middle East
-  authors: Johannes De Groeve; David Troupin; Baptiste Schmid; Fabian
-    Hertner; Judy Shamoun-Baranes; Arjan Boonman; Yossi Yovel; Nir Sapir; Birgen Haest
+  authors:
+  - Yuval Werber
+  - Johannes De Groeve
+  - David Troupin
+  - Baptiste Schmid
+  - Fabian Hertner
+  - Judy Shamoun-Baranes
+  - Arjan Boonman
+  - Yossi Yovel
+  - Nir Sapir
+  - Birgen Haest
   abstract: "Animal migration is a fundamental driver of global ecological processes,
     linking distant ecosystems and delivering critical services across continents.
     Bats are known to engage in long-distance migratory journeys, but the scale and
@@ -2161,7 +2473,10 @@
   - Spatial temporal movement processes
   title: Synoptic state alters flock migration patterns through a bottleneck in the
     Levant
-  authors: Asaf Hochman; Nir Sapir
+  authors:
+  - Yuval Werber
+  - Asaf Hochman
+  - Nir Sapir
   abstract: "Bird migration is known to be affected by weather conditions, but little
     is known about the relationship between synoptic conditions spanning hundreds
     of kilometers and bird migration. Synoptic types can be considered a capsule of
@@ -2198,7 +2513,9 @@
   lastname: Follett
   contributiontype: Poster
   title: Operational Use of Avian Radar to Identify, Predict, and Respond to Flocking Waterfowl Hazards
-  authors: David Bradbeer
+  authors:
+  - Jeff Follett
+  - David Bradbeer
   abstract: "Lesser snow geese winter on the Fraser River estuary in southwestern British Columbia and are a hazard to aviation operations at Vancouver International Airport. Though the geese did not consistently use habitats at the airport, they actively transited between habitats outside the airfield. This includes movements between tidal sedge marshes, upland agricultural fields, and suburban amenity turf grass fields and lawns. The hazard associated with these daily movements was most acute when flocks transited the departure runways. Understanding the routes taken by the geese and the timing of the flights allowed airport managers to proactively deploy resources to manage these specific wildlife hazards. It also supported the planning and implementation of novel operational procedures as further mitigation.
 \n\n
 We used an avian radar system to characterize patterns of lesser snow goose movements. Analysis of flight patterns were initially conducted by studying hour-long blocks of radar data to visually identify radar tracks that were associated with goose movements. We also conducted observations of geese in the field to create a validated database of radar tracks. From these data we identified target characteristics associated with geese and created geospatially defined zones within the avian radar system that would automatically alert if goose flocks persisted within the zones. This provided on-duty wildlife management personnel with real-time awareness of goose movements. Using the analysis of flight pattern methodology, we identified a new trend of goose flight behavior in spring 2022. With the available information, we were able to strategize mitigations to the new flight behavior, which included a daily scheduled watch to detect the geese; real-time radar alert zones to improve situational awareness; and the coordination of dynamic departure management with ATC, airport safety officers and wildlife management personnel. 
