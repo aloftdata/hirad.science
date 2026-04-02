@@ -1571,8 +1571,8 @@
     prediction and early warning of migratory pests, with important practical
     implications for agricultural pest management and biodiversity conservation.
 
-- firstname: Jill M
 - key: jish
+  firstname: Jill
   lastname: Shephard
   contributiontype: Presentation
   orcid: 0000-0002-4418-9891
@@ -1585,9 +1585,9 @@
     inform collision risk modelling of bird species in a remote site in the
     Pilbara, Western Australia
   authors:
-    - Jill M Shephard
-    - Karen J Riley
-    - Patricia A Fleming
+    - Jill Shephard
+    - Karen J. Riley
+    - Patricia A. Fleming
   abstract: |
     In the next 10-15 years proposed onshore wind turbine projects in Western
     Australia will construct and commission nearly 5500 turbines, 2.5 times the
