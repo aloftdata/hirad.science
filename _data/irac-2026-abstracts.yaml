@@ -1,4 +1,5 @@
-- firstname: Jeffrey
+- key: jebu
+  firstname: Jeffrey
   lastname: Buler
   contributiontype: Keynote
   orcid: 0000-0002-2696-847X
@@ -38,9 +39,9 @@
     variability in the direction and strength of waterfowl associations with
     environmental predictors within and between flyways. We will also discuss
     the features of the web application for visualizing data by users.
-  key: jebu
 
-- firstname: Bart
+- key: baho
+  firstname: Bart
   lastname: Hoekstra
   contributiontype: Presentation
   orcid: 0000-0002-7085-3805
@@ -94,9 +95,9 @@
     peaks in our hybrid model. This is crucial for high-stakes applications like
     wind curtailment, where opening the “black box” helps build confidence and
     trust among a diverse range of stakeholders.
-  key: baho
 
-- firstname: Adriaan
+- key: addo
+  firstname: Adriaan
   lastname: Dokter
   contributiontype: Speed talk
   orcid: 0000-0001-6573-066X
@@ -134,9 +135,9 @@
     of each when quantifying migration traffic and migratory stopover,
     especially in the context of regions with strong topography. All approaches
     discussed have been made available in the R-packages bioRad and vol2birdR.
-  key: addo
 
-- firstname: Andrés
+- key: ande
+  firstname: Andrés
   lastname: De la Cruz
   contributiontype: Speed talk
   orcid: 0000-0002-0363-2498
@@ -190,9 +191,9 @@
     This approach provides a practical framework for distance calibration in
     aeroecological radar studies and improves the robustness of migration flux
     estimates at coastal migration corridors.
-  key: ande
 
-- firstname: Anastasia
+- key: anla
+  firstname: Anastasia
   lastname: Lavrenko
   contributiontype: Speed talk
   orcid: 0000-0002-3944-5379
@@ -250,9 +251,9 @@
     current capabilities and remaining challenges, and point toward future
     developments including improved tag characteristics, adaptive sensing
     strategies, and scalable monitoring deployments for aeroecological research.
-  key: anla
 
-- firstname: Bart
+- key: bakr
+  firstname: Bart
   lastname: Kranstauber
   contributiontype: Poster
   orcid: 0000-0001-8303-780X
@@ -296,9 +297,9 @@
     BALTRAD through the European collaboration of meteorological institutes.
     Together these steps highlight the potential of an open infrastructure for
     radar aeroecology.
-  key: bakr
 
-- firstname: Bart
+- key: bakr2
+  firstname: Bart
   lastname: Kranstauber
   contributiontype: Presentation
   orcid: 0000-0001-8303-780X
@@ -344,9 +345,9 @@
     Understanding these differences is important for optimizing local
     conservation measures, highlighting where and when tailored conservation
     efforts are most desirable.
-  key: bakr2
 
-- firstname: Baptiste
+- key: basc
+  firstname: Baptiste
   lastname: Schmid
   contributiontype: Speed talk
   orcid: 0000-0002-7736-7527
@@ -387,9 +388,9 @@
     coastal lighting could impair orientation and elevate collision risk with
     illuminated infrastructure. This emphasises the need for targeted mitigation
     in light-sensitive migration corridors.
-  key: basc
 
-- firstname: Birgen
+- key: biha
+  firstname: Birgen
   lastname: Haest
   contributiontype: Poster
   orcid: 0000-0002-8739-6460
@@ -442,9 +443,9 @@
     existence of massive migratory movements between both continents across the
     Mediterranean Sea but also suggest likely high mortality rates during the
     crossing.
-  key: biha
 
-- firstname: Boya
+- key: boga
+  firstname: Boya
   lastname: Gao
   contributiontype: Presentation
   keywords:
@@ -485,9 +486,9 @@
     resolve the existing controversy but is also expected to significantly
     advance our understanding of the drivers and adaptive strategies governing
     long-distance insect migration systems.
-  key: boga
 
-- firstname: Carrie Ann
+- key: caad
+  firstname: Carrie Ann
   lastname: Adams
   contributiontype: Keynote
   orcid: 0000-0001-7381-0555
@@ -535,9 +536,9 @@
     effects of avoiding artificial lights, but all LEDs are likely to attract
     birds on foggy nights. Reducing light pollution is crucial for protecting
     avian migrants from collisions.
-  key: caad
 
-- firstname: Carolyn
+- key: cabu
+  firstname: Carolyn
   lastname: Burt
   contributiontype: Presentation
   orcid: 0000-0003-4220-117X
@@ -581,9 +582,9 @@
     data with on-the-ground monitoring, offering a scalable pathway to
     forecasting the connection between broad atmospheric data to ground-level
     ecological processes that is applicable across migratory taxa.
-  key: cabu
 
-- firstname: Cecilia
+- key: ceni
+  firstname: Cecilia
   lastname: Nilsson
   contributiontype: Presentation
   orcid: 0000-0001-8957-4411
@@ -622,9 +623,9 @@
     investigate animal distributions in the airspace, including altitudinal
     space. This is crucial to understanding life in the air and its responses to
     future change.
-  key: ceni
 
-- firstname: Clara
+- key: clta
+  firstname: Clara
   lastname: Tattoni
   contributiontype: Speed talk
   orcid: 0000-0003-1555-5669
@@ -669,9 +670,9 @@
     migratory corridors operationally, supporting more consistent
     classifications and guiding the planning and management of migration
     monitoring activities.
-  key: clta
 
-- firstname: Daniel
+- key: dabl
+  firstname: Daniel
   lastname: Bloche
   contributiontype: Speed talk
   orcid: 0009-0007-4448-8553
@@ -724,9 +725,9 @@
     radar and ringing data provides a powerful approach for studying migratory
     decisions and addressing critical knowledge gaps in the stopover ecology of
     songbirds.
-  key: dabl
 
-- firstname: David
+- key: datr
+  firstname: David
   lastname: Troupin
   contributiontype: Poster
   orcid: 0000-0002-2158-3781
@@ -766,9 +767,9 @@
     proportions of waders in higher altitudes in spring but not autumn. These
     findings demonstrate that nocturnal wader migration is structured primarily
     by north-south climatic gradients rather than coastal proximity.
-  key: datr
 
-- firstname: Elske
+- key: elti
+  firstname: Elske
   lastname: Tielens
   contributiontype: Presentation
   orcid: 0000-0001-7940-5657
@@ -806,9 +807,9 @@
     Similarly, common orientation is also weaker at lower latitudes than at
     northern latitudes. Together, these results suggest that the pressures to
     migrate differ across space and time.
-  key: elti
 
-- firstname: Emiel
+- key: emva
+  firstname: Emiel
   lastname: van Loon
   contributiontype: Speed talk
   orcid: 0000-0002-8895-0427
@@ -842,9 +843,9 @@
     the latest literature on track similarity measurement and prediction. It is
     subsequently applied to a sample of bird tracks from a tracking bird radar
     (Robin Radar 3D MAX) covering a year-round period.
-  key: emva
 
-- firstname: Erik
+- key: erfr
+  firstname: Erik
   lastname: Fritz
   contributiontype: Presentation
   orcid: 0000-0003-1486-3643
@@ -892,9 +893,9 @@
     wind farm design, balancing renewable energy goals with biodiversity
     protection. Furthermore, the extensive dataset has large potential for the
     validation of collision risk models in an offshore environment.
-  key: erfr
 
-- firstname: Ethan
+- key: etpl
+  firstname: Ethan
   lastname: Plunkett
   contributiontype: Presentation
   orcid: 0000-0003-4405-2251
@@ -955,9 +956,9 @@
     release of tuned BirdFlow models—providing a foundation for more accurate
     predictions in applications including conservation, disease surveillance,
     aviation, and public outreach.
-  key: etpl
 
-- firstname: Fengyi
+- key: fegu
+  firstname: Fengyi
   lastname: Guo
   contributiontype: Presentation
   orcid: 0000-0002-5426-324X
@@ -995,9 +996,9 @@
     how threats encountered during migration shape long-term population
     trajectories, offering new insights into identifying the drivers of
     migratory bird population declines in North America.
-  key: fegu
 
-- firstname: Gonzalo
+- key: gomu
+  firstname: Gonzalo
   lastname: Munoz Arroyo
   contributiontype: Speed talk
   orcid: 0000-0002-1064-5342
@@ -1055,9 +1056,9 @@
     vertical-looking systems offers a promising framework to improve estimates
     of nocturnal migration across the Strait and other major migration
     corridors.
-  key: gomu
 
-- firstname: Graciela
+- key: grde
+  firstname: Graciela
   lastname: de Cuba
   contributiontype: Speed talk
   orcid: 0009-0009-4365-661X
@@ -1095,9 +1096,9 @@
     accuracy of the predictions will be assessed. The predictions of the model
     could be used in the future to provide warnings to airspace users when the
     probability of wildlife strikes is predicted to be high.
-  key: grde
 
-- firstname: Greg
+- key: grmi
+  firstname: Greg
   lastname: Mitchell
   contributiontype: Speed talk
   orcid: 0000-0002-5009-9024
@@ -1136,9 +1137,9 @@
     Canada. Last, we assess the weather conditions resulting in low altitudinal
     flights. The results of this study will be used by policy makers in Canada
     to help inform placement of wind turbines and mitigate collision risk.
-  key: grmi
 
-- firstname: Hans
+- key: hava
+  firstname: Hans
   lastname: van Gasteren
   contributiontype: Presentation
   keywords:
@@ -1173,9 +1174,9 @@
     strikes to evaluate whether an increased number actually reflects a higher
     risk. Implications for modelling approaches of escape responses in
     simulations will be derived.
-  key: hava
 
-- firstname: Heike
+- key: heka
+  firstname: Heike
   lastname: Kalesse-Los
   contributiontype: Presentation
   orcid: 0000-0001-6699-7040
@@ -1216,9 +1217,9 @@
     increase the quantity of high-quality observations available for
     entomological research. This could facilitate large-scale, long-term
     evaluations of insect populations in various regions.
-  key: heka
 
-- firstname: Hidde
+- key: hile
+  firstname: Hidde
   lastname: Leijnse
   contributiontype: Poster
   orcid: 0000-0001-7835-4480
@@ -1269,9 +1270,9 @@
     emphasis will be on the improvements that were realized in the recent
     upgrade. We demonstrate the added value of the interactive visualization of
     bird migration data and the possibilities to extend to other countries.
-  key: hile
 
-- firstname: Hwayeon
+- key: hwka
+  firstname: Hwayeon
   lastname: Kang
   contributiontype: Presentation
   orcid: 0009-0002-8713-5655
@@ -1324,9 +1325,9 @@
     migration timing, our results highlight the value of East Asian weather
     radar networks for large-scale, long-term monitoring of avian migration
     dynamics across an understudied flyway.
-  key: hwka
 
-- firstname: Jacco
+- key: jale
+  firstname: Jacco
   lastname: Leemans
   contributiontype: Poster
   orcid: 0009-0003-1185-2591
@@ -1364,9 +1365,9 @@
     tracks classified as a flock may only concern a single bird. We discuss
     whether these findings could contribute to an improvement of the migration
     prediction model.
-  key: jale
 
-- firstname: Jeffrey
+- key: jeke
+  firstname: Jeffrey
   lastname: Kelly
   contributiontype: Poster
   orcid: 0000-0002-8255-7990
@@ -1407,9 +1408,9 @@
     insect biomass. Understanding fundamental aerial flight dynamics of airborne
     insects is vital to modeling their abundance and long-range dispersal and
     therefore mitigating or adapting to these biomass changes.
-  key: jeke
 
-- firstname: Jente
+- key: jekr
+  firstname: Jente
   lastname: Kraal
   contributiontype: Presentation
   keywords:
@@ -1456,9 +1457,9 @@
     migration from shorter bursts in movements of local birds. Finally, we
     discuss the effectiveness of this radar-controlled shutdown on demand
     mitigation.
-  key: jekr
 
-- firstname: Jianrong
+- key: jihu
+  firstname: Jianrong
   lastname: Huang
   contributiontype: Speed talk
   keywords:
@@ -1513,9 +1514,9 @@
     beet armyworm (Spodoptera exigua), to agricultural extension departments,
     thereby offering critical technical support for the integrated management
     and control of migratory agricultural pests.
-  key: jihu
 
-- firstname: Jian
+- key: jima
+  firstname: Jian
   lastname: Ma
   contributiontype: Presentation
   orcid: 0000-0003-0211-8208
@@ -1569,9 +1570,9 @@
     migration. It provides a theoretical basis for accurate trajectory
     prediction and early warning of migratory pests, with important practical
     implications for agricultural pest management and biodiversity conservation.
-  key: jima
 
 - firstname: Jill M
+- key: jish
   lastname: Shephard
   contributiontype: Presentation
   orcid: 0000-0002-4418-9891
@@ -1616,9 +1617,9 @@
     track data, realised and modelled flight aerodynamics, and flight
     modalities. These data will be used to populate collision risk models and
     represent one of very few studies utilising radar technology in Australia.
-  key: jish
 
-- firstname: Joep
+- key: jobr
+  firstname: Joep
   lastname: Breuer
   contributiontype: Speed talk
   orcid: 0000-0002-8139-2178
@@ -1667,9 +1668,9 @@
     understanding of bird-turbine interactions but also informs the development
     of mitigation strategies and sensor technologies for future onshore and
     offshore wind farms.
-  key: jobr
 
-- firstname: Johannes
+- key: jonu
+  firstname: Johannes
   lastname: Nüesch
   contributiontype: Presentation
   orcid: 0009-0002-0601-7789
@@ -1725,9 +1726,9 @@
     non-invasive way, the approach bridges the gap between radar physics and
     ecology for monitoring avian biodiversity and expanding the biological
     interpretability of radar observations.
-  key: jonu
 
-- firstname: Judy
+- key: jush
+  firstname: Judy
   lastname: Shamoun-Baranes
   contributiontype: Presentation
   orcid: 0000-0002-1652-7646
@@ -1773,9 +1774,9 @@
     relevant in shaping these pathways are passion, persistence and serendipity.
     Rather than presenting detailed research results we take you along our
     journey and share the lessons we have learned along the way.
-  key: jush
 
-- firstname: Korin
+- key: kore
+  firstname: Korin
   lastname: Reznikov
   contributiontype: Presentation
   orcid: 0009-0004-9131-3658
@@ -1821,9 +1822,9 @@
     the groundwork for a deeper understanding of diurnal soaring bird flock
     migration, facilitating the application of radar aeroecology to conservation
     and aviation-safety challenges.
-  key: kore
 
-- firstname: Kseniia
+- key: kskr
+  firstname: Kseniia
   lastname: Kravchenko
   contributiontype: Poster
   orcid: 0000-0003-2235-3117
@@ -1886,9 +1887,9 @@
     research, the approach holds potential for future applications such as
     assessing species-specific interactions with wind energy infrastructure and
     improving models of aerial wildlife movement.
-  key: kskr
 
-- firstname: Dylan
+- key: dyos
+  firstname: Dylan
   lastname: Osterhaus
   contributiontype: Presentation
   keywords:
@@ -1925,9 +1926,9 @@
     PPI-based vertical profiles of reflectivity with those obtained from RHI
     scans, providing insight into how radar frequency and scan strategy
     influence estimates of aerial biomass distribution.
-  key: dyos
 
-- firstname: Leonard
+- key: lede
+  firstname: Leonard
   lastname: De Causmaecker
   contributiontype: Poster
   orcid: 0009-0000-4083-7065
@@ -1983,9 +1984,9 @@
     We touch upon an outlook and opportunities of a distributed lidar network
     for insect diversity monitoring and discuss challenges for implementation
     and upscaling.
-  key: lede
 
-- firstname: Maja
+- key: mabr 
+  firstname: Maja
   lastname: Bradarić
   contributiontype: Speed talk
   orcid: 0000-0003-2987-4855
@@ -2025,9 +2026,9 @@
     homogeneous, particularly at the seasonal scale during spring migration. We
     discuss the implications of our findings for current and future offshore
     wind-turbine curtailment strategies.
-  key: mabr
 
-- firstname: Mason
+- key: mama
+  firstname: Mason
   lastname: Maron
   contributiontype: Poster
   orcid: 0000-0001-7170-9373
@@ -2064,9 +2065,9 @@
     management. Our findings and those that continue to develop from this work
     provide valuable insight into the nature of nocturnal bird migration and
     further refine existing methodologies used to study it.
-  key: mama
 
-- firstname: Mansi
+- key: mamu
+  firstname: Mansi
   lastname: Mungee
   contributiontype: Presentation
   orcid: 0000-0002-5452-7196
@@ -2123,9 +2124,9 @@
     Bhopal, central India, illustrating how Indian weather radars can detect
     diel patterns, vertical stratification, and seasonal variability in tropical
     aerial arthropod assemblages.
-  key: mamu
 
-- firstname: Maarten
+- key: mare
+  firstname: Maarten
   lastname: Reyniers
   contributiontype: Poster
   orcid: 0000-0003-3671-6900
@@ -2150,9 +2151,9 @@
     sonic booms may be detectable in operational radar data via their biological
     impacts, and motivates a broader search for similar signatures in other
     radar archives.
-  key: mare
 
-- firstname: Nadja
+- key: nawe
+  firstname: Nadja
   lastname: Weisshaupt
   contributiontype: Speed talk
   orcid: 0000-0003-4510-4121
@@ -2207,9 +2208,9 @@
     weather radars are often ascribed to spatial variations in bird fluxes.
     However, radial velocity biases can be easily misinterpreted as biological
     phenomenon or missed entirely, if data is not scrutinized appropriately.
-  key: nawe
 
-- firstname: Nir
+- key: nisa
+  firstname: Nir
   lastname: Sapir
   contributiontype: Keynote
   orcid: 0000-0002-2477-0515
@@ -2255,9 +2256,9 @@
     migration route with implications for food-webs, pollination, disease
     transmission, pest outbreaks, and species invasions across West Asia, East
     Europe, and Northeast Africa.
-  key: nisa
 
-- firstname: Øyvind
+- key: oyny
+  firstname: Øyvind
   lastname: Nyheim
   contributiontype: Presentation
   orcid: 0000-0002-9293-7145
@@ -2314,9 +2315,9 @@
     additional mitigation measures, while temporal phenology estimates can
     support turbine curtailment strategies during periods of high collision
     risk.
-  key: oyny
 
-- firstname: Paraskevi
+- key: pano
+  firstname: Paraskevi
   lastname: Nousi
   contributiontype: Poster
   keywords:
@@ -2360,9 +2361,9 @@
     3D neural networks will be developed to capture temporal information, in an
     effort to better differentiate between species based on the patterns of
     their movements.
-  key: pano
 
-- firstname: Paraskevi
+- key: pano2
+  firstname: Paraskevi
   lastname: Nousi
   contributiontype: Speed talk
   keywords:
@@ -2399,9 +2400,9 @@
     extraction, without fully handcrafting features. As a first experiment, we
     show that the developed methods can reach the classification performance of
     the handcrafted features and surpass it in certain cases.
-  key: pano2
 
-- firstname: Peter
+- key: peco
+  firstname: Peter
   lastname: Coggan
   contributiontype: Poster
   orcid: 0000-0003-1566-2974
@@ -2445,9 +2446,9 @@
     geography but also elucidate their phenology and magnitude. The West Coast
     is very valuable for both agriculture and conservation, making knowledge of
     species migratory routes important for basic and applied questions.
-  key: peco
 
-- firstname: Raphaël
+- key: ranu
+  firstname: Raphaël
   lastname: Nussbaumer
   contributiontype: Presentation
   orcid: 0000-0002-8185-1020
@@ -2495,9 +2496,9 @@
     vertical-profile-based approaches. This inversion-based framework provides a
     general foundation for fine-scale, spatially explicit analyses of bird
     migration, stopover behavior, and interactions with environmental features.
-  key: ranu
 
-- firstname: Reuben
+- key: reoc
+  firstname: Reuben
   lastname: O'Connell-Booth
   contributiontype: Presentation
   orcid: 0009-0007-9929-895X
@@ -2540,9 +2541,9 @@
     utility of landscape-scale conservation impact assessment using WSR-measured
     insect abundance paired with econometric impact assessment designs, a
     technique broadly applicable to problems in insect conservation science.
-  key: reoc
 
-- firstname: Sam
+- key: saor
+  firstname: Sam
   lastname: Ordeman
   contributiontype: Speed talk
   keywords:
@@ -2586,9 +2587,9 @@
     guidelines for the sustainable development of offshore wind energy,
     balancing the imperatives of renewable energy generation with the
     conservation of migratory bird populations.
-  key: saor
 
-- firstname: Shannon
+- key: shcu
+  firstname: Shannon
   lastname: Curley
   contributiontype: Presentation
   orcid: 0000-0002-6088-398X
@@ -2636,9 +2637,9 @@
     for forecast-based curtailment to reduce collision risk while minimizing
     operational downtime. These results provide actionable guidance for offshore
     wind planning and operation in Atlantic Canada.
-  key: shcu
 
-- firstname: Shannon
+- key: shma
+  firstname: Shannon
   lastname: Mason
   contributiontype: Presentation
   orcid: 0000-0002-9699-8850
@@ -2697,9 +2698,9 @@
     serendipitous dataset—and its potential for extension to a multi-decadal
     record from spaceborne cloud radars—will be of great use to the aeroecology
     community.
-  key: shma
 
-- firstname: Siméon
+- key: sibe
+  firstname: Siméon
   lastname: Béasse
   contributiontype: Presentation
   orcid: 0009-0001-1295-8238
@@ -2747,9 +2748,9 @@
     towards the East increased southward passerines movements. These patterns
     suggest that passerines prefere to cross the Strait during times of calm or
     supportive winds.
-  key: sibe
 
-- firstname: Silvia
+- key: sigi
+  firstname: Silvia
   lastname: Giuntini
   contributiontype: Keynote
   orcid: 0000-0001-9573-5509
@@ -2790,9 +2791,9 @@
     deployments and the use of existing historical datasets, our understanding
     of migratory bat seasonality, routes, and intensity could improve
     considerably and help support effective conservation protocols.
-  key: sigi
 
-- firstname: Tommy
+- key: toma
+  firstname: Tommy
   lastname: Matthews
   contributiontype: Presentation
   orcid: 0009-0003-7273-4396
@@ -2836,9 +2837,9 @@
     look to open-source our library of scattering results in the near future and
     happily invite requests for the addition of specific species (where a 3D
     model can be provided or found).
-  key: toma
 
-- firstname: Trish
+- key: trfl
+  firstname: Trish
   lastname: Fleming
   contributiontype: Presentation
   orcid: 0000-0002-0626-3851
@@ -2877,9 +2878,9 @@
     and mitigating the balance between green energy development and the
     conservation challenges that it represents. Understanding species-specific
     flight patterns will inform turbine collision mitigation choices.
-  key: trfl
 
-- firstname: V. Alistair
+- key: vadr
+  firstname: V. Alistair
   lastname: Drake
   contributiontype: Presentation
   orcid: 0000-0001-9031-7906
@@ -2931,9 +2932,9 @@
     synoptic weather analyses can identify propagating wind changes before they
     reach the radar site, but unverifiable spatial extrapolation of the radar
     observations of heading direction and height of flight is still required.
-  key: vadr
 
-- firstname: Vincent
+- key: vide
+  firstname: Vincent
   lastname: Delcourt
   contributiontype: Speed talk
   keywords:
@@ -2978,9 +2979,9 @@
     birds in autumn. As a substantial proportion of birds migrate at low
     altitude (50–300 m), these results highlight the importance of taking into
     account terrestrial migratory birds in offshore wind farm development.
-  key: vide
 
-- firstname: Vincent
+- key: vide2
+  firstname: Vincent
   lastname: Delcourt
   contributiontype: Poster
   keywords:
@@ -3035,9 +3036,9 @@
     proportion of the avian migrating community potentially at risk at the Gulf
     of Lions scale is evaluated, in the light of these new elements on migrating
     birds at-sea distribution.
-  key: vide2
 
-- firstname: Virginia
+- key: viha
+  firstname: Virginia
   lastname: Halterman
   contributiontype: Speed talk
   keywords:
@@ -3085,9 +3086,9 @@
     more northern latitudes, positively correlated with stopover densities. Our
     results will help inform forest management for migratory bird stopover at
     both the local and landscape levels across the U.S. Great Lakes basin.
-  key: viha
 
-- firstname: Xiaodan
+- key: xiwa
+  firstname: Xiaodan
   lastname: Wang
   contributiontype: Presentation
   orcid: 0000-0001-5714-0395
@@ -3135,9 +3136,9 @@
     conditions for migration, but also highlight the interplay between food
     availability and environmental variability in shaping avian seasonal
     migrations.
-  key: xiwa
 
-- firstname: Xu
+- key: xush
+  firstname: Xu
   lastname: Shi
   contributiontype: Presentation
   orcid: 0000-0001-7009-9120
@@ -3175,9 +3176,9 @@
     measurements and aerial sampling. These results will be used to refine
     weather-radar-based estimates of insect abundance and biomass, and to
     develop guidance for future large-scale insect migration studies.
-  key: xush
 
-- firstname: Yohan
+- key: yosa
+  firstname: Yohan
   lastname: Sassi
   contributiontype: Speed talk
   orcid: 0000-0002-1551-4421
@@ -3210,9 +3211,9 @@
     Baltic, highlighting the proportion of birds flying at altitudes overlapping
     rotors swept zones, thus providing the wind energy industry with information
     on sensitive areas that should be avoided.
-  key: yosa
 
-- firstname: Yuting
+- key: yude
+  firstname: Yuting
   lastname: Deng
   contributiontype: Speed talk
   orcid: 0000-0001-8110-0414
@@ -3263,9 +3264,9 @@
     supports monitoring in areas without radar coverage, and holds promise for
     public engagement through visualization of near real-time species-level
     migration.
-  key: yude
 
-- firstname: Yuval
+- key: yuwe
+  firstname: Yuval
   lastname: Werber
   contributiontype: Presentation
   orcid: 0000-0002-9858-1872
@@ -3318,9 +3319,9 @@
     systematic monitoring of bat migration to inform biodiversity conservation,
     maintain ecosystem stability, and mitigate human-wildlife conflicts,
     including zoonotic disease transmission and human-induced bat mortality.
-  key: yuwe
 
-- firstname: Yuval
+- key: yuwe2
+  firstname: Yuval
   lastname: Werber
   contributiontype: Poster
   orcid: 0000-0002-9858-1872
@@ -3373,9 +3374,9 @@
     weather conditions and demonstrate the potential of harnessing widely used
     meteorological methodologies to predict bird migration, helping to manage
     its practical implications of bird migration for human life.
-  key: yuwe2
 
-- firstname: Jeff
+- key: jefo
+  firstname: Jeff
   lastname: Follett
   contributiontype: Poster
   title: >
@@ -3420,4 +3421,3 @@
     on-duty wildlife personnel. Another finding is that novel departure
     management procedures can reduce the likelihood of striking flocking
     waterbirds.
-  key: jefo
