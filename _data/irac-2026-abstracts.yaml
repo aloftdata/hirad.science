@@ -1,101 +1,3 @@
-- key: jebu
-  firstname: Jeffrey
-  lastname: Buler
-  contributiontype: Keynote
-  orcid: 0000-0002-2696-847X
-  keywords:
-    - Birds
-    - Weather radar
-    - Applied radar aeroecology
-    - Spatial temporal movement processes
-  title: >
-    WaterFowl Alert Network: Predicting waterfowl distributions within major
-    flyways of the USA from models trained on weather surveillance radar data
-  authors:
-    - Jeffrey Buler
-    - Tristan Bond
-    - Shane Feirer
-    - Joseph Gendreau
-    - Matthew Hardy
-    - Jaclyn Smolinsky
-    - Maurice Pitesky
-  abstract: |
-    Wild waterfowl pose a risk for transmission of avian influenza to commercial
-    poultry, particularly during winter months in the United States. We
-    developed the WaterFowl Alert Network web application; an automated
-    early-warning system to inform poultry industry stakeholders when there is
-    significant waterfowl activity near their facilities. The application
-    produces “near-real-time” daily continuous surface maps of predicted
-    waterfowl density at 250 x 250 m resolution within the Atlantic and
-    Mississippi Flyways of the USA (31 of 50 states). The predictions are based
-    on an ensemble of 2043 localized Boosted Regression Tree models within 489
-    overlapping modeling frames (400 x 400 km in size) trained on data from 79
-    weather surveillance radars of waterfowl densities at the ground as birds
-    depart from diurnal roosting habitats across three winters (November 1
-    through March 31, 2019 - 2022). Predictors for the models include remotely
-    sensed measures of soil moisture, precipitation, snow cover, temperature and
-    land cover composition, as well as time and proximity to waterbodies. We
-    will discuss novel ecological insights from the spatial and temporal
-    variability in the direction and strength of waterfowl associations with
-    environmental predictors within and between flyways. We will also discuss
-    the features of the web application for visualizing data by users.
-
-- key: baho
-  firstname: Bart
-  lastname: Hoekstra
-  contributiontype: Presentation
-  orcid: 0000-0002-7085-3805
-  keywords:
-    - Birds
-    - Weather radar
-    - Methodological advances
-    - Applied radar aeroecology
-    - Spatial temporal movement processes
-  title: >
-    Simulation-informed migration forecasting to improve and understand
-    predictions of rare migration peaks
-  authors:
-    - Bart Hoekstra
-    - Emiel van Loon
-    - Bart Kranstauber
-    - Cecilia Nilsson
-    - Judy Shamoun-Baranes
-  abstract: |
-    Dynamic aeroconservation relies on timely and accurate forecasts of
-    migration peaks, for example to support curtailment decisions in wind
-    energy. While the broader seasonal dynamics of bird migration can be
-    predicted reasonably well with the use of weather radar data, accurately
-    forecasting the timing and intensity of migration peaks remains challenging.
-    A key reason is the rare nature of these events, which makes it difficult
-    for statistical and machine learning approaches to learn the conditions
-    under which migration peaks occur. One way to address this limitation is to
-    guide machine learning models towards a more biologically realistic
-    environmental search space, informed by theoretical movement models.
-
-    We present a hybrid migration forecasting framework that integrates outputs
-    (trajectories and departure locations) from an individual-based model (IBM)
-    with a machine learning (ML) model to predict time series of vertical
-    profiles of bird migration, measured with weather radar. By using the
-    wind-based simulated migratory movements of the IBM to sample environmental
-    information, the ML model can learn from the biologically relevant
-    environmental conditions in a dynamic way. Moreover, the framework enables a
-    clear separation of environmental conditions experienced during stopover, en
-    route towards the radar, and in the vicinity of the radar itself.
-
-    We show that the hybrid model performs comparably to existing models when
-    using conventional performance metrics (RMSE and R²), but performs better
-    when using metrics emphasizing correct prediction of peak events. The latter
-    are more relevant for dynamic aeroconservation in the context of wind energy
-    curtailment. In addition, by explicitly separating environmental conditions
-    at the stopover sites, en route to and above the radar, the model allows us
-    to disentangle where specific environmental drivers matter most.
-
-    We use methods from interpretable ML, primarily SHAP values, to provide
-    insight into how environmental variables interact to shape rare migration
-    peaks in our hybrid model. This is crucial for high-stakes applications like
-    wind curtailment, where opening the “black box” helps build confidence and
-    trust among a diverse range of stakeholders.
-
 - key: addo
   firstname: Adriaan
   lastname: Dokter
@@ -251,6 +153,62 @@
     current capabilities and remaining challenges, and point toward future
     developments including improved tag characteristics, adaptive sensing
     strategies, and scalable monitoring deployments for aeroecological research.
+
+- key: baho
+  firstname: Bart
+  lastname: Hoekstra
+  contributiontype: Presentation
+  orcid: 0000-0002-7085-3805
+  keywords:
+    - Birds
+    - Weather radar
+    - Methodological advances
+    - Applied radar aeroecology
+    - Spatial temporal movement processes
+  title: >
+    Simulation-informed migration forecasting to improve and understand
+    predictions of rare migration peaks
+  authors:
+    - Bart Hoekstra
+    - Emiel van Loon
+    - Bart Kranstauber
+    - Cecilia Nilsson
+    - Judy Shamoun-Baranes
+  abstract: |
+    Dynamic aeroconservation relies on timely and accurate forecasts of
+    migration peaks, for example to support curtailment decisions in wind
+    energy. While the broader seasonal dynamics of bird migration can be
+    predicted reasonably well with the use of weather radar data, accurately
+    forecasting the timing and intensity of migration peaks remains challenging.
+    A key reason is the rare nature of these events, which makes it difficult
+    for statistical and machine learning approaches to learn the conditions
+    under which migration peaks occur. One way to address this limitation is to
+    guide machine learning models towards a more biologically realistic
+    environmental search space, informed by theoretical movement models.
+
+    We present a hybrid migration forecasting framework that integrates outputs
+    (trajectories and departure locations) from an individual-based model (IBM)
+    with a machine learning (ML) model to predict time series of vertical
+    profiles of bird migration, measured with weather radar. By using the
+    wind-based simulated migratory movements of the IBM to sample environmental
+    information, the ML model can learn from the biologically relevant
+    environmental conditions in a dynamic way. Moreover, the framework enables a
+    clear separation of environmental conditions experienced during stopover, en
+    route towards the radar, and in the vicinity of the radar itself.
+
+    We show that the hybrid model performs comparably to existing models when
+    using conventional performance metrics (RMSE and R²), but performs better
+    when using metrics emphasizing correct prediction of peak events. The latter
+    are more relevant for dynamic aeroconservation in the context of wind energy
+    curtailment. In addition, by explicitly separating environmental conditions
+    at the stopover sites, en route to and above the radar, the model allows us
+    to disentangle where specific environmental drivers matter most.
+
+    We use methods from interpretable ML, primarily SHAP values, to provide
+    insight into how environmental variables interact to shape rare migration
+    peaks in our hybrid model. This is crucial for high-stakes applications like
+    wind curtailment, where opening the “black box” helps build confidence and
+    trust among a diverse range of stakeholders.
 
 - key: bakr
   firstname: Bart
@@ -767,6 +725,45 @@
     proportions of waders in higher altitudes in spring but not autumn. These
     findings demonstrate that nocturnal wader migration is structured primarily
     by north-south climatic gradients rather than coastal proximity.
+
+- key: dyos
+  firstname: Dylan
+  lastname: Osterhaus
+  contributiontype: Presentation
+  keywords:
+    - Birds
+    - Insects
+    - Weather radar
+    - Methodological advances
+    - Applied radar aeroecology
+  title: >
+    Seeing double: Concurrent dual-frequency observations of aerial migration
+    with CSU-CHILL
+  authors:
+    - Dylan Osterhaus
+    - Patrick Kennedy
+    - Kyle Horton
+  abstract: |
+    Nearly all radars used in aeroecology operate at a fixed wavelength or
+    frequency band (e.g., X-, C-, or S-band). Radar frequency fundamentally
+    influences how biological targets are detected and quantified, yet
+    relatively few studies have explicitly examined how frequency shapes
+    measurements of birds and insects in weather surveillance radar
+    applications. To address this gap, we leveraged the CSU CHILL
+    dual-frequency, dual-polarization radar (X-band and S-band) located in
+    Greeley, Colorado to collect concurrent measurements of reflectivity, radial
+    velocity, and polarimetric variables during spring migration in 2024. Data
+    were collected on four nights (May 11, May 12, May 18, and May 19) using
+    Plan Position Indicator (PPI) and Range Height Indicator (RHI) scans
+    acquired every 3–5 minutes throughout the night. RHI scans were oriented
+    both in the head-on direction of movement, as inferred from radial velocity,
+    and 90° to the west. We observed pronounced frequency-dependent differences
+    in reflectivity factor, highlighting the importance of converting biological
+    quantities to reflectivity rather than comparing absolute values across
+    radar systems. Finally, we compared flight-height estimates derived from
+    PPI-based vertical profiles of reflectivity with those obtained from RHI
+    scans, providing insight into how radar frequency and scan strategy
+    influence estimates of aerial biomass distribution.
 
 - key: elti
   firstname: Elske
@@ -1366,6 +1363,95 @@
     whether these findings could contribute to an improvement of the migration
     prediction model.
 
+- key: jebu
+  firstname: Jeffrey
+  lastname: Buler
+  contributiontype: Keynote
+  orcid: 0000-0002-2696-847X
+  keywords:
+    - Birds
+    - Weather radar
+    - Applied radar aeroecology
+    - Spatial temporal movement processes
+  title: >
+    WaterFowl Alert Network: Predicting waterfowl distributions within major
+    flyways of the USA from models trained on weather surveillance radar data
+  authors:
+    - Jeffrey Buler
+    - Tristan Bond
+    - Shane Feirer
+    - Joseph Gendreau
+    - Matthew Hardy
+    - Jaclyn Smolinsky
+    - Maurice Pitesky
+  abstract: |
+    Wild waterfowl pose a risk for transmission of avian influenza to commercial
+    poultry, particularly during winter months in the United States. We
+    developed the WaterFowl Alert Network web application; an automated
+    early-warning system to inform poultry industry stakeholders when there is
+    significant waterfowl activity near their facilities. The application
+    produces “near-real-time” daily continuous surface maps of predicted
+    waterfowl density at 250 x 250 m resolution within the Atlantic and
+    Mississippi Flyways of the USA (31 of 50 states). The predictions are based
+    on an ensemble of 2043 localized Boosted Regression Tree models within 489
+    overlapping modeling frames (400 x 400 km in size) trained on data from 79
+    weather surveillance radars of waterfowl densities at the ground as birds
+    depart from diurnal roosting habitats across three winters (November 1
+    through March 31, 2019 - 2022). Predictors for the models include remotely
+    sensed measures of soil moisture, precipitation, snow cover, temperature and
+    land cover composition, as well as time and proximity to waterbodies. We
+    will discuss novel ecological insights from the spatial and temporal
+    variability in the direction and strength of waterfowl associations with
+    environmental predictors within and between flyways. We will also discuss
+    the features of the web application for visualizing data by users.
+
+- key: jefo
+  firstname: Jeff
+  lastname: Follett
+  contributiontype: Poster
+  title: >
+    Operational use of avian radar to identify, predict, and respond to flocking
+    waterfowl hazards
+  authors:
+    - Jeff Follett
+    - David Bradbeer
+  abstract: |
+    Lesser snow geese winter on the Fraser River estuary in southwestern British
+    Columbia and are a hazard to aviation operations at Vancouver International
+    Airport. Though the geese did not consistently use habitats at the airport,
+    they actively transited between habitats outside the airfield. This includes
+    movements between tidal sedge marshes, upland agricultural fields, and
+    suburban amenity turf grass fields and lawns. The hazard associated with
+    these daily movements was most acute when flocks transited the departure
+    runways. Understanding the routes taken by the geese and the timing of the
+    flights allowed airport managers to proactively deploy resources to manage
+    these specific wildlife hazards. It also supported the planning and
+    implementation of novel operational procedures as further mitigation.
+
+    We used an avian radar system to characterize patterns of lesser snow goose
+    movements. Analysis of flight patterns were initially conducted by studying
+    hour-long blocks of radar data to visually identify radar tracks that were
+    associated with goose movements. We also conducted observations of geese in
+    the field to create a validated database of radar tracks. From these data we
+    identified target characteristics associated with geese and created
+    geospatially defined zones within the avian radar system that would
+    automatically alert if goose flocks persisted within the zones. This
+    provided on-duty wildlife management personnel with real-time awareness of
+    goose movements. Using the analysis of flight pattern methodology, we
+    identified a new trend of goose flight behavior in spring 2022. With the
+    available information, we were able to strategize mitigations to the new
+    flight behavior, which included a daily scheduled watch to detect the geese;
+    real-time radar alert zones to improve situational awareness; and the
+    coordination of dynamic departure management with ATC, airport safety
+    officers and wildlife management personnel.
+
+    This work demonstrates that avian radar systems can be used to 1) identify
+    new patterns of flight behavior; 2) visually communicate the hazard to
+    airport stakeholders; and 3) provide real-time situation awareness to
+    on-duty wildlife personnel. Another finding is that novel departure
+    management procedures can reduce the likelihood of striking flocking
+    waterbirds.
+
 - key: jeke
   firstname: Jeffrey
   lastname: Kelly
@@ -1888,45 +1974,6 @@
     assessing species-specific interactions with wind energy infrastructure and
     improving models of aerial wildlife movement.
 
-- key: dyos
-  firstname: Dylan
-  lastname: Osterhaus
-  contributiontype: Presentation
-  keywords:
-    - Birds
-    - Insects
-    - Weather radar
-    - Methodological advances
-    - Applied radar aeroecology
-  title: >
-    Seeing double: Concurrent dual-frequency observations of aerial migration
-    with CSU-CHILL
-  authors:
-    - Dylan Osterhaus
-    - Patrick Kennedy
-    - Kyle Horton
-  abstract: |
-    Nearly all radars used in aeroecology operate at a fixed wavelength or
-    frequency band (e.g., X-, C-, or S-band). Radar frequency fundamentally
-    influences how biological targets are detected and quantified, yet
-    relatively few studies have explicitly examined how frequency shapes
-    measurements of birds and insects in weather surveillance radar
-    applications. To address this gap, we leveraged the CSU CHILL
-    dual-frequency, dual-polarization radar (X-band and S-band) located in
-    Greeley, Colorado to collect concurrent measurements of reflectivity, radial
-    velocity, and polarimetric variables during spring migration in 2024. Data
-    were collected on four nights (May 11, May 12, May 18, and May 19) using
-    Plan Position Indicator (PPI) and Range Height Indicator (RHI) scans
-    acquired every 3–5 minutes throughout the night. RHI scans were oriented
-    both in the head-on direction of movement, as inferred from radial velocity,
-    and 90° to the west. We observed pronounced frequency-dependent differences
-    in reflectivity factor, highlighting the importance of converting biological
-    quantities to reflectivity rather than comparing absolute values across
-    radar systems. Finally, we compared flight-height estimates derived from
-    PPI-based vertical profiles of reflectivity with those obtained from RHI
-    scans, providing insight into how radar frequency and scan strategy
-    influence estimates of aerial biomass distribution.
-
 - key: lede
   firstname: Leonard
   lastname: De Causmaecker
@@ -1985,7 +2032,7 @@
     for insect diversity monitoring and discuss challenges for implementation
     and upscaling.
 
-- key: mabr 
+- key: mabr
   firstname: Maja
   lastname: Bradarić
   contributiontype: Speed talk
@@ -3376,50 +3423,3 @@
     weather conditions and demonstrate the potential of harnessing widely used
     meteorological methodologies to predict bird migration, helping to manage
     its practical implications of bird migration for human life.
-
-- key: jefo
-  firstname: Jeff
-  lastname: Follett
-  contributiontype: Poster
-  title: >
-    Operational use of avian radar to identify, predict, and respond to flocking
-    waterfowl hazards
-  authors:
-    - Jeff Follett
-    - David Bradbeer
-  abstract: |
-    Lesser snow geese winter on the Fraser River estuary in southwestern British
-    Columbia and are a hazard to aviation operations at Vancouver International
-    Airport. Though the geese did not consistently use habitats at the airport,
-    they actively transited between habitats outside the airfield. This includes
-    movements between tidal sedge marshes, upland agricultural fields, and
-    suburban amenity turf grass fields and lawns. The hazard associated with
-    these daily movements was most acute when flocks transited the departure
-    runways. Understanding the routes taken by the geese and the timing of the
-    flights allowed airport managers to proactively deploy resources to manage
-    these specific wildlife hazards. It also supported the planning and
-    implementation of novel operational procedures as further mitigation.
-
-    We used an avian radar system to characterize patterns of lesser snow goose
-    movements. Analysis of flight patterns were initially conducted by studying
-    hour-long blocks of radar data to visually identify radar tracks that were
-    associated with goose movements. We also conducted observations of geese in
-    the field to create a validated database of radar tracks. From these data we
-    identified target characteristics associated with geese and created
-    geospatially defined zones within the avian radar system that would
-    automatically alert if goose flocks persisted within the zones. This
-    provided on-duty wildlife management personnel with real-time awareness of
-    goose movements. Using the analysis of flight pattern methodology, we
-    identified a new trend of goose flight behavior in spring 2022. With the
-    available information, we were able to strategize mitigations to the new
-    flight behavior, which included a daily scheduled watch to detect the geese;
-    real-time radar alert zones to improve situational awareness; and the
-    coordination of dynamic departure management with ATC, airport safety
-    officers and wildlife management personnel.
-
-    This work demonstrates that avian radar systems can be used to 1) identify
-    new patterns of flight behavior; 2) visually communicate the hazard to
-    airport stakeholders; and 3) provide real-time situation awareness to
-    on-duty wildlife personnel. Another finding is that novel departure
-    management procedures can reduce the likelihood of striking flocking
-    waterbirds.
