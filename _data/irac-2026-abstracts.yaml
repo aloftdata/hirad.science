@@ -203,7 +203,7 @@
     - Other radar
     - Animal behaviour
   title: >
-    Novel Harmonic Radar Tools for Tracking Flying Insects
+    Novel harmonic radar tools for tracking flying insects
   authors:
     - Anastasia Lavrenko
     - Andrei Mogilnikov
@@ -455,8 +455,8 @@
     - Biodiversity monitoring
     - Animal behaviour
   title: >
-    Is Southward Return Migration Viable? Resolving the Mystery of Autumnal
-    Insect Migrations from Northeast China
+    Is southward return migration viable? Resolving the mystery of autumnal
+    insect migrations from Northeast China
   authors:
     - Boya Gao
     - Sun Wei
@@ -597,7 +597,7 @@
     - Biodiversity monitoring
     - Animal behaviour
   title: >
-    Animal Niches in the Airspace
+    Animal niches in the airspace
   authors:
     - Cecilia Nilsson
     - Judy Shamoun-Baranes
@@ -633,7 +633,7 @@
     - Birds
     - Applied radar aeroecology
   title: >
-    Towards a Quantitative Criterion for Italian Alpine Bird Migration Corridors
+    Towards a quantitative criterion for Italian alpine bird migration corridors
   authors:
     - Clara Tattoni
     - Silvia Giuntini
@@ -855,8 +855,8 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    Bird Migration over the North Sea: Integrating Radar and Camera Data to
-    Assess Avian Interactions with Offshore Wind Farms
+    Bird migration over the North Sea: Integrating radar and camera data to
+    assess avian interactions with offshore wind farms
   authors:
     - Erik Fritz
     - Sam Ordeman
@@ -1147,8 +1147,8 @@
     - Tracking radar
     - Applied radar aeroecology
   title: >
-    Simulation hits reality: How simulated Wildlife strikes correspond to
-    collisions observed at an Air Base
+    Simulation hits reality: How simulated wildlife strikes correspond to
+    collisions observed at an air base
   authors:
     - Hans van Gasteren
     - Isabel Metz
@@ -1629,8 +1629,8 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    Integrated Monitoring of Avian Behaviour around Wind Turbines: Insights from
-    the Zwarte Wiek and ZWEMT Projects
+    Integrated monitoring of avian behaviour around wind turbines: Insights from
+    the Zwarte Wiek and ZWEMT projects
   authors:
     - Joep Breuer
   abstract: |
@@ -1683,8 +1683,8 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    Physics-Based Simulation and Inference of Flapping-Wing Kinematics from FMCW
-    Micro-Doppler Radar
+    Physics-based simulation and inference of flapping-wing kinematics from FMCW
+    micro-doppler radar
   authors:
     - Johannes Nüesch
     - Felix Liechti
@@ -1786,7 +1786,7 @@
     - Methodological advances
     - Applied radar aeroecology
   title: >
-    Characterizing Soaring-Bird Migration in Israel Using Radars
+    Characterizing soaring-bird migration in Israel using radars
   authors:
     - Korin Reznikov
     - Nir Sapir
@@ -1837,8 +1837,8 @@
     - Biodiversity monitoring
     - Animal behaviour
   title: >
-    Species-Level Bat Identification from Radar Using Micro-Doppler and Acoustic
-    Ground-Truthing
+    Species-level bat identification from radar using micro-doppler and acoustic
+    ground-truthing
   authors:
     - Kseniia Kravchenko
     - Dominik Kleger
@@ -1899,7 +1899,7 @@
     - Methodological advances
     - Applied radar aeroecology
   title: >
-    Seeing Double: Concurrent Dual-Frequency Observations of Aerial Migration
+    Seeing double: Concurrent dual-frequency observations of aerial migration
     with CSU-CHILL
   authors:
     - Dylan Osterhaus
@@ -2038,8 +2038,8 @@
     - Methodological advances
     - Biodiversity monitoring
   title: >
-    Integrating Localized Flight Call Detections and Radar-derived Trajectories
-    to Study Nocturnal Avian Migration
+    Integrating localized flight call detections and radar-derived trajectories
+    to study nocturnal avian migration
   authors:
     - Mason Maron
     - Benjamin Van Doren
@@ -2076,7 +2076,8 @@
     - Weather radar
     - Spatial temporal movement processes
     - Biodiversity monitoring
-  title: 'Seeing Insects at Scale: Weather Radar Insights from the UK & India'
+  title: >
+    Seeing insects at scale: Weather radar insights from the UK & India
   authors:
     - Mansi Mungee
     - Maryna Lukach
@@ -2134,7 +2135,7 @@
     - Birds
     - Weather radar
   title: >
-    Radar Detection of Avian Responses to Sonic Booms
+    Radar detection of avian responses to sonic booms
   authors:
     - Maarten Reyniers
   abstract: |
@@ -2411,7 +2412,7 @@
     - Weather radar
     - Spatial temporal movement processes
   title: >
-    Identifying Potential Ecological Traps for Migratory Insects Along the West
+    Identifying potential ecological traps for migratory insects along the West
     Coast of North America
   authors:
     - Peter Coggan
@@ -2431,7 +2432,7 @@
     change are leading to phenological mismatches between migrants and their
     needed wind heading. This results in species getting trapped north of their
     overwintering range potentially causing a PPE. The West Coast of North
-    America offers a unique space- for-time substitution to test how aerial
+    America offers a unique space-for-time substitution to test how aerial
     insect migrants adapt to non-advantageous wind patterns because many areas
     experience seasonally fixed wind patterns due to local geography. The goal
     of this project is to test how aerial insect abundance, heading, and
@@ -2458,8 +2459,8 @@
     - Methodological advances
     - Spatial temporal movement processes
   title: >
-    Three-Dimensional Reconstruction of Bird Density Using Inverse Weather Radar
-    Modeling
+    Three-dimensional reconstruction of bird density using inverse weather radar
+    modeling
   authors:
     - Raphaël Nussbaumer
     - Baptiste Schmid
@@ -2552,8 +2553,8 @@
     - Methodological advances
     - Animal behaviour
   title: >
-    Simulating Bird Flight through Offshore Wind Farms: An Agent-Based Modelling
-    Approach
+    Simulating bird flight through offshore wind farms: An agent-based modelling
+    approach
   authors:
     - Sam Ordeman
     - Erik Fritz
@@ -2760,7 +2761,7 @@
     - Biodiversity monitoring
   title: >
     Assessing migratory bat movements across seasons and years in Central Europe
-    using Vertical-Looking Radar and Acoustic Monitoring
+    using vertical-looking radar and acoustic monitoring
   authors:
     - Silvia Giuntini
     - Janine Aschwanden
@@ -2847,7 +2848,8 @@
     - Bats
     - Tracking radar
     - Applied radar aeroecology
-  title: Quantifying bat flight heights
+  title: >
+    Quantifying bat flight heights
   authors:
     - Trish Fleming
     - Angus Dempster
@@ -2943,7 +2945,7 @@
     - Spatial temporal movement processes
     - Animal behaviour
   title: >
-    Cross the sea or follow the coast?  Results from 3 years of data along the
+    Cross the sea or follow the coast? Results from 3 years of data along the
     Gulf of Lion, French Mediterranean Sea
   authors:
     - Vincent Delcourt
@@ -3380,8 +3382,8 @@
   lastname: Follett
   contributiontype: Poster
   title: >
-    Operational Use of Avian Radar to Identify, Predict, and Respond to Flocking
-    Waterfowl Hazards
+    Operational use of avian radar to identify, predict, and respond to flocking
+    waterfowl hazards
   authors:
     - Jeff Follett
     - David Bradbeer
