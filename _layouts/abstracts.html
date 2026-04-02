@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% assign abstracts = site.data.irac-2026-abstracts | group_by: "contributiontype" %}
+{% for type in abstracts %}
+  <h2 id="{{ type.name }}s">{{ type.name }}s</h2>
+  {% for abstract in type.items %}
+    <h4 id="{{ abstract.key }}">{{ abstract.title }}</h4>
+    <p>
+      {% assign presenter = abstract.firstname | append: " " | append: abstract.lastname %}
+      {% for author in abstract.authors %}
+        {% if author == presenter %}
+          <strong>{% if abstract.orcid != "" %}<a href="https://orcid.org/{{ abstract.orcid }}">{{ author }}</a>{% else %}{{ author }}{% endif %}</strong>{% unless forloop.last %},{% endunless %}
+        {% else %}
+          {{ author }}{% unless forloop.last %},{% endunless %}
+        {% endif %}
+      {% endfor %}
+    </p>
+    {% for keyword in abstract.keywords %}
+      <span class="badge text-bg-primary">{{ keyword }}</span>
+    {% endfor %}
+    </p>
+    <p>{{ abstract.abstract }}</p>
+  {% endfor %}
+{% endfor %}
