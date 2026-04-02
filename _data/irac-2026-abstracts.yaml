@@ -994,6 +994,42 @@
     trajectories, offering new insights into identifying the drivers of
     migratory bird population declines in North America.
 
+- key: feli
+  firstname: Felix 
+  lastname: Liechti
+  contributiontype: Poster
+  orcid: 0000-0001-9473-0837
+  title: >
+    Large-scale synchrony of the autumn bird migration in Baden-Württemberg,
+    Germany
+  authors:
+    - Herbert Stark
+    - Felix Liechti
+    - Marc I. Förschler
+  abstract: |
+    Migratory birds are increasingly affected by expanding human infrastructure
+    such as wind turbines and artificial light, which create additional risks
+    along migration routes. Understanding spatial and temporal migration
+    patterns is essential for developing mitigation measures. In
+    Baden-Württemberg, migration was recorded simultaneously for the first time
+    at two sites (Swabian Alb and Black Forest National Park) during autumn 2025
+    (August 31–November 30) using identical radar systems. Seasonal and diurnal
+    patterns were very similar at both stations. Daytime migration intensity on
+    the Swabian Alb was twice as high as in the Black Forest (183 vs. 93
+    birds·h⁻¹·km⁻¹), whereas nighttime intensity differed by only 5% (610 vs.
+    557). The lower daytime values in the Black Forest are likely due to very
+    low-altitude migration (<50 m) in ridge areas, which was not adequately
+    detected by radar. Migration intensities were strongly correlated both
+    during the day (r = 0.65) and at night (r = 0.86). Daily changes showed
+    stronger correlation at night (ρ = 0.83) than during the day (ρ = 0.28),
+    indicating that short-term fluctuations occur synchronously only at night.
+    The high synchronisation over 120 km enabled extrapolation of migration
+    volume for the region, suggesting that at least 200 million birds crossed
+    Baden-Württemberg between August 31 and November 30, 2025. These findings
+    indicate that even a limited number of monitoring sites can accurately
+    predict migration patterns and support targeted conflict-reduction measures.
+  key: feli
+
 - key: gomu
   firstname: Gonzalo
   lastname: Munoz Arroyo
