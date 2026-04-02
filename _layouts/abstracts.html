@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% assign types = "Keynote, Presentation, Speed talk, Poster" | split: ", " %}
+{% assign abstracts = site.data.irac-2026-abstracts | sort: "key" %}
+
+{% for type in types %}
+  <h2 id="{{ type | downcase | url_encode }}s">{{ type }}s</h2>
+  {% for abstract in abstracts %}
+    {% if abstract.contributiontype == type %}
+      <section class="mb-5">
+        <h4 id="{{ abstract.key }}">{{ abstract.title }}</h4>
+        <p>
+        {% assign presenter = abstract.firstname | append: " " | append: abstract.lastname %}
+        {% for author in abstract.authors %}
+          {% if author == presenter %}
+            <strong>{% if abstract.orcid != "" %}<a href="https://orcid.org/{{ abstract.orcid }}">{{ author }}</a>{% else %}{{ author }}{% endif %}</strong>{% unless forloop.last %},{% endunless %}
+          {% else %}
+            {{ author }}{% unless forloop.last %},{% endunless %}
+          {% endif %}
+        {% endfor %}
+        </p>
+        <p>
+        {% for keyword in abstract.keywords %}
+          <span class="badge text-bg-light">{{ keyword }}</span>
+        {% endfor %}
+        </p>
+        <p>
+          {{ abstract.abstract | newline_to_br }}
+        </p>
+      </section>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
