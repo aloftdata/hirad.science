@@ -11,8 +11,9 @@ layout: default
   <h2 id="{{ type }}s">{{ type }}s</h2>
   {% for abstract in abstracts %}
     {% if abstract.contributiontype == type %}
-      <h4 id="{{ abstract.key }}">{{ abstract.title }}</h4>
-      <p>
+      <section class="mb-5">
+        <h4 id="{{ abstract.key }}">{{ abstract.title }}</h4>
+        <p>
         {% assign presenter = abstract.firstname | append: " " | append: abstract.lastname %}
         {% for author in abstract.authors %}
           {% if author == presenter %}
@@ -21,12 +22,16 @@ layout: default
             {{ author }}{% unless forloop.last %},{% endunless %}
           {% endif %}
         {% endfor %}
-      </p>
-      {% for keyword in abstract.keywords %}
-        <span class="badge text-bg-dark">{{ keyword }}</span>
-      {% endfor %}
-      </p>
-      <p>{{ abstract.abstract }}</p>
+        </p>
+        <p>
+        {% for keyword in abstract.keywords %}
+          <span class="badge text-bg-dark">{{ keyword }}</span>
+        {% endfor %}
+        </p>
+        <p>
+          {{ abstract.abstract }}
+        </p>
+      </section>
     {% endif %}
   {% endfor %}
 {% endfor %}
