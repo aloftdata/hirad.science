@@ -29,7 +29,7 @@ layout: default
         {% endfor %}
         </p>
         <p>
-          {{ abstract.abstract }}
+          {{ abstract.abstract | newline_to_br }}
         </p>
       </section>
     {% endif %}
