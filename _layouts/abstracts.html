@@ -8,7 +8,7 @@ layout: default
 {% assign abstracts = site.data.irac-2026-abstracts | sort: "key" %}
 
 {% for type in types %}
-  <h2 id="{{ type }}s">{{ type }}s</h2>
+  <h2 id="{{ type | downcase | url_encode }}s">{{ type }}s</h2>
   {% for abstract in abstracts %}
     {% if abstract.contributiontype == type %}
       <section class="mb-5">
