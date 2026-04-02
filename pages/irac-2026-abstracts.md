@@ -6,3 +6,5 @@ background: https://images.unsplash.com/photo-1468436385273-8abca6dfd8d3?q=80&w=
 permalink: /irac-2026/abstracts/
 toc: true
 ---
+
+[Back to programme](../#programme)
