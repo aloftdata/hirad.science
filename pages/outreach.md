@@ -8,7 +8,7 @@ toc: true
 ## 2026
 
 
-**Kranstauber B** (2026) Young AI Talent for Biodiversity. [2026 AI Cup Final](https://aic4nl.nl/en/congres-break-out/finale-ai-cup-2026-jong-ai-talent-voor-biodiversiteit/), Utrecht, 14 April 2026. _Jury Member_{:.badge .bg-secondary}
+**Kranstauber B** (2026) Young AI talent for biodiversity. [2026 AI Cup Final](https://aic4nl.nl/en/congres-break-out/finale-ai-cup-2026-jong-ai-talent-voor-biodiversiteit/), Utrecht, 14 April 2026. _Jury member_{:.badge .bg-secondary}
 
 **Kranstauber B** (2026) The relevance of understanding, mapping and predicting bird movement for wind energy. [Team epoch AI Cup 2026](https://www.teamepoch.ai/ai-cup-2026), Delft, 13 February 2026. _Invited presentation_{:.badge .bg-secondary}
 
