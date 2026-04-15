@@ -188,6 +188,37 @@
     
     These behavioural responses were documented in response to relatively low-intensity night-time illumination and thus suggest that even modest coastal lighting could impair orientation and elevate collision risk with illuminated infrastructure. This emphasises the need for targeted mitigation in light-sensitive migration corridors.
 
+- key: beva
+  firstname: Benjamin
+  lastname: Van Doren
+  contributiontype: Presentation
+  orcid: 0000-0003-4405-2251
+  keywords:
+    - Birds
+    - Weather radar
+    - Methodological advances
+    - Applied radar aeroecology
+    - Spatial temporal movement processes
+  title: >
+    Integrating BirdFlow into BirdCast migration alerts: Towards
+    species-specific risk
+  authors:
+    - Ethan Plunkett
+    - Yangkang Chen
+    - Miguel Fuentes
+    - Yuting Deng
+    - Daniel Sheldon
+    - Benjamin Van Doren
+    - Adriaan Dokter
+  abstract: |
+    Weather radar networks have revolutionized our ability to observe continental-scale movements of migratory birds. We use the NEXRAD network to issue real-time alerts for high migration events via the BirdCast platform. Alerts can target different actionable events, such as 'lights-out' actions to reduce window collisions or warning pilots of bird strike risks. A key limitation of radar data is that it is species-agnostic, whereas risk levels often depend on species composition. In North America, migratory warblers in the Parulidae family are particularly sensitive to light attraction and collisions, while for pilots, larger species pose most concern.
+
+    Here we propose using BirdFlow models to adjust radar alert levels and improve risk assessment. BirdFlow is a probabilistic modeling framework that infers population-level movements from weekly species distribution maps produced by the participatory science project eBird. BirdFlow models previously required tuning with high-resolution individual tracking data, unavailable for most migratory species. We introduce a new model-tuning framework that removes this dependency and generalizes population-level movement inference to hundreds of migratory species. This framework extends BirdFlow by enabling tuning and validation with multiple complementary data sources, including GPS tracks, banding recoveries, and radio telemetry data from the Motus Wildlife Tracking System.
+
+    We evaluate the generalizability of this approach by: (1) assessing predictive performance compared to null models; (2) validating the biological plausibility of BirdFlow outputs by comparing route straightness, stopover frequency, and migration speed between simulated and empirical tracks; and (3) comparing models tuned on species-specific movement data to those tuned using hyperparameters transferred from other species. Results show that BirdFlow achieves biologically realistic performance even over prediction horizons of several months and thousands of kilometers.
+
+    Finally, we demonstrate how these validated models can enhance BirdCast alerts, illustrating differences in frequency and timing of alerts for light-sensitive species relevant to lights-out actions and large-bodied species relevant to aviation safety. Our study is accompanied by a first release of tuned BirdFlow models—providing a foundation for more accurate predictions in applications including conservation, disease surveillance, aviation, and public outreach.
+
 - key: biha
   firstname: Birgen
   lastname: Haest
@@ -454,37 +485,6 @@
     The core objective is to analyse and synthesise these heterogeneous datasets to identify migration peaks, quantify bird traffic rates, and elucidate behavioural responses to turbine presence. A central research focus is whether radar and camera systems yield consistent narratives regarding migration dynamics and turbine interactions.
     
     This multidisciplinary effort offers a unique opportunity to advance the ecological understanding of offshore wind impacts and to inform mitigation strategies for avian conservation. The outcomes are expected to contribute to the development of evidence-based guidelines for sustainable offshore wind farm design, balancing renewable energy goals with biodiversity protection. Furthermore, the extensive dataset has large potential for the validation of collision risk models in an offshore environment.
-
-- key: etpl
-  firstname: Benjamin
-  lastname: Van Doren
-  contributiontype: Presentation
-  orcid: 0000-0003-4405-2251
-  keywords:
-    - Birds
-    - Weather radar
-    - Methodological advances
-    - Applied radar aeroecology
-    - Spatial temporal movement processes
-  title: >
-    Integrating BirdFlow into BirdCast migration alerts: Towards
-    species-specific risk
-  authors:
-    - Ethan Plunkett
-    - Yangkang Chen
-    - Miguel Fuentes
-    - Yuting Deng
-    - Daniel Sheldon
-    - Benjamin Van Doren
-    - Adriaan Dokter
-  abstract: |
-    Weather radar networks have revolutionized our ability to observe continental-scale movements of migratory birds. We use the NEXRAD network to issue real-time alerts for high migration events via the BirdCast platform. Alerts can target different actionable events, such as 'lights-out' actions to reduce window collisions or warning pilots of bird strike risks. A key limitation of radar data is that it is species-agnostic, whereas risk levels often depend on species composition. In North America, migratory warblers in the Parulidae family are particularly sensitive to light attraction and collisions, while for pilots, larger species pose most concern.
-
-    Here we propose using BirdFlow models to adjust radar alert levels and improve risk assessment. BirdFlow is a probabilistic modeling framework that infers population-level movements from weekly species distribution maps produced by the participatory science project eBird. BirdFlow models previously required tuning with high-resolution individual tracking data, unavailable for most migratory species. We introduce a new model-tuning framework that removes this dependency and generalizes population-level movement inference to hundreds of migratory species. This framework extends BirdFlow by enabling tuning and validation with multiple complementary data sources, including GPS tracks, banding recoveries, and radio telemetry data from the Motus Wildlife Tracking System.
-
-    We evaluate the generalizability of this approach by: (1) assessing predictive performance compared to null models; (2) validating the biological plausibility of BirdFlow outputs by comparing route straightness, stopover frequency, and migration speed between simulated and empirical tracks; and (3) comparing models tuned on species-specific movement data to those tuned using hyperparameters transferred from other species. Results show that BirdFlow achieves biologically realistic performance even over prediction horizons of several months and thousands of kilometers.
-
-    Finally, we demonstrate how these validated models can enhance BirdCast alerts, illustrating differences in frequency and timing of alerts for light-sensitive species relevant to lights-out actions and large-bodied species relevant to aviation safety. Our study is accompanied by a first release of tuned BirdFlow models—providing a foundation for more accurate predictions in applications including conservation, disease surveillance, aviation, and public outreach.
 
 - key: fegu
   firstname: Fengyi
