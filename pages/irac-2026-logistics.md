@@ -8,7 +8,10 @@ toc: true
 
 ## Venue
 
-The conference will take place at the [Amsterdam Science Park](https://www.google.com/maps/place/Science+Park,+Amsterdam/@52.3538274,4.9546474,17z/), which is located east of the city centre.
+The conference will take place in building **Matrix ONE at the Amsterdam Science Park**, which is located east of the city centre.
+
+- [Matrix ONE on Google Maps](https://maps.app.goo.gl/aPk4AtLriJCX9T366) 
+- [Accessibility and campus map](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/contact-and-location/getting-here/route-description-science-park-904.html)
 
 ## Accommodation
 
