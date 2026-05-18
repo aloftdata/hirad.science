@@ -1065,10 +1065,10 @@
     Approximately 3.5 billion birds migrate across the United States annually, with the vast majority traveling nocturnally. In spite of this, we still lack a fundamental understanding of how nocturnal migration is structured, organized, and impacted by characteristics of the landscape below. Furthermore, research techniques, such as nocturnal flight call monitoring and weather radar, are increasingly popular among the scientific community, but are not fully validated for passage rate estimation. To expand our knowledge and toolset in this field, we established a ground-based acoustic planar array, consisting of four microphones placed equidistant in cardinal directions, coupled with a FaunaScan MR2 X-band radar in the center. We deployed this setup in an agricultural region of Illinois in the US. We simultaneously collected data on migratory bird trajectory, shape, size, spatial behavior, vocalization, and taxonomic identity, assigning localized flight call detections and their corresponding taxonomic identities to radar-tracked flight paths. Using this output, we provide early findings of the social, spatial, and behavioral structure of nocturnal bird migration. Additionally, we identify the strengths, drawbacks, and accuracy of acoustic monitoring and radar as accessible tools for migration research and management. Our findings and those that continue to develop from this work provide valuable insight into the nature of nocturnal bird migration and further refine existing methodologies used to study it.
 
 - key: mamu
-  firstname: Mansi
-  lastname: Mungee
+  firstname: Ryan R.
+  lastname: Neely III
   contributiontype: Presentation
-  orcid: 0000-0002-5452-7196
+  orcid: 0000-0003-4560-4812
   keywords:
     - Insects
     - Weather radar
