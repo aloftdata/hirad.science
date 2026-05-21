@@ -1300,6 +1300,24 @@
   abstract: |
     Agri-environment schemes (AES) commonly represent the largest financial investment in biodiversity conservation at a national or international level, but evidence for AES effectiveness remains equivocal. Here, we develop a novel and general method for assessing the impact of conservation interventions using Weather Surveillance Radar (WSR) to produce spatially explicit time series of aerial insect abundance over 1884 km^2 of agricultural land in England from 2015-2022. Using this dataset, we evaluated the landscape-scale causal effect of AES across 15 natural experiments involving paired AES intervention and control sites. We find no natural experiment which indicates a positive causal effect of AES, even at high levels of expenditure (up to £5122 km^2). When considering all 1884 km2 of agricultural land in England covered by the radars, we find a weak but significant negative correlation between AES and aerial insect abundance, corresponding to 0.29% fewer insects per £1,000 of AES expenditure. We find stronger, positive relationships between insect numbers of the percentage cover of woodland and semi-natural grassland. Our results provide the most robust evaluation of the benefits of AES and indicate that AES are not working to conserve aerial insects, as measured by WSR. We demonstrate the utility of landscape-scale conservation impact assessment using WSR-measured insect abundance paired with econometric impact assessment designs, a technique broadly applicable to problems in insect conservation science.
 
+- key: ruoo
+  firstname: Ruben
+  lastname: van Oosterhoudt
+  contributiontype: Poster
+  keywords:
+    - Birds
+    - Tracking radar
+    - Spatial temporal movement processes
+  title: >
+    Daily patterns of offshore flight activity in the breeding season seem unrelated to distance to shore
+  authors:
+    - Ruben van Oosterhoudt
+    - Jens van Erp
+  abstract: |
+    During the breeding season many seabirds nesting on the coast fly offshore to feed and forage for their young. The back-and-forth flight causes a predictable pattern of daily flight activity offshore that has previously been described, with a distinctive peak after sunrise and low activity at night. As these birds are assumed to return to their colonies on a (semi-)daily basis, we hypothesize the daily pattern of flight activity at any given location offshore is affected by its distance to the nearest coast with breeding colonies, and that locations far offshore see a shorter burst of activity occurring late after sunrise as these birds take longer to get there.
+
+    We explore the daily flight activity recorded by Robin Radar 3D-Fixed bird radars at six locations offshore from the Dutch coast during June and July. The radars were situated on offshore platforms, turbines, and service stations of offshore wind farms at distances between 23 km and 76 km from the Dutch coast. The data was post-processed using previously established methods and site-specific filter parameters. Daily patterns of flight activity were analysed based on the sun azimuth at the nearest shore. All locations showed the expected daily pattern with the highest activity after sunrise and low activity at night, but the pattern did not change based on distance to shore. The results suggest that the daily pattern of flight activity during the breeding season is consistent across the Dutch North Sea, and activity further out at sea could be driven by other factors than coastal bird flyout, including the behaviour of birds on multi-day forage trips and pelagic species.
+
 - key: saor
   firstname: Sam
   lastname: Ordeman
