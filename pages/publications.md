@@ -6,6 +6,10 @@ permalink: /publications/
 toc: true
 ---
 
+## 2026
+
+**Bauer S**, Nussbaumer R, Rojas Tito DA, **Shamoun-Baranes J**, **Farnsworth A** (2026) Bird migration and wind-energy production across Western Europe. _Nature Sustainability_. <https://doi.org/10.1038/s41893-026-01853-4>
+
 ## 2025
 
 **Hoekstra B**, **Kranstauber B**, Bradarić M, De Groeve J, Shinneman S, Wijers BC, Leijnse H, **van Gasteren H**, Dokter AM, van Loon E, **Shamoun-Baranes J** (2025) Large-scale mapping of nocturnal bird migration to accelerate a nature-inclusive energy transition. _Journal of Environmental Management_, 395, 127753. <https://doi.org/10.1016/j.jenvman.2025.127753>
