@@ -30,8 +30,7 @@
     - Applied radar aeroecology
     - Biodiversity monitoring
   title: >
-    How radar distance influences detectability and migration traffic rates: an
-    experiment using a Detect Merlin True 3D radar at the Strait of Gibraltar
+    How radar distance influences detectability and migration traffic rates: an experiment using a Detect Merlin True 3D radar at the Strait of Gibraltar
   authors:
     - Gonzalo Munoz Arroyo
     - Javier Vidao
@@ -89,8 +88,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    Simulation-informed migration forecasting to improve and understand
-    predictions of rare migration peaks
+    Simulation-informed migration forecasting to improve and understand predictions of rare migration peaks
   authors:
     - Bart Hoekstra
     - Emiel van Loon
@@ -115,8 +113,7 @@
     - Weather radar
     - Methodological advances
   title: >
-    Using the new getRad R package to process open weather radar data in an
-    operational pipeline
+    Using the new getRad R package to process open weather radar data in an operational pipeline
   authors:
     - Bart Kranstauber
     - Berend Wijers
@@ -143,8 +140,7 @@
     - Tracking radar
     - Spatial temporal movement processes
   title: >
-    Directional patterns of nocturnal bird migration over the Netherlands:
-    Insights from combining bird radars
+    Directional patterns of nocturnal bird migration over the Netherlands: Insights from combining bird radars
   authors:
     - Bart Kranstauber
     - Hans van Gasteren
@@ -200,8 +196,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    Integrating BirdFlow into BirdCast migration alerts: Towards
-    species-specific risk
+    Integrating BirdFlow into BirdCast migration alerts: Towards species-specific risk
   authors:
     - Ethan Plunkett
     - Yangkang Chen
@@ -232,8 +227,7 @@
     - Biodiversity monitoring
     - Animal behaviour
   title: >
-    Quantifying intercontinental migratory insect flows across the Strait of
-    Gibraltar
+    Quantifying intercontinental migratory insect flows across the Strait of Gibraltar
   authors:
     - Siméon Béasse
     - Alejandro Onrubia
@@ -255,8 +249,7 @@
     - Biodiversity monitoring
     - Animal behaviour
   title: >
-    Is southward return migration viable? Resolving the mystery of autumnal
-    insect migrations from Northeast China
+    Is southward return migration viable? Resolving the mystery of autumnal insect migrations from Northeast China
   authors:
     - Boya Gao
     - Sun Wei
@@ -280,8 +273,7 @@
     - Spatial temporal movement processes
     - Animal behaviour
   title: >
-    Fog and blue content of artificial light mediate bird attraction during
-    nocturnal migration
+    Fog and blue content of artificial light mediate bird attraction during nocturnal migration
   authors:
     - Carrie Ann Adams
     - Miguel F. Jimenez
@@ -303,8 +295,7 @@
     - Weather radar
     - Ecological forecasting
   title: >
-    What goes up must come down: Using weather surveillance radar data to
-    forecast migratory birds banded on the ground
+    What goes up must come down: Using weather surveillance radar data to forecast migratory birds banded on the ground
   authors:
     - Carolyn Burt
     - Sara Morris
@@ -371,8 +362,7 @@
     - Tracking radar
     - Animal behaviour
   title: >
-    Using corresponding radar and ringing data to explore migratory decisions of
-    songbirds
+    Using corresponding radar and ringing data to explore migratory decisions of songbirds
   authors:
     - Tsafra Evra
     - Daniel Bloche
@@ -412,8 +402,7 @@
     - Methodological advances
     - Applied radar aeroecology
   title: >
-    Seeing double: Concurrent dual-frequency observations of aerial migration
-    with CSU-CHILL
+    Seeing double: Concurrent dual-frequency observations of aerial migration with CSU-CHILL
   authors:
     - Dylan Osterhaus
     - Patrick Kennedy
@@ -471,8 +460,7 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    Bird migration over the North Sea: Integrating radar and camera data to
-    assess avian interactions with offshore wind farms
+    Bird migration over the North Sea: Integrating radar and camera data to assess avian interactions with offshore wind farms
   authors:
     - Erik Fritz
     - Sam Ordeman
@@ -498,8 +486,7 @@
     - Spatial temporal movement processes
     - Biodiversity monitoring
   title: >
-    Long-term trends in migratory landbird stopover distribution following 13
-    years of changes in the contiguous United States
+    Long-term trends in migratory landbird stopover distribution following 13 years of changes in the contiguous United States
   authors:
     - Fengyi Guo
     - Jeffery Buler
@@ -513,8 +500,7 @@
   contributiontype: Poster
   orcid: 0000-0001-9473-0837
   title: >
-    Large-scale synchrony of the autumn bird migration in Baden-Württemberg,
-    Germany
+    Large-scale synchrony of the autumn bird migration in Baden-Württemberg, Germany
   authors:
     - Herbert Stark
     - Felix Liechti
@@ -534,8 +520,7 @@
     - Applied radar aeroecology
     - Biodiversity monitoring
   title: >
-    Preliminary assessment of the Detect Merlin True 3D radar to monitor bird
-    migration across the Strait of Gibraltar.
+    Preliminary assessment of the Detect Merlin True 3D radar to monitor bird migration across the Strait of Gibraltar.
   authors:
     - Gonzalo Munoz Arroyo
     - Javier Vidao
@@ -562,8 +547,7 @@
     - Tracking radar
     - Applied radar aeroecology
   title: >
-    Predicting bird trajectories using avian radar data and deep learning models
-    to improve wildlife strike prevention
+    Predicting bird trajectories using avian radar data and deep learning models to improve wildlife strike prevention
   authors:
     - Graciela de Cuba
     - Isabel Metz
@@ -583,8 +567,7 @@
     - Weather radar
     - Applied radar aeroecology
   title: >
-    Estimating relative collision risk for migratory birds with wind turbines
-    along the St. Lawrence River, Quebec, Canada
+    Estimating relative collision risk for migratory birds with wind turbines along the St. Lawrence River, Quebec, Canada
   authors:
     - Greg Mitchell
     - Ana Diaz
@@ -600,8 +583,7 @@
     - Tracking radar
     - Applied radar aeroecology
   title: >
-    Simulation hits reality: How simulated wildlife strikes correspond to
-    collisions observed at an air base
+    Simulation hits reality: How simulated wildlife strikes correspond to collisions observed at an air base
   authors:
     - Hans van Gasteren
     - Isabel Metz
@@ -617,7 +599,8 @@
     - Insects
     - Other radar
     - Methodological advances
-  title: Detecting trends in flying insects from long-term cloud radar observations
+  title: >
+    Detecting trends in flying insects from long-term cloud radar observations
   authors:
     - Heike Kalesse-Los
     - Moritz Lochmann
@@ -640,8 +623,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    An operational system for real-time bird migration monitoring and
-    forecasting for military aviation
+    An operational system for real-time bird migration monitoring and forecasting for military aviation
   authors:
     - Mats Veldhuizen
     - Bastiaan Anker
@@ -670,8 +652,7 @@
     - Spatial temporal movement processes
     - Biodiversity monitoring
   title: >
-    Long-term phenology shifts and barrier-driven weather selective departure
-    decisions in nocturnal bird migration over South Korea
+    Long-term phenology shifts and barrier-driven weather selective departure decisions in nocturnal bird migration over South Korea
   authors:
     - Hwayeon Kang
     - Chang-Yong Choi
@@ -714,8 +695,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    WaterFowl Alert Network: Predicting waterfowl distributions within major
-    flyways of the USA from models trained on weather surveillance radar data
+    WaterFowl Alert Network: Predicting waterfowl distributions within major flyways of the USA from models trained on weather surveillance radar data
   authors:
     - Jeffrey Buler
     - Tristan Bond
@@ -732,8 +712,7 @@
   lastname: Follett
   contributiontype: Poster
   title: >
-    Operational use of avian radar to identify, predict, and respond to flocking
-    waterfowl hazards
+    Operational use of avian radar to identify, predict, and respond to flocking waterfowl hazards
   authors:
     - Jeff Follett
     - David Bradbeer
@@ -771,8 +750,7 @@
     - Tracking radar
     - Applied radar aeroecology
   title: >
-    Radar-controlled Shutdown on Demand to minimize collisions of migrating
-    birds in a coastal wind farm
+    Radar-controlled Shutdown on Demand to minimize collisions of migrating birds in a coastal wind farm
   authors:
     - Jente Kraal
     - Koosje Lamers
@@ -821,8 +799,7 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    The mechanisms of field flight behaviors in nocturnal insects in the
-    Southern North China Plain, China
+    The mechanisms of field flight behaviors in nocturnal insects in the Southern North China Plain, China
   authors:
     - Jian Ma
     - Jianrong Huang
@@ -849,9 +826,7 @@
     - Tracking radar
     - Applied radar aeroecology
   title: >
-    Integration of bird radar, visual observation and acoustic recordings to
-    inform collision risk modelling of bird species in a remote site in the
-    Pilbara, Western Australia
+    Integration of bird radar, visual observation and acoustic recordings to inform collision risk modelling of bird species in a remote site in the Pilbara, Western Australia
   authors:
     - Jill Shephard
     - Karen J. Riley
@@ -870,8 +845,7 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    Integrated monitoring of avian behaviour around wind turbines: Insights from
-    the Zwarte Wiek and ZWEMT projects
+    Integrated monitoring of avian behaviour around wind turbines: Insights from the Zwarte Wiek and ZWEMT projects
   authors:
     - Joep Breuer
   abstract: |
@@ -897,8 +871,7 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    Physics-based simulation and inference of flapping-wing kinematics from FMCW
-    micro-doppler radar
+    Physics-based simulation and inference of flapping-wing kinematics from FMCW micro-doppler radar
   authors:
     - Johannes Nüesch
     - Felix Liechti
@@ -972,8 +945,7 @@
     - Biodiversity monitoring
     - Animal behaviour
   title: >
-    Species-level bat identification from radar using micro-doppler and acoustic
-    ground-truthing
+    Species-level bat identification from radar using micro-doppler and acoustic ground-truthing
   authors:
     - Kseniia Kravchenko
     - Dominik Kleger
@@ -1003,8 +975,7 @@
     - Biodiversity monitoring
     - Lidar
   title: >
-    Compact entomological lidars for comparative seasonal surveillance of free
-    flying insects over ground
+    Compact entomological lidars for comparative seasonal surveillance of free flying insects over ground
   authors:
     - Katrine Gerassimovitch Eskildsen
     - Leonard De Causmaecker
@@ -1033,8 +1004,7 @@
     - Spatial temporal movement processes
     - Using unique offshore tracking radar network
   title: >
-    Regional synchrony and directional coherence in offshore nocturnal bird
-    migration
+    Regional synchrony and directional coherence in offshore nocturnal bird migration
   authors:
     - Maja Bradarić
     - Emiel van Loon
@@ -1056,8 +1026,7 @@
     - Methodological advances
     - Biodiversity monitoring
   title: >
-    Integrating localized flight call detections and radar-derived trajectories
-    to study nocturnal avian migration
+    Integrating localized flight call detections and radar-derived trajectories to study nocturnal avian migration
   authors:
     - Mason Maron
     - Benjamin Van Doren
@@ -1120,8 +1089,7 @@
     - Weather radar
     - Methodological advances
   title: >
-    Radial velocity-induced biases in aeroecological products derived from
-    C-band weather radar data
+    Radial velocity-induced biases in aeroecological products derived from C-band weather radar data
   authors:
     - Nadja Weisshaupt
     - Jarmo Koistinen
@@ -1149,8 +1117,7 @@
     - Methodological advances
     - Spatial temporal movement processes
   title: >
-    Active navigation and meteorological selectivity drive insect migration
-    patterns through the Levant
+    Active navigation and meteorological selectivity drive insect migration patterns through the Levant
   authors:
     - Yuval Werber
     - Elior Adin
@@ -1172,8 +1139,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    Mapping bird migration in space and time to support sustainable wind energy
-    development in Norway
+    Mapping bird migration in space and time to support sustainable wind energy development in Norway
   authors:
     - Øyvind Nyheim
     - Bart Hoekstra
@@ -1221,8 +1187,7 @@
     - Other radar
     - Biodiversity monitoring
   title: >
-    Biological classification of vertical-looking radar data using convolutional
-    neural networks
+    Biological classification of vertical-looking radar data using convolutional neural networks
   authors:
     - Paraskevi Nousi
     - Elske Tielens
@@ -1242,8 +1207,7 @@
     - Weather radar
     - Spatial temporal movement processes
   title: >
-    Identifying potential ecological traps for migratory insects along the West
-    Coast of North America
+    Identifying potential ecological traps for migratory insects along the West Coast of North America
   authors:
     - Peter Coggan
     - Santiago Ramirez
@@ -1261,8 +1225,7 @@
     - Methodological advances
     - Spatial temporal movement processes
   title: >
-    Three-dimensional reconstruction of bird density using inverse weather radar
-    modeling
+    Three-dimensional reconstruction of bird density using inverse weather radar modeling
   authors:
     - Raphaël Nussbaumer
     - Baptiste Schmid
@@ -1286,8 +1249,7 @@
     - Applied radar aeroecology
     - Biodiversity monitoring
   title: >
-    No effect of agri-environment schemes on radar-measured aerial insect
-    abundance at landscape scale in England
+    No effect of agri-environment schemes on radar-measured aerial insect abundance at landscape scale in England
   authors:
     - Reuben O'Connell-Booth
     - Tommy Matthews
@@ -1328,8 +1290,7 @@
     - Methodological advances
     - Animal behaviour
   title: >
-    Simulating bird flight through offshore wind farms: An agent-based modelling
-    approach
+    Simulating bird flight through offshore wind farms: An agent-based modelling approach
   authors:
     - Sam Ordeman
     - Erik Fritz
@@ -1372,8 +1333,7 @@
     - Other radar
     - Methodological advances
   title: >
-    Serendipitous detections from EarthCARE Cloud Profiling Radar provide first
-    global climatologies of flying insects
+    Serendipitous detections from EarthCARE Cloud Profiling Radar provide first global climatologies of flying insects
   authors:
     - Shannon Mason
     - Robin Hogan
@@ -1402,8 +1362,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    Annual intercontinental dynamics of passerine migration across the Strait of
-    Gibraltar
+    Annual intercontinental dynamics of passerine migration across the Strait of Gibraltar
   authors:
     - Siméon Béasse
     - Alejandro Onrubia
@@ -1426,8 +1385,7 @@
     - Applied radar aeroecology
     - Biodiversity monitoring
   title: >
-    Assessing migratory bat movements across seasons and years in Central Europe
-    using vertical-looking radar and acoustic monitoring
+    Assessing migratory bat movements across seasons and years in Central Europe using vertical-looking radar and acoustic monitoring
   authors:
     - Silvia Giuntini
     - Janine Aschwanden
@@ -1449,8 +1407,7 @@
     - Weather radar
     - Methodological advances
   title: >
-    Taxonomic resolution in dual-polarisation weather radar observations of
-    biological scatterers: a simulation-grounded exploration
+    Taxonomic resolution in dual-polarisation weather radar observations of biological scatterers: a simulation-grounded exploration
   authors:
     - Tommy Matthews
     - Ryan Neely
@@ -1492,8 +1449,7 @@
     - Methodological advances
     - Spatial temporal movement processes
   title: >
-    What can and cannot be inferred from single- and multiple-point observations
-    of ‘migration in progress’?
+    What can and cannot be inferred from single- and multiple-point observations of ‘migration in progress’?
   authors:
     - V. Alistair Drake
   abstract: |
@@ -1511,8 +1467,7 @@
     - Spatial temporal movement processes
     - Animal behaviour
   title: >
-    Cross the sea or follow the coast? Results from 3 years of data along the
-    Gulf of Lion, French Mediterranean Sea
+    Cross the sea or follow the coast? Results from 3 years of data along the Gulf of Lion, French Mediterranean Sea
   authors:
     - Vincent Delcourt
     - Hélène Schopper
@@ -1531,8 +1486,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    Simultaneous offshore and inshore radar recordings bring new insights into
-    bird migration at the Gulf of Lions scale
+    Simultaneous offshore and inshore radar recordings bring new insights into bird migration at the Gulf of Lions scale
   authors:
     - Vincent Delcourt
     - Camille Assali
@@ -1562,8 +1516,7 @@
     - Applied radar aeroecology
     - Animal behaviour
   title: >
-    A local and regional spatial analysis of bird stopover distributions in the
-    Great Lakes basin
+    A local and regional spatial analysis of bird stopover distributions in the Great Lakes basin
   authors:
     - Virginia Halterman
     - Fengyi Guo
@@ -1583,8 +1536,7 @@
     - Insects
     - Spatial temporal movement processes
   title: >
-    Insect biomass plays an important role in seasonal migration intensity of
-    passerines in Europe
+    Insect biomass plays an important role in seasonal migration intensity of passerines in Europe
   authors:
     - Xiaodan Wang
     - Siméon Béasse
@@ -1625,7 +1577,8 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
     - Animal behaviour
-  title: Crossings and altitudes used by migratory birds around the Baltic Sea
+  title: >
+    Crossings and altitudes used by migratory birds around the Baltic Sea
   authors:
     - Yohan Sassi
     - Fausto Dal Monte
@@ -1643,8 +1596,7 @@
     - Weather radar
     - Biodiversity monitoring
   title: >
-    Novel estimates of nocturnal bird migration traffic at the continental scale
-    using participatory science data
+    Novel estimates of nocturnal bird migration traffic at the continental scale using participatory science data
   authors:
     - Yuting Deng
     - Ethan Plunkett
@@ -1667,8 +1619,7 @@
     - Spatial temporal movement processes
     - Migration
   title: >
-    Millions of bats migrate along two continental flyways in Europe and the
-    Middle East
+    Millions of bats migrate along two continental flyways in Europe and the Middle East
   authors:
     - Yuval Werber
     - Johannes De Groeve
@@ -1697,8 +1648,7 @@
     - Applied radar aeroecology
     - Spatial temporal movement processes
   title: >
-    Synoptic state alters flock migration patterns through a bottleneck in the
-    Levant
+    Synoptic state alters flock migration patterns through a bottleneck in the Levant
   authors:
     - Yuval Werber
     - Asaf Hochman
