@@ -1605,15 +1605,14 @@
     - Methodological advances
     - Spatial temporal movement processes
   title: >
-    Cross-calibration of weather radar and insect radars for quantifying aerial
-    insect movements
+    Preliminary patterns of insect and bird migration observed by the Chinese weather radar network
   authors:
     - Xu Shi
     - Boya Gao
     - Gao Hu
     - Jason Chapman
   abstract: |
-    Weather radars are increasingly used worldwide to study the aerial movements and abundance of airborne insects. However, these applications often rely on broad assumptions about differences in self-powered airspeed and seasonality to distinguish insects from birds, and average radar cross-section (RCS) values across diverse insect taxa for quantification. Rigorous ground-truth validation are still lacking, making it difficult to quantify the accuracy, biases, and uncertainties associated with weather radar derived insect estimates. In particular, small deviations in assumed body size or species composition of airborne insects can substantially alter average RCS, and therefore strongly influence estimates of insect abundance and biomass. To address this gap, we will compare and validate weather radar observations with nearby entomological radars and aerial sampling data, collating data from three sites along a latitudinal gradient in East China. Our goals are to (1) use insect-radar and aerial sampling data to derive day- and night-time RCS distributions across taxa and size classes, (2) extract insect density at hourly and seasonal scales from weather radar and (3) evaluate the consistency of these estimates against insect radar measurements and aerial sampling. These results will be used to refine weather-radar-based estimates of insect abundance and biomass, and to develop guidance for future large-scale insect migration studies.
+    Weather radars are increasingly used worldwide to investigate the abundance and movement of airborne insects and birds. China operates the world’s largest weather radar network, comprising more than 240 radars distributed across the country, with particularly extensive coverage in central and eastern China. However, the ecological use of these data remains experimental, and large-scale patterns of bird and insect movement have rarely been reported, due to challenges including restricted access and technological differences among radar systems. To explore broad-scale migration patterns, we selected ten S-band radars along a latitudinal gradient and ten along a longitudinal gradient (19 radars in total) and extracted bird and insect migration patterns. Initial results reveal distinct seasonal and diel patterns. Insect movement during daytime occurs predominantly during the warmer months, whereas bird movement is concentrated at night during the spring and autumn migration seasons. Nocturnal insect movement also appears to co-occur with bird migration to some extent. However, separating these signals remains challenging and requires further investigation, particularly through cross-validation with dedicated vertical-looking insect radars and other independent observations. These exploratory results demonstrate both the potential and the methodological challenges of using China's weather radar network to study the aerial ecology in this region. Continued development of biological-signal classification and validation methods could establish this network as an important resource for understanding bird and insect movement across East Asia.
 
 - key: yosa
   firstname: Yohan
