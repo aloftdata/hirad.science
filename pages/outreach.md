@@ -7,6 +7,9 @@ toc: true
 
 ## 2026
 
+**Bauer S** (2026) Wetter-Radardaten können Vögel vor Windrädern schützen.
+[SRF 4 News](https://www.srf.ch/wissen/technik/windkraft-ohne-vogeltod-wetter-radardaten-koennen-voegel-vor-windraedern-schuetzen), Zurich, 10 June 2026. _Radio interview_{:.badge .bg-secondary}
+
 **Shamoun-Baranes J** (2026) Birds, storms and wind farms: The science of aeroecology. [Paramount Importance](https://www.paramountimportance.com/content?type=Podcast) (episode 44), Perth, 18 May 2026. [YouTube](https://youtu.be/V9Cilf2Zz5A?si=UP9wMZrAGxJttlfT), [Spotify](https://open.spotify.com/episode/70SBIoewpaJBfyqBmjupbs?si=1b21f4f5f4fb4fa5), [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-44-birds-storms-and-wind-farms-the-science/id1455601875?i=1000768420046). _Podcast_{:.badge .bg-secondary}
 
 **Kranstauber B** (2026) Young AI talent for biodiversity. [2026 AI Cup Final](https://aic4nl.nl/en/congres-break-out/finale-ai-cup-2026-jong-ai-talent-voor-biodiversiteit/), Utrecht, 14 April 2026. _Jury member_{:.badge .bg-secondary}
