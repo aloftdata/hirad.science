@@ -816,24 +816,6 @@
 
     Future work will integrate pressure-level meteorological data from the ERA5 dataset (e.g., wind speed, temperature, air pressure) to match the real-time meteorological conditions during individual insect flight, aiming to further dissect the correlation mechanisms between insects' selection of takeoff/landing timing, layered altitude, and meteorological factors by generalized additive model. This study quantifies migratory insects' flight behavioral indicators, enhancing understanding of nocturnal insect migration. It provides a theoretical basis for accurate trajectory prediction and early warning of migratory pests, with important practical implications for agricultural pest management and biodiversity conservation.
 
-- key: jish
-  firstname: Jill
-  lastname: Shephard
-  contributiontype: Presentation
-  orcid: 0000-0002-4418-9891
-  keywords:
-    - Birds
-    - Tracking radar
-    - Applied radar aeroecology
-  title: >
-    Integration of bird radar, visual observation and acoustic recordings to inform collision risk modelling of bird species in a remote site in the Pilbara, Western Australia
-  authors:
-    - Jill Shephard
-    - Karen J. Riley
-    - Patricia A. Fleming
-  abstract: |
-    In the next 10-15 years proposed onshore wind turbine projects in Western Australia will construct and commission nearly 5500 turbines, 2.5 times the number that are currently in operation. This rapid upscaling has revealed significant knowledge gaps around flight aerodynamics and flight heights in Australian bird species. Typically, flight height data are estimated using unverified visual observations, are concentrated on large, obvious bird species, are reliant on skilled observers and can be dependent on logistical constraints such as road access (and therefore proximity to the bird observed). High-resolution GPS-tracking have also been used to model flight dynamics and height, but these data must be corrected to remove cumulative horizontal and vertical error.  Bird radar offers an alternate approach. We have used two Robin Radar MAX ® x-band bird radar systems to map bird activity and flight heights at a proposed wind farm in the Pilbara, Western Australia. The area is remote with summer temperatures in the high 40 degrees Celsius. Eight seasonal observations surveys between 2023 and 2025 identified 123 species within the development area, of which 109 have flight height data, and 23 were in the proposed rotor swept area. Concurrent field-based visual validation of radar tracks has allowed the annotation of 690 flight tracks across 26 species with forward and backward track extension in post-processing capturing over 93,000 radar points and 1,698 minutes of flight data, enough to facilitate standard movement ecology analyses in 50% of species. Additionally, acoustic records have given the opportunity to assign presence to species ascribed as clutter by radar classification. These analyses are ongoing with future analysis concentrating on AI assisted species identification informed by labelled track data, realised and modelled flight aerodynamics, and flight modalities. These data will be used to populate collision risk models and represent one of very few studies utilising radar technology in Australia.
-
 - key: jobr
   firstname: Joep
   lastname: Breuer
