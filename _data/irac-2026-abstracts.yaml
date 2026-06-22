@@ -1286,25 +1286,6 @@
 
     This multidisciplinary initiative fosters collaboration across technical and ecological domains. The outcomes are expected to inform evidence-based guidelines for the sustainable development of offshore wind energy, balancing the imperatives of renewable energy generation with the conservation of migratory bird populations.
 
-- key: shcu
-  firstname: Shannon
-  lastname: Curley
-  contributiontype: Presentation
-  orcid: 0000-0002-6088-398X
-  keywords:
-    - Birds
-    - Weather radar
-    - Applied radar aeroecology
-  title: >
-    Analysis of aerofauna movement using Canadian S-band weather radar
-  authors:
-    - Shannon Curley
-    - Paul Knaga
-    - Greg Mitchell
-    - Adriaan Dokter
-  abstract: |
-    We analyzed five years of data from five coastal weather surveillance radars to quantify the magnitude, timing, and altitude of landbird migration across offshore regions of Atlantic Canada. Offshore wind development is expanding rapidly in this region and may overlap with important migration corridors. By describing spatial and temporal offshore movements, our goal was to inform wind energy siting and identify periods and areas of elevated collision risk. We quantified terrestrial and offshore migration at two radars in Newfoundland and one in northern Nova Scotia; two additional radars in New Brunswick and central Nova Scotia were used to quantify terrestrial migration only. Migration intensity varied strongly by region. Offshore migration was very low in eastern Newfoundland (~1,500 birds/km/season in spring and ~3,300 in fall), suggesting this area represents the eastern edge of major migration pathways. In contrast, offshore movements across the Cabot Strait were substantial, averaging 130,879 birds/km/season at CASMM and 36,171 at CASMB. Similarly, migration across the Gulf of St. Lawrence was pronounced, with mean values exceeding 118,000 birds/km/season in both spring and fall at CASMM. Spring migration in Newfoundland and fall migration in northern Nova Scotia frequently showed two consecutive nocturnal peaks in migration intensity, one in the early night related to departing birds, and a second peak later in the night related to birds arriving after a sea crossing. These double peaks were equally pronounced in terrestrial and offshore data at CASMB, indicating that offshore routes are a common integral part of the migration system in this part of Atlantic Canada. We found limited evidence for strong seasonal differences in offshore migration magnitude, contrasting with terrestrial migration, which was on average 112% higher, and with prior studies along the U.S. Atlantic coast. In both spring and fall, 50% of offshore passage occurred within only a few nights, while 90% of passage was concentrated within a 2–3-month period. This temporal clustering highlights opportunities for forecast-based curtailment to reduce collision risk while minimizing operational downtime. These results provide actionable guidance for offshore wind planning and operation in Atlantic Canada.
-
 - key: shma
   firstname: Shannon
   lastname: Mason
