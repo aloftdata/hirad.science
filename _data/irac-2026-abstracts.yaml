@@ -574,9 +574,9 @@
   abstract: |
     Canada’s wind energy capacity increased by 35% between 2019 and 2024 with 341 active wind energy projects consisting of more than 6700 turbines. Further, the number of wind turbines is projected to increase by more than 1000 by 2030. Unfortunately, many of the new wind turbines have blades extending 200 m into the aerosphere above ground level, posing a collision risk for migratory birds engaged in low altitude flights and there is currently no information on relative collision risk among locations within Canada. One region where significant investment in terrestrial wind energy turbines is expected to occur is along the St. Lawrence River in Quebec, Canada. As a first step towards quantifying relative collision risk for nocturnal migrants with wind energy infrastructure along the St. Lawrence River, we estimated migration traffic rates for spring and fall migration for 3-5 years of weather radar data from seven s-band weather radars in Canada (one from Ontario, five from Quebec, and one from New Brunswick) and three radars in the USA (one in New York, one in Vermont, and one in Maine). Three of the radars in Quebec are situated directly along the St. Lawrence River. We compare seasonal migration traffic rates and direction of flight within the 100-200 m altitudinal bin above ground level across radars to determine if collision risk is higher along the St. Lawrence River as opposed to regions not directly adjacent the river. In doing so, we also assess whether the St. Lawrence River functions as a migratory corridor in Canada. Last, we assess the weather conditions resulting in low altitudinal flights. The results of this study will be used by policy makers in Canada to help inform placement of wind turbines and mitigate collision risk.
 
-- key: hava
-  firstname: Hans
-  lastname: van Gasteren
+- key: isme
+  firstname: Isabel
+  lastname: Metz
   contributiontype: Presentation
   keywords:
     - Birds
