@@ -7,6 +7,10 @@ toc: true
 
 ## 2026
 
+**Bauer S** (2026) Éoliennes et oiseaux: des solutions pour limiter les collisions. [Radio Télévision Suisse (RTS)](https://www.rts.ch/play/tv/redirect/detail/8500c286-d6c1-3374-a7c8-293ee5ae357e), Geneva, 22 June 2026. _Television interview_{:.badge .bg-secondary}
+
+**Bauer S** (2026) Vogelschutz: Wetterradardaten sollen Kollisionen verhindern. [Deutschlandfunk](https://www.deutschlandfunk.de/vogelschutz-wetterradardaten-sollen-kollisionen-verhindern-100.html), Cologne, 18 June 2026. _Radio interview_{:.badge .bg-secondary}
+
 **Bauer S** (2026) Wetter-Radardaten können Vögel vor Windrädern schützen.
 [SRF 4 News](https://www.srf.ch/wissen/technik/windkraft-ohne-vogeltod-wetter-radardaten-koennen-voegel-vor-windraedern-schuetzen), Zurich, 10 June 2026. _Radio interview_{:.badge .bg-secondary}
 
