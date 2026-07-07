@@ -65,7 +65,7 @@
 - name: Pieter Huybrechts
   image: https://avatars.githubusercontent.com/u/48065851?v=4
   description: >
-    Pieter is a research software engineer and data scientist affiliated with the [Research Institute for Nature and Forest (INBO)](https://www.vlaanderen.be/inbo/en-gb/). He employs his expertise in R programming and data analysis in contributing to serveral open source software packages.
+    Pieter is a research software engineer and data scientist affiliated with the [Research Institute for Nature and Forest (INBO)](https://www.vlaanderen.be/inbo/en-gb/). He employs his expertise in R programming and data analysis in contributing to several open source software packages.
   orcid: 0000-0002-6658-6062
   email: pieter.huybrechts@inbo.be
   github: PietrH
@@ -117,7 +117,7 @@
 - name: Cecilia Nilsson
   image: assets/images/cecilia-nilsson.jpg
   description: >
-    Cecilia is a behavioral ecologist, working with bird monitoring, flight behviour and radar ornithology. She currently works at [Lund University](https://www.lunduniversity.lu.se/), where she studies large scale patterns of bird migration using data from networks of weather radars.
+    Cecilia is a behavioral ecologist, working with bird monitoring, flight behaviour and radar ornithology. She currently works at [Lund University](https://www.lunduniversity.lu.se/), where she studies large scale patterns of bird migration using data from networks of weather radars.
   orcid: 0000-0001-8957-4411
   email: cecilia.nilsson@biol.lu.se
   researchgate: Cecilia-Nilsson-8
@@ -132,6 +132,15 @@
   orcid: 0000-0002-9293-7145
   email: oyvind.nyheim@nina.no
   researchgate: Oyvind-Nyheim
+
+- name: Luca Pegoraro
+  image: assets/images/luca-pegoraro.jpg
+  description: >
+    Luca is a postdoc at the [University of Zurich](https://www.uzh.ch/en.html) with a background in ecology and evolutionary biology. He is interested in uncovering the link between insect movement and diversity in the air and ecological processes on the gorund. 
+  orcid: 0000-0001-6219-1285
+  email: luca.pegoraro@uzh.ch
+  researchgate: Luca-Pegoraro-3
+  googlescholar: w07Pg5EAAAAJ
 
 - name: Benjamin Rutschmann
   image: assets/images/benjamin-rutschmann.jpg
