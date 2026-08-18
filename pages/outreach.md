@@ -7,6 +7,10 @@ toc: true
 
 ## 2026
 
+**Shamoun-Baranes J**, **Kranstauber B** (2026) Hosting delegation from Tsinghua University, Department of Energy and Power Engineering. Amsterdam, 17 August 2026. _Presentations_{:.badge .bg-secondary}
+
+**Shamoun-Baranes J** (2026) Vogelradars onthullen drukte in de lucht. [Vroege Vogels](https://www.bnnvara.nl/vroegevogels/artikelen/varens-en-alle-overige-onderwerpen) Amersfoort, 9 August 2026. [Spotify](https://open.spotify.com/podcast-chapter/03448ocZyrIWz7kA6zgJoM?si=d3c0a34d790d4f48). _Radio interview_{:.badge .bg-secondary}
+
 **Bauer S** (2026) Éoliennes et oiseaux: des solutions pour limiter les collisions. [Radio Télévision Suisse (RTS)](https://www.rts.ch/play/tv/redirect/detail/8500c286-d6c1-3374-a7c8-293ee5ae357e), Geneva, 22 June 2026. _Television interview_{:.badge .bg-secondary}
 
 **Bauer S** (2026) Vogelschutz: Wetterradardaten sollen Kollisionen verhindern. [Deutschlandfunk](https://www.deutschlandfunk.de/vogelschutz-wetterradardaten-sollen-kollisionen-verhindern-100.html), Cologne, 18 June 2026. _Radio interview_{:.badge .bg-secondary}
