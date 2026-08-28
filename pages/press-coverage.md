@@ -10,6 +10,8 @@ toc: true
 
 Vroege Vogels: [Vogelradars onthullen drukte in de lucht](https://www.bnnvara.nl/vroegevogels/artikelen/varens-en-alle-overige-onderwerpen). Interview with **Shamoun-Baranes J**. 9 August 2026. [Spotify](https://open.spotify.com/podcast-chapter/03448ocZyrIWz7kA6zgJoM?si=d3c0a34d790d4f48) _Radio interview_{:.badge .bg-secondary}
 
+Yle: [Suomen uusin säätutka Saariselällä näyttää jopa miljoonien hyttysten parvet](https://yle.fi/a/74-20232702) (The newest Finnish weather radar in the Saariselkä area shows millions of insects). 22 June 2026. _News article_{:.badge .bg-secondary}
+
 Radio Télévision Suisse (RTS): [Éoliennes et oiseaux: des solutions pour limiter les collisions](https://www.rts.ch/play/tv/redirect/detail/8500c286-d6c1-3374-a7c8-293ee5ae357e). Interview with **Bauer S**. 22 June 2026. _Television interview_{:.badge .bg-secondary}
 
 Deutschlandfunk: [Vogelschutz: Wetterradardaten sollen Kollisionen verhindern](https://www.deutschlandfunk.de/vogelschutz-wetterradardaten-sollen-kollisionen-verhindern-100.html). Interview with **Bauer S**. 18 June 2026. _Radio interview_{:.badge .bg-secondary}
