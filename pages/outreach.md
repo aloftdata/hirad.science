@@ -9,15 +9,6 @@ toc: true
 
 **Shamoun-Baranes J**, **Kranstauber B** (2026) Hosting delegation from Tsinghua University, Department of Energy and Power Engineering. Amsterdam, 17 August 2026. _Presentations_{:.badge .bg-secondary}
 
-**Shamoun-Baranes J** (2026) Vogelradars onthullen drukte in de lucht. [Vroege Vogels](https://www.bnnvara.nl/vroegevogels/artikelen/varens-en-alle-overige-onderwerpen) Amersfoort, 9 August 2026. [Spotify](https://open.spotify.com/podcast-chapter/03448ocZyrIWz7kA6zgJoM?si=d3c0a34d790d4f48). _Radio interview_{:.badge .bg-secondary}
-
-**Bauer S** (2026) Éoliennes et oiseaux: des solutions pour limiter les collisions. [Radio Télévision Suisse (RTS)](https://www.rts.ch/play/tv/redirect/detail/8500c286-d6c1-3374-a7c8-293ee5ae357e), Geneva, 22 June 2026. _Television interview_{:.badge .bg-secondary}
-
-**Bauer S** (2026) Vogelschutz: Wetterradardaten sollen Kollisionen verhindern. [Deutschlandfunk](https://www.deutschlandfunk.de/vogelschutz-wetterradardaten-sollen-kollisionen-verhindern-100.html), Cologne, 18 June 2026. _Radio interview_{:.badge .bg-secondary}
-
-**Bauer S** (2026) Wetter-Radardaten können Vögel vor Windrädern schützen.
-[SRF 4 News](https://www.srf.ch/wissen/technik/windkraft-ohne-vogeltod-wetter-radardaten-koennen-voegel-vor-windraedern-schuetzen), Zurich, 10 June 2026. _Radio interview_{:.badge .bg-secondary}
-
 **Shamoun-Baranes J** (2026) Birds, storms and wind farms: The science of aeroecology. [Paramount Importance](https://www.paramountimportance.com/content?type=Podcast) (episode 44), Perth, 18 May 2026. [YouTube](https://youtu.be/V9Cilf2Zz5A?si=UP9wMZrAGxJttlfT), [Spotify](https://open.spotify.com/episode/70SBIoewpaJBfyqBmjupbs?si=1b21f4f5f4fb4fa5), [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-44-birds-storms-and-wind-farms-the-science/id1455601875?i=1000768420046). _Podcast_{:.badge .bg-secondary}
 
 **Kranstauber B** (2026) Young AI talent for biodiversity. [2026 AI Cup Final](https://aic4nl.nl/en/congres-break-out/finale-ai-cup-2026-jong-ai-talent-voor-biodiversiteit/), Utrecht, 14 April 2026. _Jury member_{:.badge .bg-secondary}
@@ -31,8 +22,6 @@ toc: true
 ## 2025
 
 Béasse S, Sallé L, Coiffard P, **Haest B** (2025) Quantification de la migration nocturne des oiseaux par acoustique: opportunités et défis. [Colloque Francophone d'Ornithologie 2025](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/colloque-francophone-d-ornithologie-2025), Paris, 4-6 December 2025. _Accepted talk_{:.badge .bg-secondary}
-
-**Nilsson C** (2025) [Naturmorgon](https://www.sverigesradio.se/artikel/snart-sovdags-for-bjornen-och-om-goda-och-giftiga-svampar), Stockholm, 11 October 2025. _Radio interview_{:.badge .bg-secondary}
 
 **Shamoun-Baranes J**, **Hoekstra B**, Shinneman S, **Kranstauber B**, De Groeve J, Bradarić M, Skyllas N, Wijers B, Rakhimberdiev E, Geisler J, Cappabianca R, Gadge SR, Manzo E (2025) [Het Grote Amsterdamse Vogel Spel](https://opdering.amsterdam/activity/stad-van-de-toekomst-op-de-ring/), Amsterdam, 21 June 2025. _Event_{:.badge .bg-secondary}
 

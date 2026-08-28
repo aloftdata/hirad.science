@@ -6,6 +6,20 @@ permalink: /press-coverage/
 toc: true
 ---
 
+## 2026
+
+Vroege Vogels: [Vogelradars onthullen drukte in de lucht](https://www.bnnvara.nl/vroegevogels/artikelen/varens-en-alle-overige-onderwerpen). Interview with **Shamoun-Baranes J**. 9 August 2026. [Spotify](https://open.spotify.com/podcast-chapter/03448ocZyrIWz7kA6zgJoM?si=d3c0a34d790d4f48) _Radio interview_{:.badge .bg-secondary}
+
+Radio Télévision Suisse (RTS): [Éoliennes et oiseaux: des solutions pour limiter les collisions](https://www.rts.ch/play/tv/redirect/detail/8500c286-d6c1-3374-a7c8-293ee5ae357e). Interview with **Bauer S**. 22 June 2026. _Television interview_{:.badge .bg-secondary}
+
+Deutschlandfunk: [Vogelschutz: Wetterradardaten sollen Kollisionen verhindern](https://www.deutschlandfunk.de/vogelschutz-wetterradardaten-sollen-kollisionen-verhindern-100.html). Interview with **Bauer S**. 18 June 2026. _Radio interview_{:.badge .bg-secondary}
+
+SRF 4 News: [Wetter-Radardaten können Vögel vor Windrädern schützen](https://www.srf.ch/wissen/technik/windkraft-ohne-vogeltod-wetter-radardaten-koennen-voegel-vor-windraedern-schuetzen). Interview with **Bauer S**. 10 June 2026. _Radio interview_{:.badge .bg-secondary}
+
+## 2025
+
+Naturmorgon: [Episode featuring aeroecology](https://www.sverigesradio.se/artikel/snart-sovdags-for-bjornen-och-om-goda-och-giftiga-svampar). Interview with **Nilsson C**. 11 October 2025. _Radio interview_{:.badge .bg-secondary}
+
 ## 2024
 
 Nature today: [Making wind energy safer for birds](https://www.naturetoday.com/nl/en/nature-reports/message/?msg=32982). 23 October 2024. _News article_{:.badge .bg-secondary}
