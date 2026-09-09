@@ -7,6 +7,8 @@ toc: true
 
 ## 2026
 
+**Weisshaupt N**, Harnist B, Koistinen J (2026) Functionality of meteorological radial velocity processing during bird and insect migration in C-band weather radar data. 13th European conference on RADar in meteorology and hydrology ([ERAD](https://erad2026.rs/)), 24-28 Aug 2026, Belgrade, Serbia. _Accepted talk_{:.badge .bg-secondary}
+
 Béasse S, Onrubia A, Ruiz JL, **Haest B** (2026) Annual intercontinental dynamics of passerine migration across the Strait of Gibraltar. 5th International Radar Aeroecology Conference ([IRAC 2026](/irac-2026/)), Amsterdam, Netherlands, 24-26 June 2026. [Abstract](/irac-2026/abstracts/#sibe). _Accepted talk_{:.badge .bg-secondary}
 
 Béasse S, Onrubia A, Ruiz JL, **Haest B** (2026) Quantifying intercontinental migratory insect flows across the Strait of Gibraltar. 5th International Radar Aeroecology Conference ([IRAC 2026](/irac-2026/)), Amsterdam, Netherlands, 24-26 June 2026. [Abstract](/irac-2026/abstracts/#biha). _Poster_{:.badge .bg-secondary}
