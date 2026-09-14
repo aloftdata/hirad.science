@@ -7,7 +7,9 @@ toc: true
 
 ## 2026
 
-**Weisshaupt N**, Harnist B, Koistinen J (2026) Functionality of meteorological radial velocity processing during bird and insect migration in C-band weather radar data. 13th European conference on RADar in meteorology and hydrology ([ERAD](https://erad2026.rs/)), 24-28 Aug 2026, Belgrade, Serbia. _Accepted talk_{:.badge .bg-secondary}
+**Weisshaupt N**, Harnist B, Koistinen J (2026) Functionality of meteorological radial velocity processing during bird and insect migration in C-band weather radar data. 13th European conference on RADar in meteorology and hydrology ([ERAD](https://erad2026.rs/)), Belgrade, Serbia, 24-28 August 2026. _Accepted talk_{:.badge .bg-secondary}
+
+**Shamoun-Baranes J**, **Kranstauber B** (2026) Hosting delegation from Tsinghua University, Department of Energy and Power Engineering. Amsterdam, Netherlands, 17 August 2026. _Talks_{:.badge .bg-secondary}
 
 Béasse S, Onrubia A, Ruiz JL, **Haest B** (2026) Annual intercontinental dynamics of passerine migration across the Strait of Gibraltar. 5th International Radar Aeroecology Conference ([IRAC 2026](/irac-2026/)), Amsterdam, Netherlands, 24-26 June 2026. [Abstract](/irac-2026/abstracts/#sibe). _Accepted talk_{:.badge .bg-secondary}
 
@@ -63,15 +65,14 @@ Wang X, Béasse S, **Shamoun-Baranes J**, Delcourt V, **Haest B** (2026) Insect 
 
 Werber Y, De Groeve J, Troupin D, Schmid B, Hertner F, **Shamoun-Baranes J**, Boonman A, Yovel Y, Sapir N, **Haest B** (2026) Millions of bats migrate along two continental flyways in Europe and the Middle East. 5th International Radar Aeroecology Conference ([IRAC 2026](/irac-2026/)), Amsterdam, Netherlands, 24-26 June 2026. [Abstract](/irac-2026/abstracts/#yuwe). _Accepted talk_{:.badge .bg-secondary}
 
-**Shamoun-Baranes J**, **Kranstauber B** (2026) Hosting delegation from Tsinghua University, Department of Energy and Power Engineering. Amsterdam, Netherlands 17 August 2026. _Presentations_{:.badge .bg-secondary}
 
 **Shamoun-Baranes J** (2026) Birds, storms and wind farms: The science of aeroecology. [Paramount Importance](https://www.paramountimportance.com/content?type=Podcast) (episode 44), Perth, 18 May 2026. [YouTube](https://youtu.be/V9Cilf2Zz5A?si=UP9wMZrAGxJttlfT), [Spotify](https://open.spotify.com/episode/70SBIoewpaJBfyqBmjupbs?si=1b21f4f5f4fb4fa5), [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-44-birds-storms-and-wind-farms-the-science/id1455601875?i=1000768420046). _Podcast_{:.badge .bg-secondary}
 
 **Kranstauber B** (2026) Young AI talent for biodiversity. [2026 AI Cup Final](https://aic4nl.nl/en/congres-break-out/finale-ai-cup-2026-jong-ai-talent-voor-biodiversiteit/), Utrecht, Netherlands, 14 April 2026. _Jury member_{:.badge .bg-secondary}
 
-**Kranstauber B** (2026) The relevance of understanding, mapping and predicting bird movement for wind energy. [Team epoch AI Cup 2026](https://www.teamepoch.ai/ai-cup-2026), Delft, Netherlands, 13 February 2026. _Invited presentation_{:.badge .bg-secondary}
+**Kranstauber B** (2026) The relevance of understanding, mapping and predicting bird movement for wind energy. [Team epoch AI Cup 2026](https://www.teamepoch.ai/ai-cup-2026), Delft, Netherlands, 13 February 2026. _Invited talk_{:.badge .bg-secondary}
 
-**Kranstauber B**, **van Gasteren H**, **Hoekstra B**, Bradarić M, De Groeve J, van Erp J, **Shamoun-Baranes J** (2026) Directional patterns of nocturnal bird migration over the Netherlands: Insights from combining bird radars. Netherlands Annual Ecology Meeting ([NAEM 2026](https://www.nern.nl/meetings)), Lunteren, Netherlands, 10-11 February 2026. _Accepted presentation_{:.badge .bg-secondary}
+**Kranstauber B**, **van Gasteren H**, **Hoekstra B**, Bradarić M, De Groeve J, van Erp J, **Shamoun-Baranes J** (2026) Directional patterns of nocturnal bird migration over the Netherlands: Insights from combining bird radars. Netherlands Annual Ecology Meeting ([NAEM 2026](https://www.nern.nl/meetings)), Lunteren, Netherlands, 10-11 February 2026. _Accepted talk_{:.badge .bg-secondary}
 
 **Shamoun-Baranes J**, **Kranstauber B**, Shinneman S (2025) Radar aeroecology booth. [Deep Tech Day](https://ibed.uva.nl/shared/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2026/02/bringing-business-and-science-together-at-the-deep-tech-day.html), Amsterdam, Netherlands, 28 January 2026. _Booth at event_{:.badge .bg-secondary}
 
