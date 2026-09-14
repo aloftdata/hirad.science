@@ -65,6 +65,11 @@ Wang X, Béasse S, **Shamoun-Baranes J**, Delcourt V, **Haest B** (2026) Insect 
 
 Werber Y, De Groeve J, Troupin D, Schmid B, Hertner F, **Shamoun-Baranes J**, Boonman A, Yovel Y, Sapir N, **Haest B** (2026) Millions of bats migrate along two continental flyways in Europe and the Middle East. 5th International Radar Aeroecology Conference ([IRAC 2026](/irac-2026/)), Amsterdam, Netherlands, 24-26 June 2026. [Abstract](/irac-2026/abstracts/#yuwe). _Accepted talk_{:.badge .bg-secondary}
 
+**Liechti F**, Nüesch J, Aguettaz H, **Kleger D** (2026) From Radar Blips to Species-Level Aerial Monitoring: Physics-Based Simulation Enables Biological Insight from Micro-Doppler Data. World Biodiversity Forum 2026, Davos, Switzerland, 14–19 June 2026. <https://doi.org/10.5194/wbf2026-478> _Accepted talk_{:.badge .bg-secondary}
+
+**Bauer S**, Nussbaumer R, Rojas Tito DA, **Shamoun-Baranes J**, **Farnsworth A** (2026) Safeguarding aerial migrants need not jeopardize wind energy production. World Biodiversity Forum 2026, Davos, Switzerland, 14–19 June 2026. <https://doi.org/10.5194/wbf2026-992> _Accepted talk_{:.badge .bg-secondary}
+
+**Hoekstra B**, Bradarić M, **Kranstauber B**, **Bauer S**, **Shamoun-Baranes J** (2026) Dynamic aeroconservation for a nature-inclusive energy transition. World Biodiversity Forum 2026, Davos, Switzerland, 14–19 June 2026. <https://doi.org/10.5194/wbf2026-148> _Accepted talk_{:.badge .bg-secondary}
 
 **Shamoun-Baranes J** (2026) Birds, storms and wind farms: The science of aeroecology. [Paramount Importance](https://www.paramountimportance.com/content?type=Podcast) (episode 44), Perth, 18 May 2026. [YouTube](https://youtu.be/V9Cilf2Zz5A?si=UP9wMZrAGxJttlfT), [Spotify](https://open.spotify.com/episode/70SBIoewpaJBfyqBmjupbs?si=1b21f4f5f4fb4fa5), [Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-44-birds-storms-and-wind-farms-the-science/id1455601875?i=1000768420046). _Podcast_{:.badge .bg-secondary}
 
