@@ -7,6 +7,9 @@ toc: true
 
 ## 2026
 
+**Desmet P**, **Huybrechts P**, **Kranstauber B**, **Nilsson C** (2026) How to operationalize large-scale aerial biodiversity monitoring?
+TDWG Annual Conference ([TDWG 2026](https://www.tdwg.org/conferences/2026/)), Oslo, Norway, 21-25 September 2026. [View presentation](https://speakerdeck.com/peterdesmet/how-to-operationalize-large-scale-aerial-biodiversity-monitoring). _Accepted talk_{:.badge .bg-secondary}
+
 **Weisshaupt N**, Harnist B, Koistinen J (2026) Functionality of meteorological radial velocity processing during bird and insect migration in C-band weather radar data. 13th European conference on RADar in meteorology and hydrology ([ERAD](https://erad2026.rs/)), Belgrade, Serbia, 24-28 August 2026. _Accepted talk_{:.badge .bg-secondary}
 
 **Shamoun-Baranes J**, **Kranstauber B** (2026) Hosting delegation from Tsinghua University, Department of Energy and Power Engineering. Amsterdam, Netherlands, 17 August 2026. _Talks_{:.badge .bg-secondary}
