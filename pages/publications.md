@@ -8,6 +8,8 @@ toc: true
 
 ## 2026
 
+Alison J, Pegoraro L, Blair J, Cohen Y, **Haest B**, Idec J, Kamminga J, Lawson J, Li M, Do Nascimento LA, Outhwaite CL, **Rutschmann B**, Sittinger M, Abarca M, August T, Geissmann Q, Guralnick R, Mougeot G, Ștefan V, Bjerge K, Brydegaard M, Høye TT, **Knop E**, Kunin W, Lürig M, Roy D, Svenning A, van Klink R (2026) Insect monitoring without pitfalls: Seven steps for robust insect sensing systems. _Approaches in Entomology: Methods, Philosophies, and Ethics_ 1(1), e70005. <https://doi.org/10.1002/3070-5436.70005>
+
 **Bauer S**, Nussbaumer R, Rojas Tito DA, **Shamoun-Baranes J**, **Farnsworth A** (2026) Bird migration and wind-energy production across Western Europe. _Nature Sustainability_. <https://doi.org/10.1038/s41893-026-01853-4>
 
 ## 2025
